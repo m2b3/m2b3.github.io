@@ -1,0 +1,31 @@
+---
+title: "About the lab"
+---
+
+::: column-margin
+Funding:
+
+::: {#funding}
+::: {layout-ncol="2"}
+![](images/nsercLogo.png){fig-alt="NSERC logo"}
+
+![](images/mcgill.png){fig-alt="McGill logo"}
+
+![](images/cirmmt.png){fig-alt="CIRMMT logo"}
+
+![](images/vhrn.png){fig-alt="VHRN logo"}
+
+![](images/ivado.png){fig-alt="IVADO logo"}
+
+![](images/unique.png){fig-alt="UNIQUE logo"}
+:::
+:::
+:::
+
+We can be reached at this [address](mailto: m2b3.lab@mcgill.ca).
+
+Lab locations
+
+We are located in the [Department of Physiology](https://www.mcgill.ca/physiology/) at McGill, and also work at [CIRMMT](https://www.cirmmt.org/en) (the Center for Interdisciplinary Research in Music and Media Technology), [BRAMS](https://brams.org/) (International laboratory for Brain, Music and Sound Research), the [Neuro](https://www.mcgill.ca/neuro/) (Montreal Neurological Institute) and the [CHUM](https://www.chumontreal.qc.ca/) (Centre hospitalier de l'Université de Montréal).
+
+We are also a part of [UNIQUE](https://www.unique.quebec/) (the Montreal Neuro-AI grouping), the [CRM](https://www.crmath.ca/en/) (Center for Research in Mathematics), the [QBIN](https://rbiq-qbin.qc.ca/) (Quebec Bio-Imaging network), the [VHRN](https://visionnetwork.ca/) (Vision Health Research Network), the [CRIR](https://crir.ca/en/) (Centre for Interdisciplinary Research in Rehabilitation of Greater Montreal), and the [CRBLM](https://crblm.ca/) (Center for Research in Brain, Language and Music).
