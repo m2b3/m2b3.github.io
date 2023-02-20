@@ -26,7 +26,7 @@ website:
       href: join.qmd
     - text: "About"
       href: locate.qmd
-    - text: "French site"
+    - text: "Site français"
       href: https://m2b3.github.io/fr/
 #    - icon: github
 #      href: https://github.com/NASA-Openscapes
