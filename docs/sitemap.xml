@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://m2b3.github.io/index.html</loc>
+    <lastmod>2023-02-22T02:50:23.856Z</lastmod>
+  </url>
+  <url>
     <loc>https://m2b3.github.io/join.html</loc>
-    <lastmod>2023-02-20T00:09:39.304Z</lastmod>
+    <lastmod>2023-02-22T02:50:24.983Z</lastmod>
   </url>
   <url>
     <loc>https://m2b3.github.io/locate.html</loc>
-    <lastmod>2023-02-20T00:09:25.553Z</lastmod>
+    <lastmod>2023-02-22T02:50:26.125Z</lastmod>
   </url>
   <url>
     <loc>https://m2b3.github.io/members.html</loc>
-    <lastmod>2023-02-20T00:09:15.348Z</lastmod>
+    <lastmod>2023-02-22T02:50:46.746Z</lastmod>
   </url>
   <url>
     <loc>https://m2b3.github.io/projects.html</loc>
-    <lastmod>2023-02-20T00:08:43.851Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m2b3.github.io/index.html</loc>
-    <lastmod>2023-02-20T00:08:12.687Z</lastmod>
+    <lastmod>2023-02-22T02:50:47.928Z</lastmod>
   </url>
 </urlset>
