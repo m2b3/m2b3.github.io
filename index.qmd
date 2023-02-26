@@ -19,7 +19,7 @@ We work at the interface between the mind, brain, machines and the external worl
 
 More details on the [Projects](projects.qmd) page.
 
-[![](images/contact.png){fig-alt="Lab members" fig-align=left}](members.qmd)
+[![](images/contactsm.png){fig-alt="Lab members" fig-align=left}](members.qmd)
 
 
 
