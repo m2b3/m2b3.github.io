@@ -15,7 +15,7 @@ output:
 
 ### Undergraduates
 
-* McGill undergraduates are welcome as mentored independent research students, or via research courses like PHGY 396, COGS 444 D1/D2, PSYC 395/494, COMP 401, etc. There are programming-based data-analysis/theoretical projects for those with programming skills and human psychophysics-based projects for those with an interest in that. There are also projects related to music. Please send your CV and transcript to this [e-mail](mailto: m2b3.lab@mcgill.ca). 
+* McGill undergraduates are welcome as mentored independent research students, or via research courses like PHGY 396, COGS 444 D1/D2, PSYC 395/494, COMP 401, NSCI 420 etc. There are programming-based data-analysis/theoretical projects for those with programming skills and human psychophysics-based projects for those with an interest in that. There are also projects related to music. Please send your CV and transcript to this [e-mail](mailto: m2b3.lab@mcgill.ca). 
 
 * There are several possible fellowships for international undergrads from under-represented countries, including [here](https://www.educanada.ca/scholarships-bourses/can/institutions/asean-anase.aspx?lang=eng), [here](https://www.educanada.ca/scholarships-bourses/can/institutions/study-in-canada-sep-etudes-au-canada-pct.aspx?lang=eng), and [here](https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx?lang=eng). 
 
