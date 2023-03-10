@@ -2,6 +2,8 @@
 ::: column-margin
 **News**
 
+**Mar 2023** - The team of Anais, Amanda, Yohai and Ula has been awarded a CIRMMT student award to work on their music performance project.
+
 **Jan 2023** - If you have programming skills,  are interested in a  paid summer internship (June-July-August), and are relatively new to open-source, get in touch - we may have 2 or more [Google Summer of Code projects](projects.qmd){#google-summer-of-code-2023} available.
 
 **Jan 2023** - Yohai and Oren get VHRN recruitment awards. Congrats both !
