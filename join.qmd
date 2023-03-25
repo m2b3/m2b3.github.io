@@ -11,6 +11,8 @@ output:
 
 * We are friendly, kind, collaborative, personalized, accommodative, inclusive, supportive and dedicated to both scientific and individual progress. And fun. All are actively welcome, and especially anyone who may not have felt welcome in the past. We value diversity.
 
+* At the moment, we are particularly looking for those (at all levels) with interest in, as well as skills and backgrounds suited to quantitative neural data analysis and computational neuroscience.
+
 * If interested, please send your CV and transcript to this [address](mailto: m2b3.lab@mcgill.ca), along with a brief note outlining why you are interested in the lab.
 
 ### Undergraduates
@@ -21,7 +23,9 @@ output:
 
 ### Masters and PhD
 
-* Graduate students (Masters and PhD) can apply via either the Physiology graduate program or the IPN program - the preferred option depends on each individual circumstance. For some applicants, the QLS program may also be a good option. McGill allows applicants to apply for two programs with one application fee.  We are particularly interested in those who feel comfortable thinking quantitatively; however, this is not a necessary criterion and depending on the projects available, slots for those with other skills may also be available.
+* Potential graduate students (Masters and PhD) can apply via either the Physiology graduate program or the IPN program - the preferred option depends on each individual circumstance. For some applicants, the QLS program may also be a good option. McGill allows applicants to apply for two programs with one application fee.  We are particularly interested in those who feel comfortable thinking quantitatively; however, this is not a necessary criterion and depending on the projects available, slots for those with other skills may also be available.
+
+* For potential Masters students, and especially international Masters students, there are very strong reasons to apply via the Physiology program - this program is very flexible, highly-rated and gives essentially the same graduate experience (or better) compared to the other possibilities at McGill. You can apply to two graduate programs at McGill when you pay one application fee. International students, please note that that Physiology program has much earlier deadlines - consult [this webpage](https://www.mcgill.ca/gradapplicants/programs/physiology) for more details (towards the end).
 
 * There are several fellowships available for graduate student applicants from specific countries. Specific examples, taken from [this source](https://www.mcgill.ca/gps/funding/international-student-postdoctoral-funding-opportunities/international), are Greece, China,  Mexico, UAE, Ghana, Tunisia, Egypt, Chile and differential fee waivers for students from India, Brazil etc. (these lists are not complete). French students have a full differential fee waiver. There are possibilities for students from even more countries listed [here](https://www.mcgill.ca/gps/funding/international-student-postdoctoral-funding-opportunities/opportunities-available-through-international-agencies).
 
