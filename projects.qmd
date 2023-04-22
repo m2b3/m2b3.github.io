@@ -3,9 +3,6 @@ title: "Projects"
 editor: visual
 ---
 
-Jan 2023 - If you have programming skills, are interested in a paid summer internship (June-July-August), and are relatively new to open-source, get in touch - we may have 2 or more Google Summer of Code projects available. More details at the end of this page.
-
-------------------------------------------------------------------------
 
 We work at the interface between the mind, brain, machines and the external world, using behavioral measurements (including eye-tracking), physiological measurements and computational modeling. We work with humans (and soon with animals, including non-human primates) as well as with open datasets, and much of our research focus is on vision, hearing and eye-movements, including both sensory, attentional and cognitive aspects. We keep a keen eye on direct applications to devices, algorithms and human health.
 
