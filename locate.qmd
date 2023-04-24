@@ -20,6 +20,14 @@ Funding:
 ![](images/unique.png){fig-alt="UNIQUE logo"}
 :::
 :::
+
+Support:
+
+::: {#support}
+::: {layout-ncol="2"}
+![https://zulip.com](images/zulip.png){fig-alt="Zulip"}
+:::
+:::
 :::
 
 We can be reached at this [address](mailto: m2b3.lab@mcgill.ca).
