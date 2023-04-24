@@ -11,7 +11,7 @@ output:
 
 * We are friendly, kind, collaborative, personalized, accommodative, inclusive, supportive and dedicated to both scientific and individual progress. And fun. All are actively welcome, and especially anyone who may not have felt welcome in the past. We value diversity.
 
-* At the moment, we are particularly looking for those (at all levels) with interest, skills and backgrounds suited to neural data analysis (and if desired, computational neuroscience).
+* At the moment, we are particularly looking for those (at all levels) with interest, **data science** skills and backgrounds suited to **neural data analysis** (and if desired, computational **neuroscience**). Neural data analysis can include *spiking* data, *LFP* and *EEG/MEG* data, as well as *fMRI* data.
 
 * If interested, please send your CV and transcript to this [address](mailto: m2b3.lab@mcgill.ca), along with a brief note outlining why you are interested in the lab.
 
