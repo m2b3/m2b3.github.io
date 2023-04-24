@@ -33,7 +33,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Injy Fouda](images/injysm.png){fig-alt="Photo of Injy"}](#injy)
 
-[![Pegah Aghili](images/pegahsm.png){fig-alt="Photo of Pegah"}](#pegah)
+[![Chen Liu](images/chensm.png){fig-alt="Photo of Chen"}](#chen)
 :::
 
 <!-- ### Current undergraduate observers -->
@@ -163,17 +163,25 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------
 
-<a name="pegah"></a>
+<a name="chen"></a>
 
-#### Pegah Aghili
+#### Chen Liu
 
 ::: column-margin
-![](images/pegahsm.png){fig-alt="Photo of Pegah" width="200"}
+![](images/chensm.png){fig-alt="Photo of Chen" width="200"}
 :::
 
+<!--#
 * B.Sc. Physiology student minoring in computer science, McGill University
 * I worked with the NWB dataset on memory under the supervision of Dr. Krishna, and I am very interested in gaining more knowledge in the field of both computational and clinical neuroscience.
 * [Email](mailto:%20pegah.aghili@mail.mcgill.ca)
+--> 
+
+* M.Sc. Student, Integrated Program in Neuroscience, McGill.
+* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
+* B.A. in Environmental Engineering, Notheastern University, China
+* I am interested in EEG technology's development and BCI methods' research
+* [Email](mailto:chen.liu6@mail.mcgill.ca)
 
 -------------------------
 
