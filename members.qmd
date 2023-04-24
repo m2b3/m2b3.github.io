@@ -207,9 +207,9 @@ library(sf)
 
 data("World")
 
-lat <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,32.3274,48.831704,30.0444)
-lon <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,50.8650,1.609642,31.2357)
-namez <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Pegah','yohai','injy')
+lat <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,30.0444)
+lon <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357)
+namez <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','yohai','injy')
 memberz<-data.frame(namez,lat,lon)
 geocode <- data.frame(lon,lat)
 geocode2 <- st_as_sf(geocode, coords = c("lon", "lat"), crs = 4326)
