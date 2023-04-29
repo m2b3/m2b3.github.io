@@ -25,7 +25,7 @@ Support:
 
 ::: {#support}
 ::: {layout-ncol="2"}
-![https://zulip.com](images/zulip.png){fig-alt="Zulip"}
+[![](images/zulip.png)](https://zulip.com){fig-alt="Zulip"}
 :::
 :::
 :::
