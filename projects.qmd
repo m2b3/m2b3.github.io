@@ -66,6 +66,4 @@ Lead: Suresh Krishna (with Injy Fouda and Anais Rubsamen) - In collaboration wit
 
 2. [INCF: Efficient app-based measurement of visual functions in infants and young children](https://neurostars.org/t/gsoc-2023-project-idea-8-1-efficient-app-based-measurement-of-visual-functions-in-in-infants-and-young-children-350-h/24583)
 
-3. [Montréal SAT Metalab: Using markerless motion capture for music generation, music creativity and music-dance interactions](https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2023-ideas/livepose-audiovisual-generation/)
-
 An example previous project aiming to build an open-source phone-based eye-tracker using PyTorch is [here](https://dssr2.github.io/gaze-track/).
