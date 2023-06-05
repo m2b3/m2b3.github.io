@@ -42,11 +42,11 @@ Lead: Yohai-Eliel Berreby - We are looking at both foundational and applied issu
 
 ### Active vision
 
-Lead: Katarzyna Jurewicz - Katarzyna is pursuing her IVADO-funded work on the computational, psychophysical and physiological aspects of active vision.
+Leads: Katarzyna Jurewicz and Buxin Liao - Katarzyna is pursuing her IVADO-funded work on the computational, psychophysical and physiological aspects of active vision. And Buxin is working on modeling active vision.
 
-### Vision - AI, human fMRI and behavior
+### Epilepsy
 
-Lead: Buxin Liao and Haoxiang Liu
+Lead: Haoxiang Liu - We are working on an exploratory project to harmonize open epilepsy datasets and algorithms.
 
 ### Flow
 
