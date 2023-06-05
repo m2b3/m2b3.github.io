@@ -62,8 +62,8 @@ Lead: Suresh Krishna (with Injy Fouda and Anais Rubsamen) - In collaboration wit
 
 ### Google Summer of Code 2023
 
-1. [INCF: A social-web tool to facilitate rating and commenting on research reports](https://neurostars.org/t/gsoc-2023-project-idea-13-1-a-social-web-tool-to-facilitate-rating-and-commenting-on-research-reports-350-h/24589)
+1. [INCF: A social-web tool to facilitate rating and commenting on research reports](https://neurostars.org/t/gsoc-2023-project-idea-13-1-a-social-web-tool-to-facilitate-rating-and-commenting-on-research-reports-350-h/24589). Intern - Jyothi Swaroop Reddy
 
-2. [INCF: Efficient app-based measurement of visual functions in infants and young children](https://neurostars.org/t/gsoc-2023-project-idea-8-1-efficient-app-based-measurement-of-visual-functions-in-in-infants-and-young-children-350-h/24583)
+2. [INCF: Efficient app-based measurement of visual functions in infants and young children](https://neurostars.org/t/gsoc-2023-project-idea-8-1-efficient-app-based-measurement-of-visual-functions-in-in-infants-and-young-children-350-h/24583). Intern - Soham Mulye
 
 An example previous project aiming to build an open-source phone-based eye-tracker using PyTorch is [here](https://dssr2.github.io/gaze-track/).
