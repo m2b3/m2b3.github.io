@@ -1,8 +1,14 @@
 
-::: column-margin
+
+We work at the interface between the mind, brain, machines and the external world, using behavioral measurements (including eye-tracking), physiological measurements and computational modeling. We work with humans (and soon with animals, including non-human primates) as well as with open datasets, and much of our research focus is on vision, hearing and eye-movements, including both sensory, attentional and cognitive aspects. We keep a keen eye on direct applications to devices, algorithms and human health.
+
+More details on the [Projects](projects.qmd) page.
+
+[![](images/contactsm.png){fig-alt="Lab members" fig-align=left}](members.qmd)
+
 **News**
 
-**June 2023** - Alexandru, Bradley, Lilia, and Youzhi join the lab as summer interns. Alexandru will do a 2-semester NSCI 410 course with us after that.
+**June 2023** - Alexandru, Bradley, Lilia, and Youzhi join the lab as summer interns. Alexandru and Lilia will do 2-semester research courses with us (NSCI 410 and PSYC 494) after that until Summer 2024.
 
 **May 2023** - Kasia has been awarded a VHRN Scientific Presentation and Training award.
 
@@ -19,13 +25,6 @@
 **Nov 2022** - Amanda and Kasia present the first poster from the lab at the VHRN meeting in Montreal.
 
 ![](images/m2b3_grey){fig-alt="Lab logo"}
-:::
-
-We work at the interface between the mind, brain, machines and the external world, using behavioral measurements (including eye-tracking), physiological measurements and computational modeling. We work with humans (and soon with animals, including non-human primates) as well as with open datasets, and much of our research focus is on vision, hearing and eye-movements, including both sensory, attentional and cognitive aspects. We keep a keen eye on direct applications to devices, algorithms and human health.
-
-More details on the [Projects](projects.qmd) page.
-
-[![](images/contactsm.png){fig-alt="Lab members" fig-align=left}](members.qmd)
 
 
 
