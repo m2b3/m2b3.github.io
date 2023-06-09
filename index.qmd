@@ -26,6 +26,6 @@ More details on the [Projects](projects.qmd) page.
 
 ![](images/m2b3_grey){fig-alt="Lab logo"}
 
-
+-------------------------------
 
 
