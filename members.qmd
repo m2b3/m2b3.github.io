@@ -6,6 +6,7 @@ knitr:
   opts_chunk: 
     collapse: true
     results: false
+    warnings: false
 ---
 
 ### Current Lab Members
@@ -21,7 +22,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai"}](#yohai)
 
-[![Amanda Pruss](images/marty2.png){fig-alt="Photo of Amanda"}](#amanda)
+[![Amanda Pruss](images/marty2.png){fig-alt="Photo of Marty"}](#amanda)
 
 [![Haoxiang Liu](images/haoxiangsm.png){fig-alt="Photo of Haoxiang"}](#haoxiang)
 
@@ -29,20 +30,28 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin"}](#buxin)
 
+[![Chen Liu](images/chensm.png){fig-alt="Photo of Chen"}](#chen)
+
+[![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa"}](#noa)
+
 [![Anais Rubsamen](images/anaissm.png){fig-alt="Photo of Anais"}](#anais)
 
-[![Injy Fouda](images/injysm.png){fig-alt="Photo of Injy"}](#injy)
+[![Youzhi Huang](images/youzhism.png){fig-alt="Photo of Youzhi"}](#youzhi)
 
-[![Chen Liu](images/chensm.png){fig-alt="Photo of Chen"}](#chen)
+[![Alexandru Tecu](images/alexandrusm.png){fig-alt="Photo of Alexandru"}](#alexandru)
+
+[![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
 :::
 
-<!-- ### Current undergraduate observers -->
+### Current undergraduate observers
 
-<!-- ::: {layout-ncol="5"} -->
+::: {#observers layout-ncol="5"}
 
+[![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz)
 
-<!-- ::: -->
+[![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
 
+:::
 ------------------------------------------------------------------------
 
 <a name="suresh"></a>
@@ -147,7 +156,81 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   B.Eng. in Biomedical Engineering, Southeast University, Nanjing, China.
 -   [Email](mailto:buxin.liao@mail.mcgill.ca), [GitHub](https://github.com/D-Fonauton)
 
--------------------------------------------
+------------------------------------------------------
+
+<a name="chen"></a>
+
+#### Chen Liu
+
+::: column-margin
+![](images/chensm.png){fig-alt="Photo of Chen" width="200"}
+:::
+
+* M.Sc. Student, Integrated Program in Neuroscience, McGill.
+* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
+* B.A. in Environmental Engineering, Notheastern University, China
+* I am interested in EEG technology's development and BCI methods' research
+* [Email](mailto:chen.liu6@mail.mcgill.ca)
+
+-----------------------------------------------------------
+
+<a name="noa"></a>
+
+#### Noa Kemp
+
+::: column-margin
+![](images/noasm.png){fig-alt="Photo of Noa" width="200"}
+:::
+
+* M.Sc. Student, Department of Physiology, McGill.
+* B.Sc. in Biology and Computer Science, McGill.
+* Between musical theater, computer science and the brain - I wasn’t able to chose so I will focus on one of their intersections: the physiology of spatial hearing.
+* I was born and raised in Belgium. However half of my family lives in Israel and I have spent most of my summers there. Today, the place I truly call home is definitely Montreal.
+
+------------------------------------------------------------------
+
+<a name="alexandru"></a>
+
+#### Alexandru Tecu
+
+::: column-margin
+![](images/alexandrusm.png){fig-alt="Photo of Alexandru" width="200"}
+:::
+
+* B.A. Sc Neuroscience student, McGill University.
+* Currently completing my degree under the Neurophysiology/Neural Computational stream
+* [Email](mailto:alexandru.tecu.0@gmail.com)
+
+-----------------------------------------------------------
+
+<a name="youzhi"></a>
+
+#### Youzhi Huang
+
+::: column-margin
+![](images/youzhism.png){fig-alt="Photo of Youzhi" width="200"}
+:::
+
+* B.Sc. Student, Department of Psychology, McGill. 
+* I am interested in the cognition aspect, it provides valuable insights into the workings of the human mind, explaining behavior, informing interventions, and advancing our understanding of various cognitive processes. 
+* [Email](mailto:youzhi.huang@mail.mcgill.ca)
+
+---------------------------------------------------------
+
+<a name="bradley"></a>
+
+#### Bradley Austin-Keiller
+
+::: column-margin
+![](images/bradleysm.png){fig-alt="Photo of Bradley" width="200"}
+:::
+
+* GrDip Music Therapy Student, Department of Fine Arts, Concordia 
+* Joint B.A. in Psychology and Music, McGill 
+* Combining a decade of musical training with clinical experience in a therapeutic context,  I strive to bridge the gap by examining neural and physiological correlates of music therapy with a special focus on the intersection of music and health promotion. 
+* [Email](mailto:Bradleyaustinkeiller@videotron.ca), [LinkedIn](https://www.linkedin.com/in/bradley-austin-keiller-297787212/)
+
+---------------------------------------------------------
 
 <a name="anais"></a>
 
@@ -159,60 +242,53 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 * B.A. Psychology student, McGill University
 * Over the short term, I wish to master software, technologies and techniques used in Psychology research and treatments, with a special focus on Python and R. Over the long term, I wish to develop strategies to improve the care of people living with psychopathologies and chronic pain, with a special focus on BPD.
-* [Email](mailto:%20anais.rubsamen@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/anaïs-issaeva-rubsamen-9ba222217/) 
+* [Email](mailto:anais.rubsamen@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/anaïs-issaeva-rubsamen-9ba222217/) 
 
-------------------------------------------------------
+------------------------------------------------------------------------
 
-<a name="chen"></a>
+<a name="lilia"></a>
 
-#### Chen Liu
+#### Lilia Fernane
 
-::: column-margin
-![](images/chensm.png){fig-alt="Photo of Chen" width="200"}
-:::
+* U3 Neuroscience student, McGill University
 
-<!--#
-* B.Sc. Physiology student minoring in computer science, McGill University
-* I worked with the NWB dataset on memory under the supervision of Dr. Krishna, and I am very interested in gaining more knowledge in the field of both computational and clinical neuroscience.
-* [Email](mailto:%20pegah.aghili@mail.mcgill.ca)
---> 
+------------------------------------------------------------------------
 
-* M.Sc. Student, Integrated Program in Neuroscience, McGill.
-* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
-* B.A. in Environmental Engineering, Notheastern University, China
-* I am interested in EEG technology's development and BCI methods' research
-* [Email](mailto:chen.liu6@mail.mcgill.ca)
+<a name="yavuz"></a>
 
--------------------------
+#### Yavuz Shahzad
 
-<a name="injy"></a>
-
-#### Injy Fouda
-
-
-::: column-margin
-![](images/injysm.png){fig-alt="Photo of Injy" width="200"}
-:::
-
-* B.A. Sc Cognitive Science student Neuroscience stream with a minor in interdisciplinary life sciences, McGill University.
-* [Email](mailto:%20injy.fouda@mail.mcgill.ca); [LinkedIn](https://www.linkedin.com/in/injy-fouda-975b98179/)
+* U1 Psychology and Mathematics student, McGill University
 
 ------------------------------------------------------------------------
 
 ### Where we are from
 
-```{r,message=FALSE}
+<span style="color:firebrick1;">Current</span> /  <span style="color:orange;">Past</span>
+
+```{r,message=FALSE,warning=FALSE}
+#| warning: false
 library(tmap)
 library(sf)
 
 data("World")
 
-lat <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,30.0444)
-lon <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357)
-namez <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','yohai','injy')
-memberz<-data.frame(namez,lat,lon)
+latlist <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,30.0444,41.084148,37,45.45778,45.56583,50.848383801134766,45.5019)
+lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357,29.035460,3,-73.88489,-73.31437,4.350009489440508,-73.567)
+namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley')
+
+lat<-latlist[is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley'))]
+lon<-lonlist[is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley'))]
+
+latold<-latlist[is.element(namezlist,c('Injy'))]
+lonold<-lonlist[is.element(namezlist,c('Injy'))]
+
+
 geocode <- data.frame(lon,lat)
 geocode2 <- st_as_sf(geocode, coords = c("lon", "lat"), crs = 4326)
+
+ogeocode <- data.frame(lonold,latold)
+ogeocode2 <- st_as_sf(ogeocode, coords = c("lonold", "latold"), crs = 4326)
 
 # tm_shape(World) +
 #     tm_fill("lightblue",alpha=1,minimize=TRUE) +
@@ -226,6 +302,8 @@ tm_shape(World)+
   tm_layout(scale=0.5, bg.color="dodgerblue4",inner.margin=0.0005)+
   tm_shape(geocode2)+
   tm_dots(size = 1, col = "firebrick1")+
+  tm_shape(ogeocode2)+
+  tm_dots(size = 1, col = "orange")+
   tm_layout()+
      tm_credits("Made using tmap",
              position = c("RIGHT", "BOTTOM"))
@@ -235,5 +313,19 @@ tm_shape(World)+
 
 -   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
 -   COMP 401 - Nevine Nzabonimpa
+- 	COGS 444 Injy Fouda
+-	PSYC 395 Anais Rubsamen 
 -   Mackey-Glass research bursary -- Tim Yang
 -   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin
+
+--------------------------------------------------
+
+### Us
+
+::: {#photos layout-ncol="2"}
+
+![Food, Fun](images/p2.png){fig-alt="lab1"}
+
+![& French cricket in Quebec](images/p1.png){fig-alt="lab2"}
+
+:::
