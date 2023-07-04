@@ -296,14 +296,16 @@ ogeocode2 <- st_as_sf(ogeocode, coords = c("lonold", "latold"), crs = 4326)
 # tm_shape(geocode2) +      # dots shape
 #   tm_dots(col = "red", size = .2)
 
+usesize<-0.5
+
 tm_shape(World)+
   tm_fill(col='darkslategray2')+
   tm_borders(col="black")+
   tm_layout(scale=0.5, bg.color="dodgerblue4",inner.margin=0.0005)+
   tm_shape(geocode2)+
-  tm_dots(size = 1, col = "firebrick1")+
+  tm_dots(size = usesize, col = "firebrick1")+
   tm_shape(ogeocode2)+
-  tm_dots(size = 1, col = "orange")+
+  tm_dots(size = usesize, col = "orange")+
   tm_layout()+
      tm_credits("Made using tmap",
              position = c("RIGHT", "BOTTOM"))
