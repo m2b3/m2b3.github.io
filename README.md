@@ -6,6 +6,7 @@ Landing page for the M2B3 lab at McGill University.
 
 - [Quarto](https://quarto.org/docs/get-started/)
 - R packages:
+  - `rmarkdown`
   - [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) for the world map
     - Required system libraries: `udunits`, `podofo` and `arrow`
 
