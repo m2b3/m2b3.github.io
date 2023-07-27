@@ -1,12 +1,14 @@
 
 
-We work at the interface between the mind, brain, machines and the external world, using behavioral measurements (including eye-tracking), physiological measurements and computational modeling. We work with humans (and soon with animals, including non-human primates) as well as with open datasets, and much of our research focus is on vision, hearing and eye-movements, including both sensory, attentional and cognitive aspects. We keep a keen eye on direct applications to devices, algorithms and human health.
+We work at the interface between the mind, brain, machines and the external world, using behavioral measurements (including eye tracking), physiological measurements and computational modeling. We work with humans (and soon with animals, including non-human primates) as well as with open datasets, and much of our research focus is on vision, hearing and eye-movements, including both sensory, attentional and cognitive aspects. We keep a keen eye on direct applications to devices, algorithms and human health.
 
 More details on the [Projects](projects.qmd) page.
 
 [![](images/labphoto1.jpg){fig-alt="Lab Photo" fig-align=left}](members.qmd)
 
 **News**
+
+**July 2023** - Yohaï and the team he led [won the AI Safety Hackathon](https://www.linkedin.com/posts/entrepreneur-first_last-night-marked-the-conclusion-of-our-ai-activity-7084967819297087488-b-DN?utm_source=share&utm_medium=member_desktop) organized by Meta AI and Entrepreneur First at Meta's Paris office.
 
 **June 2023** - Alexandru, Bradley, Yavuz, Lilia, and Youzhi join the lab as summer interns. Alexandru and Youzhi will do 2-semester research courses with us (NSCI 410 and PSYC 494) after that until Summer 2024.
 
@@ -16,11 +18,11 @@ More details on the [Projects](projects.qmd) page.
 
 **Jan 2023** - If you have programming skills,  are interested in a  paid summer internship (June-July-August), and are relatively new to open-source, get in touch - we may have 2 or more [Google Summer of Code projects](projects.qmd){#google-summer-of-code-2023} available.
 
-**Jan 2023** - Yohai and Oren get VHRN recruitment awards. Congrats both !
+**Jan 2023** - Yohai and Oren get VHRN recruitment awards. Congrats both!
   
-**Jan 2023** - Kasia has been awarded a UNIQUE postdoctoral excellence fellowship !
+**Jan 2023** - Kasia has been awarded a UNIQUE postdoctoral excellence fellowship!
 
-**Jan 2023** - Yohai and Oren join the lab as new graduate students; Anais starts her undergraduate research course in the lab. Welcome !
+**Jan 2023** - Yohai and Oren join the lab as new graduate students; Anais starts her undergraduate research course in the lab. Welcome!
 
 **Nov 2022** - Amanda and Kasia present the first poster from the lab at the VHRN meeting in Montreal.
 
