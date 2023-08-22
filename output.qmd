@@ -1,0 +1,16 @@
+---
+title: "Travaux du m2b3"
+description: |
+
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+### Prépublications
+
+* Information integration across saccades plays a prominent role during goal-directed viewing of everyday scenes. [PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. August 21, 2023.
+
+* Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. August 21, 2023.

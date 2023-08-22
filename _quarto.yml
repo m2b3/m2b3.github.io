@@ -22,6 +22,8 @@ website:
       href: members.qmd
     - text: "Projects"
       href: projects.qmd
+    - text: "Output"
+      href: output.qmd
     - text: "Join"
       href: join.qmd
     - text: "About"
