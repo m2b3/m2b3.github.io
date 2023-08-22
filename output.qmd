@@ -1,5 +1,5 @@
 ---
-title: "Travaux du m2b3"
+title: "m2b3 Output"
 description: |
 
 output:
@@ -9,7 +9,7 @@ output:
     toc_depth: 3
 ---
 
-### Prépublications
+### Preprints
 
 * Information integration across saccades plays a prominent role during goal-directed viewing of everyday scenes. [PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. August 21, 2023.
 
