@@ -15,7 +15,9 @@ output:
 
 * Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. August 21, 2023.
 
-### Output from m2b3 lab members continuing/completing their prior work.
+### Other
+
+#### Output from m2b3 lab members continuing/completing their prior work.
 
 * Common and distinct BOLD correlates of Simon and flanker conflicts which can(not) be reduced to time-on-task effects. [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.19.541457v1). Wojciechowski J, Jurewicz K, Dzianok P, Antonova I, Paluch K, Wolak T, Kublik K. 2023
 
