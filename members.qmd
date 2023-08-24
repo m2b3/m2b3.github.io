@@ -43,6 +43,9 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
 
 [![Divi Maheshwari](images/divism.jpg){fig-alt="Photo of Divi"}](#divi)
+
+[![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
+
 :::
 
 ### Current undergraduate observers
@@ -50,8 +53,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ::: {#observers layout-ncol="5"}
 
 [![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz)
-
-[![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
 
 :::
 ------------------------------------------------------------------------
