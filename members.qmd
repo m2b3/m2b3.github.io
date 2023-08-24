@@ -48,13 +48,11 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 :::
 
-### Current undergraduate observers
+[//]: # (### Current undergraduate observers) 
+[//]: # (::: {#observers layout-ncol="5"})
+[//]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz))
+[//]: # (:::)
 
-::: {#observers layout-ncol="5"}
-
-[![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz)
-
-:::
 ------------------------------------------------------------------------
 
 <a name="suresh"></a>
@@ -297,13 +295,14 @@ latlist <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,3
 lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357,29.035460,3,-73.88489,-73.31437,4.350009489440508,-73.567,35.511500,50.8650,100.3947)
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi')
 
+nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Lilia','Alexandru','Youzhi','Noa','Bradley','Divi'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz'))
 
+lat<-latlist[nowies]
+lon<-lonlist[nowies]
 
-lat<-latlist[is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Divi'))]
-lon<-lonlist[is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Divi'))]
-
-latold<-latlist[is.element(namezlist,c('Injy','Sarah','Pegah'))]
-lonold<-lonlist[is.element(namezlist,c('Injy','Sarah','Pegah'))]
+latold<-latlist[oldies]
+lonold<-lonlist[oldies]
 
 
 geocode <- data.frame(lon,lat)
