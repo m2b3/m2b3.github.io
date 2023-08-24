@@ -339,7 +339,7 @@ tm_shape(World)+
 - 	COGS 444 Injy Fouda
 -	PSYC 395 Anais Rubsamen 
 -   Mackey-Glass research bursary -- Tim Yang
--   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin
+-   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad
 
 --------------------------------------------------
 
