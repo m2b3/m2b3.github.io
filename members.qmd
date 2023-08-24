@@ -48,10 +48,10 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 :::
 
-[//]: # (### Current undergraduate observers) 
-[//]: # (::: {#observers layout-ncol="5"})
-[//]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz))
-[//]: # (:::)
+[comm1]: # (### Current undergraduate observers) 
+[comm2]: # (::: {#observers layout-ncol="5"})
+[comm3]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz))
+[comm4]: # (:::)
 
 ------------------------------------------------------------------------
 
