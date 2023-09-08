@@ -11,7 +11,7 @@ output:
 
 ### Preprints
    
-* Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS.(2023).
+* Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
 
 * Information integration across saccades plays a prominent role during goal-directed viewing of everyday scenes. [PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. (2023).
 
