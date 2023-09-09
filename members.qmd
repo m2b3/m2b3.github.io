@@ -348,4 +348,8 @@ tm_shape(World)+
 
 ![& French cricket in Quebec](images/p1.png){fig-alt="lab2"}
 
+![Thompson House](images/lp3.png){fig-alt="lab2"}
+
+![Le Mountain](images/labphoto1.png){fig-alt="lab2"}
+
 :::
