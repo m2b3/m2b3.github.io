@@ -57,6 +57,21 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * Jyothi Swaroop Reddy Bommareddy
 * Soham Mulye
 
+### Collaborators
+
+::: {#members layout-ncol="5"}
+[![Prof. Chris Pack, McGill](images/pack_christopher.png){fig-alt="Photo of Chris"}](https://www.mcgill.ca/neuro/christopher-pack-phd)
+
+[![Dr. Ifedayo-Emmanuel Adeyefa-Olasupo, Janelia Farms](images/EL3_1.png){fig-alt="Photo of Emmanuel"}](https://www.janelia.org/people/ifedayo-emmanuel-adeyefa-olasupo)
+
+[![Prof. Catherine Guastavino](images/CG.jpeg){fig-alt="Photo of Catherine"}](https://www.mcgill.ca/sis/people/faculty/guastavino)
+
+[![Prof. Fabrice Marandola, Director, CIRMMT, McGill](images/fm.jpg){fig-alt="Photo of Fabrice"}](https://www.mcgill.ca/music/fabrice-marandola)
+
+[![Prof. Simone Dalla Bella, co-Director, BRAMS, UdeM](images/SDB.png){fig-alt="Photo of Simone"}](https://brams.org/members/simone-dalla-bella/)
+
+::: 
+
 ------------------------------------------------------------------------
 
 <a name="suresh"></a>
