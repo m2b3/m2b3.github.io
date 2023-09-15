@@ -66,7 +66,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Prof. Catherine Guastavino](images/CG.jpeg){fig-alt="Photo of Catherine"}](https://www.mcgill.ca/sis/people/faculty/guastavino)
 
-[![Prof. Fabrice Marandola, Director, CIRMMT, McGill](images/fm.jpg){fig-alt="Photo of Fabrice"}](https://www.mcgill.ca/music/fabrice-marandola)
+[![Prof. Fabrice Marandola, Director, CIRMMT, McGill](images/fm.png){fig-alt="Photo of Fabrice"}](https://www.mcgill.ca/music/fabrice-marandola)
 
 [![Prof. Simone Dalla Bella, co-Director, BRAMS, UdeM](images/SDB.png){fig-alt="Photo of Simone"}](https://brams.org/members/simone-dalla-bella/)
 
