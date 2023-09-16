@@ -60,7 +60,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ### Collaborators
 
 ::: {#collaborators layout-ncol="5"}
-
 [![Prof. Chris Pack, McGill](images/pack_christopher.png){fig-alt="Photo of Chris"}](https://www.mcgill.ca/neuro/christopher-pack-phd)
 
 [![Dr. Ifedayo-Emmanuel Adeyefa-Olasupo, Janelia Farms](images/EL3_1.png){fig-alt="Photo of Emmanuel"}](https://www.janelia.org/people/ifedayo-emmanuel-adeyefa-olasupo)
