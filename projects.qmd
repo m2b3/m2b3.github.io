@@ -36,6 +36,8 @@ These are some of our ongoing projects:
 
 Lead: Amanda Pruss (co-supervised with [Chris Pack](https://www.mcgill.ca/neurology-neurosurgery/christopher-pack-phd)) - We are continuing the work from the Yao et al. [eLife paper](https://elifesciences.org/articles/18009) and will investigate information transfer across eye-movements.
 
+* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Krishna BS (2023).
+
 ### Neuro-AI
 
 Lead: Yohai-Eliel Berreby - We are looking at both foundational and applied issues related to how artificial and biological neural networks function.
