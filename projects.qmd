@@ -40,13 +40,25 @@ Lead: Amanda Pruss (co-supervised with [Chris Pack](https://www.mcgill.ca/neurol
 
 Lead: Yohai-Eliel Berreby - We are looking at both foundational and applied issues related to how artificial and biological neural networks function.
 
+* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Krishna BS (2023).
+   
+* Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
+
 ### Active vision
 
 Leads: Katarzyna Jurewicz and Buxin Liao - Katarzyna is pursuing her IVADO-funded work on the computational, psychophysical and physiological aspects of active vision. And Buxin is working on modeling active vision.
 
+* Information integration across saccades plays a prominent role during goal-directed viewing of everyday scenes. [PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. (2023).
+
+* Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. (2023).
+
 ### Epilepsy
 
 Lead: Haoxiang Liu - We are working on an exploratory project to harmonize open epilepsy datasets and algorithms.
+
+### Audiovisual perception
+
+Lead: Noa Kemp (co-supervised with [Catherine Guastavino](https://www.mcgill.ca/sis/people/faculty/guastavino) - We are working on multiple projects involving visual and auditory localization, motion and objecthood.
 
 ### Flow
 
