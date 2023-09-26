@@ -324,7 +324,7 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina')
 
 
-nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Lilia','Alexandru','Youzhi','Noa','Bradley','Romina,'Divi'))
+nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Lilia','Alexandru','Youzhi','Noa','Bradley','Romina','Divi'))
 oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz'))
 
 
