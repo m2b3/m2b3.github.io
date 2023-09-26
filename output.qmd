@@ -23,8 +23,10 @@ output:
 
 #### Output from m2b3 lab members continuing/completing their prior work.
 
-* Common and distinct BOLD correlates of Simon and flanker conflicts which can(not) be reduced to time-on-task effects. [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.19.541457v1). Wojciechowski J, *Jurewicz K*, Dzianok P, Antonova I, Paluch K, Wolak T, Kublik K. (2023)
+* Investigating Efficient Deep Learning Architectures For Side-Channel Attacks on AES. [arXiv](https://arxiv.org/abs/2309.13170). *Berreby Y-E*, Sauvage, L. (2023).
 
-* Pupil size predicts the onset of exploration in brain and behavior. [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.24.541981v1). Shourkeshti A, Marrocco G, *Jurewicz K*, Moore T, Ebitz RB. (2023)
+* Common and distinct BOLD correlates of Simon and flanker conflicts which can(not) be reduced to time-on-task effects. [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.19.541457v1). Wojciechowski J, *Jurewicz K*, Dzianok P, Antonova I, Paluch K, Wolak T, Kublik K. (2023).
 
-* ToFFi–Toolbox for frequency-based fingerprinting of brain signals. [Neurocomputing](https://doi.org/10.1016/j.neucom.2023.126236), 544, 126236. Komorowski MK, Rykaczewski K, Piotrowski T, *Jurewicz K*, Wojciechowski J, Keitel A, Dreszer J, Duch W. (2023)
+* Pupil size predicts the onset of exploration in brain and behavior. [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.24.541981v1). Shourkeshti A, Marrocco G, *Jurewicz K*, Moore T, Ebitz RB. (2023).
+
+* ToFFi–Toolbox for frequency-based fingerprinting of brain signals. [Neurocomputing](https://doi.org/10.1016/j.neucom.2023.126236), 544, 126236. Komorowski MK, Rykaczewski K, Piotrowski T, *Jurewicz K*, Wojciechowski J, Keitel A, Dreszer J, Duch W. (2023).

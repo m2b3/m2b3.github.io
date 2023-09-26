@@ -15,7 +15,7 @@ knitr:
 Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 :::
 
-::: {#members layout-ncol="5"}
+::: {#members layout-ncol="6"}
 [![Suresh Krishna](images/sureshsm.png){fig-alt="Photo of Suresh"}](#suresh)
 
 [![Katarzyna Jurewicz](images/kasia.png){fig-alt="Photo of Kasia"}](#kasia)
@@ -45,6 +45,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Divi Maheshwari](images/divism.jpg){fig-alt="Photo of Divi"}](#divi)
 
 [![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
+
+[![Romina Niksirat](images/rominasm.png){fig-alt="Photo of Romina"}](#romina)
 
 :::
 
@@ -221,6 +223,20 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * Currently completing my degree under the Neurophysiology/Neural Computational stream
 * [Email](mailto:alexandru.tecu.0@gmail.com)
 
+------------------------------------------------------------------
+
+<a name="romina"></a>
+
+#### Romina Niksirat
+
+::: column-margin
+![](images/rominasm.png){fig-alt="Photo of Alexandru" width="200"}
+:::
+
+* Étudiant en sciences cognitives, Université McGill
+* Je suis actuellement en train de suivre une formation pour commencer mon projet de recherche indépendant au laboratoire.
+* Je m'intéresse aux intersections entre les neurosciences et la psychologie. Mon objectif de carrière ultime est de combiner mon amour pour les enfants et mes connaissances en neurosciences pour travailler avec des enfants souffrant de troubles neurologiques.
+* [Email](mailto: romina.niksirat@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/romina-niksirat-4b628a278/)
 -----------------------------------------------------------
 
 <a name="youzhi"></a>
