@@ -11,7 +11,7 @@ output:
 
 ### Preprints
 
-* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Krishna BS (2023).
+* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Berreby YE, Kemp N, Gurevitch O, Krishna BS (2023).
    
 * Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
 
