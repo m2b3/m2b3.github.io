@@ -145,7 +145,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/haoxiangsm.png){fig-alt="Photo of Haoxiang" width="200"}
 :::
 
--   M.Sc. Student, Department of Physiology, McGill.
+-   M.Sc. Student, Integrated Program in Neuroscience, McGill.
 -   M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
 -   B.Eng. in Network Engineering, University of Electronic Science and Technology of China, Chengdu, China.
 -   [Email](mailto:haoxiang.liu@mail.mcgill.ca), [GitHub](https://github.com/hxliu4mcgill)
@@ -175,10 +175,10 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/buxinsm.png){fig-alt="Photo of Buxin" width="200"}
 :::
 
--   M.Sc. Student, Department of Physiology, McGill.
--   M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
--   B.Eng. in Biomedical Engineering, Southeast University, Nanjing, China.
--   [Email](mailto:buxin.liao@mail.mcgill.ca), [GitHub](https://github.com/D-Fonauton)
+* M.Sc. Student, Integrated Program in Neuroscience, McGill.
+* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
+* B.Eng. in Biomedical Engineering, Southeast University, Nanjing, China.
+* [Email](mailto:buxin.liao@mail.mcgill.ca), [GitHub](https://github.com/D-Fonauton)
 
 ------------------------------------------------------
 
@@ -222,7 +222,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/xinning.png){fig-alt="Photo of Xinning" width="200"}
 :::
 
-* M.Sc. Student, Department of Physiology, McGill.
+* M.Sc. Student, Integrated Program in Neuroscience, McGill.
 * M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
 * B.Sc. in Information Security, Xi'an University of Posts and Telecommunication, Xian, China.
 * [Email](mailto:xinning.le@mail.mcgill.ca)
