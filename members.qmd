@@ -34,6 +34,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa"}](#noa)
 
+[![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning"}](#xinning)
+
 [![Anais Rubsamen](images/anaissm.png){fig-alt="Photo of Anais"}](#anais)
 
 [![Youzhi Huang](images/youzhism.png){fig-alt="Photo of Youzhi"}](#youzhi)
@@ -208,6 +210,22 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * B.Sc. in Biology and Computer Science, McGill.
 * Between musical theater, computer science and the brain - I wasn’t able to chose so I will focus on one of their intersections: the study of audiovisual space and object perception.
 * I was born and raised in Belgium. However half of my family lives in Israel and I have spent most of my summers there. Today, the place I truly call home is definitely Montreal.
+* [Email](mailto:noa.kemp@mail.mcgill.ca)
+
+------------------------------------------------------------------
+
+<a name="xinning"></a>
+
+#### Xinning Le
+
+::: column-margin
+![](images/xinning.png){fig-alt="Photo of Xinning" width="200"}
+:::
+
+* M.Sc. Student, Department of Physiology, McGill.
+* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
+* B.Sc. in Information Security, Xi'an University of Posts and Telecommunication, Xian, China.
+* [Email](mailto:xinning.le@mail.mcgill.ca)
 
 ------------------------------------------------------------------
 
