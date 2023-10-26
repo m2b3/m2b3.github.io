@@ -36,6 +36,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning"}](#xinning)
 
+[![Sizhuo Wang](images/sizhuo.png){fig-alt="Photo of Sizhuo"}](#sizhuo)
+
 [![Anais Rubsamen](images/anaissm.png){fig-alt="Photo of Anais"}](#anais)
 
 [![Youzhi Huang](images/youzhism.png){fig-alt="Photo of Youzhi"}](#youzhi)
@@ -226,6 +228,22 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
 * B.Sc. in Information Security, Xi'an University of Posts and Telecommunication, Xian, China.
 * [Email](mailto:xinning.le@mail.mcgill.ca)
+
+------------------------------------------------------------------
+
+<a name="sizhuo"></a>
+
+#### Sizhou Wang
+
+::: column-margin
+![](images/sizhuo.png){fig-alt="Photo of Sizhuo" width="200"}
+:::
+
+* M.Sc. Student, Integrated Program in Neuroscience, McGill.
+* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
+* B.Eng. in Biomedical Engineering, Taiyuan University of Technology, Taiyuan, China 
+* My research interests lie in developing algorithmic encoding and decoding models to explore the intricate mechanisms of brain, particularly in the field of visual perception. 
+* [Email](mailto:sizhuo.wang@std.uestc.edu.cn)
 
 ------------------------------------------------------------------
 
