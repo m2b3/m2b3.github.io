@@ -46,8 +46,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
 
-[![Divi Maheshwari](images/divism.jpg){fig-alt="Photo of Divi"}](#divi)
-
 [![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
 
 [![Romina Niksirat](images/rominasm.png){fig-alt="Photo of Romina"}](#romina)
@@ -317,21 +315,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * Over the short term, I wish to master software, technologies and techniques used in Psychology research and treatments, with a special focus on Python and R. Over the long term, I wish to develop strategies to improve the care of people living with psychopathologies and chronic pain, with a special focus on BPD.
 * [Email](mailto:anais.rubsamen@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/anaïs-issaeva-rubsamen-9ba222217/) 
 
-------------------------------------------------------------------------
-
-
-<a name="divi"></a>
-
-#### Divi Maheshwari
-
-::: column-margin
-![](images/divism.jpg){fig-alt="Photo of Divi" width="200"}
-:::
-
-* B.A. in Psychology and History, McGill.
-* Currently working on learning an eye-tracking interface and MATLAB coding, before I start working on an independent project with the lab.
-* [Email](mailto:divi.maheshwari@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/divimaheshwari/)
-
 ---------------------------------------------------------
 
 
@@ -361,8 +344,8 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo')
 
 
-nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Lilia','Alexandru','Youzhi','Noa','Bradley','Romina','Divi','Sizhuo'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz'))
+nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Lilia','Alexandru','Youzhi','Noa','Bradley','Romina','Sizhuo'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi'))
 
 
 lat<-latlist[nowies]
@@ -406,7 +389,7 @@ tm_shape(World)+
 - 	COGS 444 Injy Fouda
 -	PSYC 395 Anais Rubsamen 
 -   Mackey-Glass research bursary -- Tim Yang
--   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad
+-   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari
 -   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma.
 
 --------------------------------------------------
