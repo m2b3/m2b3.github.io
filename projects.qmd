@@ -54,10 +54,6 @@ Leads: Katarzyna Jurewicz and Buxin Liao - Katarzyna is pursuing her IVADO-funde
 
 * Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. (2023).
 
-### Epilepsy
-
-Lead: Haoxiang Liu - We are working on an exploratory project to harmonize open epilepsy datasets and algorithms.
-
 ### Audiovisual perception
 
 Lead: Noa Kemp (co-supervised with [Catherine Guastavino](https://www.mcgill.ca/sis/people/faculty/guastavino) - We are working on multiple projects involving visual and auditory localization, motion and objecthood.
@@ -72,7 +68,7 @@ Lead: Suresh Krishna - We are starting a series of projects looking into visual 
 
 ### Music
 
-Lead: Suresh Krishna (with Injy Fouda and Anais Rubsamen) - In collaboration with [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), we are working on eye-tracking and attentional shifts while performing music, with an aim to build a comprehensive cognitive model of music performance.
+Lead: Suresh Krishna (with Bradley Austin-Keiller and Anais Rubsamen) - In collaboration with [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), we are working on eye-tracking and attentional shifts while performing music, with an aim to build a comprehensive cognitive model of music performance.
 
 ### Google Summer of Code 2023
 

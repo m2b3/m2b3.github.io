@@ -30,8 +30,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin"}](#buxin)
 
-[![Chen Liu](images/chensm.png){fig-alt="Photo of Chen"}](#chen)
-
 [![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa"}](#noa)
 
 [![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning"}](#xinning)
@@ -179,22 +177,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
 * B.Eng. in Biomedical Engineering, Southeast University, Nanjing, China.
 * [Email](mailto:buxin.liao@mail.mcgill.ca), [GitHub](https://github.com/D-Fonauton)
-
-------------------------------------------------------
-
-<a name="chen"></a>
-
-#### Chen Liu
-
-::: column-margin
-![](images/chensm.png){fig-alt="Photo of Chen" width="200"}
-:::
-
-* M.Sc. Student, Integrated Program in Neuroscience, McGill.
-* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
-* B.A. in Environmental Engineering, Notheastern University, China
-* I am interested in EEG technology's development and BCI methods' research
-* [Email](mailto:chen.liu6@mail.mcgill.ca)
 
 -----------------------------------------------------------
 
