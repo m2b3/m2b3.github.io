@@ -54,10 +54,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [comm2]: # (::: {#observers layout-ncol="5"})
 [comm3]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz))
 [comm4]: # (:::)
-### Google Summer of Code Interns
+[comm5]: # ### Google Summer of Code Interns
 
-* Jyothi Swaroop Reddy Bommareddy
-* Soham Mulye
 
 ### Collaborators
 
@@ -372,7 +370,7 @@ tm_shape(World)+
 -	PSYC 395 Anais Rubsamen 
 -   Mackey-Glass research bursary -- Tim Yang
 -   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari
--   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma.
+-   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
 
 --------------------------------------------------
 
