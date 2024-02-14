@@ -20,6 +20,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Katarzyna Jurewicz](images/kasia.png){fig-alt="Photo of Kasia"}](#kasia)
 
+[![Jerome Carriot](images/Jerome2.png){fig-alt="Photo of Jerome"}](#jerome)
+
 [![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai"}](#yohai)
 
 [![Amanda Pruss](images/marty2.png){fig-alt="Photo of Marty"}](#amanda)
@@ -106,6 +108,22 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   [Email](mailto:katarzyna.jurewicz@mcgill.ca); [Google Scholar](http://www.tinyurl.com/kjurewicz-scholar)
 
 ------------------------------------------------------------------------
+
+
+<a name="jerome"></a>
+
+#### Jerome Carriot
+
+::: column-margin
+![](images/Jerome2.png){fig-alt="Photo of Jerome" width="200"}
+:::
+
+-   Research Associate, Department of Physiology, McGill.
+-   PhD, Joseph Fourier University, Grenoble, France.
+-   For the past two decades, I have been working on the vestibular system. I have held positions as a postdoctoral researcher and research associate at several institutions, including Brandeis University in Boston, the University of Western Ontario in London, and McGill University. My specialization lies in neural encoding of self-motion within the vestibular pathway.
+-   [Email](mailto:Jerome.carriot@mcgill.ca); [Google Scholar](https://scholar.google.ca/citations?hl=en&user=rEzMXEUAAAAJ); [ResearchGate](https://www.researchgate.net/profile/Jerome-Carriot)
+
+--------------------------------------------------------------------------
 
 <a name="yohai"></a>
 
