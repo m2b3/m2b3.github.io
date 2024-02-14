@@ -20,7 +20,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Katarzyna Jurewicz](images/kasia.png){fig-alt="Photo of Kasia"}](#kasia)
 
-[![Jerome Carriot](images/Jerome2.png){fig-alt="Photo of Jerome"}](#jerome)
+[![Jerome Carriot](images/Jerome2.jpg){fig-alt="Photo of Jerome"}](#jerome)
 
 [![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai"}](#yohai)
 
@@ -115,7 +115,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Jerome Carriot
 
 ::: column-margin
-![](images/Jerome2.png){fig-alt="Photo of Jerome" width="200"}
+![](images/Jerome2.jpg){fig-alt="Photo of Jerome" width="200"}
 :::
 
 -   Research Associate, Department of Physiology, McGill.
