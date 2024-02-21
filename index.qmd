@@ -9,7 +9,7 @@ More details on the [Projects](projects.qmd) page.
 
 ::: {layout-nrow="2"}
 [![](images/lp2.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
-[![](images/pres12.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
+[![](images/pres123.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
 :::
 
 [More photos](https://m2b3.github.io/members.html#us)
