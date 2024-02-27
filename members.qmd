@@ -63,7 +63,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ### Collaborators
 
-::: {#members layout-ncol="5"}
+::: {#members layout-ncol="7"}
 [![Prof. Chris Pack, McGill](images/pack_christopher.png){fig-alt="Photo of Chris"}](https://www.mcgill.ca/neuro/christopher-pack-phd)
 
 [![Dr. Ifedayo-Emmanuel Adeyefa-Olasupo, Janelia Farms](images/EL3_1.png){fig-alt="Photo of Emmanuel"}](https://www.janelia.org/people/ifedayo-emmanuel-adeyefa-olasupo)
@@ -73,6 +73,10 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Prof. Fabrice Marandola, Director, CIRMMT, McGill](images/fm.png){fig-alt="Photo of Fabrice"}](https://www.mcgill.ca/music/fabrice-marandola)
 
 [![Prof. Simone Dalla Bella, co-Director, BRAMS, UdeM](images/SDB.png){fig-alt="Photo of Simone"}](https://brams.org/members/simone-dalla-bella/)
+
+[![Joshua Rosner, McGill](images/joshuasm.png){fig-alt="Photo de Joshua"}](https://www.linkedin.com/in/joshua-rosner-98b15b166/?originalSubdomain=ca)
+
+[![Pauline Patie](images/paulinesm.png){fig-alt="Photo de Pauline"}](https://www.pauline-patie.com/)
 
 ::: 
 
