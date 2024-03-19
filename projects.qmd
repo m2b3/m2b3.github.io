@@ -70,10 +70,14 @@ Lead: Suresh Krishna - We are starting a series of projects looking into visual 
 
 Lead: Suresh Krishna (with Bradley Austin-Keiller and Anais Rubsamen) - In collaboration with [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), we are working on eye-tracking and attentional shifts while performing music, with an aim to build a comprehensive cognitive model of music performance.
 
-### Google Summer of Code 2023
+### Google Summer of Code 2024 
 
-1. [INCF: A social-web tool to facilitate rating and commenting on research reports](https://neurostars.org/t/gsoc-2023-project-idea-13-1-a-social-web-tool-to-facilitate-rating-and-commenting-on-research-reports-350-h/24589). Intern - Jyothi Swaroop Reddy
+#### Potential projects
 
-2. [INCF: Efficient app-based measurement of visual functions in infants and young children](https://neurostars.org/t/gsoc-2023-project-idea-8-1-efficient-app-based-measurement-of-visual-functions-in-in-infants-and-young-children-350-h/24583). Intern - Soham Mulye
+1. [INCF: A social-web tool to facilitate rating and commenting on research reports](https://tinyurl.com/5fbr2fa5)
+
+2. [INCF: Efficient app-based measurement of visual functions in infants and young children](https://tinyurl.com/mrxda9vs).
+
+3. [INCF: Using markerless motion capture to drive music generation and develop neuroscientific/psychological theories of music creativity and music-movement-dance interactions](https://tinyurl.com/48ymnzwn).
 
 An example previous project aiming to build an open-source phone-based eye-tracker using PyTorch is [here](https://dssr2.github.io/gaze-track/).
