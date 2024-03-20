@@ -350,6 +350,10 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 #### Louis Martinez
 
+::: column-margin
+![](images/LouisSmall.jpg){fig-alt="Photo of Louis" width="200"}
+:::
+
 * Engineering Student, Télécom Paris, Palaiseau, France
 * MPSI/PSI CPGE (Math/Physics/Engineering Classes Préparatoires aux Grandes Écoles), Lycée Fénélon Sainte-Marie, Paris, France
 * Passionate about AI and curious about how the brain works, I'm interested in the intersection between these two fields.
