@@ -418,7 +418,7 @@ tm_shape(World)+
   tm_shape(ogeocode2)+
   tm_dots(size = usesize, col = "orange")+
     tm_shape(cgeocode2)+
-  tm_dots(size = 1, col = "green")+
+  tm_dots(size = 3, col = "orange")+
   tm_shape(geocode2)+
   tm_dots(size = usesize, col = "firebrick1")+
   tm_layout()+
