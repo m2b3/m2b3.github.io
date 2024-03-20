@@ -52,6 +52,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Lilie Jeanneaux](images/marty2.png){fig-alt="Photo of Lilie"}](#lilie)
 
+[![Louis Martinez](images/LouisSmall.jpg){fig-alt="Photo of Louis"}](#Louis)
+
 :::
 
 [comm1]: # (### Current undergraduate observers) 
@@ -341,6 +343,18 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * PCSI CPGE (Physics/Chemistry Classes Préparatoires aux Grandes Écoles), Lycée Louis-le-Grand, Paris, France
 * I would like to continue my studies in the domain of environmental engineering. I'm also passionate about music.
 * [Email](mailto:lilie.jeanneaux@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="Louis"></a>
+
+#### Louis Martinez
+
+* Engineering Student, Télécom Paris, Palaiseau, France
+* MPSI/PSI CPGE (Math/Physics/Engineering Classes Préparatoires aux Grandes Écoles), Lycée Fénélon Sainte-Marie, Paris, France
+* Passionate about AI and curious about how the brain works, I'm interested in the intersection between these two fields.
+* A great deal of my free time is devoted to sport (running on the slopes of Mount Royal is my second passion) and travels.
+* [Email](mailto:louis.martinez@telecom-paris.fr), [Github](https://github.com/lmartinez2001/),[LinkedIn](https://www.linkedin.com/in/louis-martinez-5586b71b7/)
 
 ------------------------------------------------------------------------
 
