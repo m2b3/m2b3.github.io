@@ -383,6 +383,12 @@ namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy
 nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Lilia','Alexandru','Youzhi','Noa','Bradley','Romina','Sizhuo','Lilie','Jerome'))
 oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi'))
 
+chumma<-length(latlist)
+latchumms<-latlist(chumma)
+lonchumms<-lonlist(chumma)
+cgeocode <- data.frame(lonchumms,latchumms)
+cgeocode2 <- st_as_sf(cgeocode, coords = c("lonchumms", "latchumms"), crs = 4326)
+
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -411,6 +417,8 @@ tm_shape(World)+
   tm_layout(scale=0.5, bg.color="dodgerblue4",inner.margin=0.0005)+
   tm_shape(ogeocode2)+
   tm_dots(size = usesize, col = "orange")+
+    tm_shape(cgeocode2)+
+  tm_dots(size = 1, col = "green")+
   tm_shape(geocode2)+
   tm_dots(size = usesize, col = "firebrick1")+
   tm_layout()+
