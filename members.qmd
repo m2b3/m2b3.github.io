@@ -384,8 +384,8 @@ nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anai
 oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi'))
 
 chumma<-length(latlist)
-latchumms<-latlist(chumma)
-lonchumms<-lonlist(chumma)
+latchumms<-latlist[chumma]
+lonchumms<-lonlist[chumma]
 cgeocode <- data.frame(lonchumms,latchumms)
 cgeocode2 <- st_as_sf(cgeocode, coords = c("lonchumms", "latchumms"), crs = 4326)
 
