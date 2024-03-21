@@ -78,6 +78,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Prof. Hongmei Yan, UESTC](images/yhm.png){fig-alt="Photo of Hongmei"}](https://www.neuro.uestc.edu.cn/vccl/yhm.html)
 
+[![Prof. Dang Nguyen, Neurology, CHUM](images/dang.png){fig-alt="Photo of Dang Nguyen"}](https://neurosciences.umontreal.ca/recherche/les-chercheurs/dang-khoa-nguyen/)
+
 [![Joshua Rosner, McGill](images/joshuasm.png){fig-alt="Photo de Joshua"}](https://www.linkedin.com/in/joshua-rosner-98b15b166/?originalSubdomain=ca)
 
 [![Pauline Patie](images/paulinesm.png){fig-alt="Photo de Pauline"}](https://www.pauline-patie.com/)
