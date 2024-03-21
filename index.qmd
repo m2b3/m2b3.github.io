@@ -16,6 +16,8 @@ More details on the [Projects](projects.qmd) page.
 
 **News**
 
+**March 2024** - Yohai gets accepted to and will attend the CIFAR Deep Learning + Reinforcement Learning Summer School (DLRL) Summer School. Congrats Yohai ! 🏆
+
 **March 2024** - Welcoming Louis to the lab as a computer vision and neuro-AI intern from Telecom Paris (until August 2024). :tada: 
 
 **February 2024** - Welcoming Lilie, Joshua and Pauline, our new musically-oriented members/collaborators. :tada: 
