@@ -447,6 +447,6 @@ tm_shape(World)+
 
 ![Le Mountain](images/labphoto1.png){fig-alt="lab2"}
 
-![](images/3brass.png){fig-alt="lab1"}
+![](images/3brass.png){fig-alt="labgath"}
 
 :::
