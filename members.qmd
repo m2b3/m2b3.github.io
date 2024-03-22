@@ -437,7 +437,7 @@ tm_shape(World)+
 
 ### Us
 
-::: {layout="[[1,1],[1,1], [1]]"}
+::: {#photos layout-ncol="2"}
 
 ![Food, Fun](images/p2.png){fig-alt="lab1"}
 
