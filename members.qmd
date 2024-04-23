@@ -40,15 +40,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Anais Rubsamen](images/anaissm.png){fig-alt="Photo of Anais"}](#anais)
 
-[![Youzhi Huang](images/youzhism.png){fig-alt="Photo of Youzhi"}](#youzhi)
-
-[![Alexandru Tecu](images/alexandrusm.png){fig-alt="Photo of Alexandru"}](#alexandru)
-
 [![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
-
-[![Lilia Fernane](images/marty2.png){fig-alt="Photo of Marty"}](#lilia)
-
-[![Romina Niksirat](images/rominasm.png){fig-alt="Photo of Romina"}](#romina)
 
 [![Lilie Jeanneaux](images/marty2.png){fig-alt="Photo of Lilie"}](#lilie)
 
@@ -257,49 +249,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------
 
-<a name="alexandru"></a>
-
-#### Alexandru Tecu
-
-::: column-margin
-![](images/alexandrusm.png){fig-alt="Photo of Alexandru" width="200"}
-:::
-
-* B.A. Sc Neuroscience student, McGill University.
-* Currently completing my degree under the Neurophysiology/Neural Computational stream
-* [Email](mailto:alexandru.tecu.0@gmail.com)
-
-------------------------------------------------------------------
-
-<a name="romina"></a>
-
-#### Romina Niksirat
-
-::: column-margin
-![](images/rominasm.png){fig-alt="Photo of Alexandru" width="200"}
-:::
-
-* B.A cognitive science student, McGill university
-* I’m currently getting trained to start my independent research project in the lab.
-* I am interested in intersections between neuroscience and psychology. My ultimate career goal is to combine my love for children and my knowledge in neuroscience to work with children with neurological disorders.
-* [Email](mailto: romina.niksirat@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/romina-niksirat-4b628a278/)
-
------------------------------------------------------------
-
-<a name="youzhi"></a>
-
-#### Youzhi Huang
-
-::: column-margin
-![](images/youzhism.png){fig-alt="Photo of Youzhi" width="200"}
-:::
-
-* B.Sc. Student, Department of Psychology, McGill. 
-* I am interested in the cognition aspect, it provides valuable insights into the workings of the human mind, explaining behavior, informing interventions, and advancing our understanding of various cognitive processes. 
-* [Email](mailto:youzhi.huang@mail.mcgill.ca)
-
----------------------------------------------------------
-
 <a name="bradley"></a>
 
 #### Bradley Austin-Keiller
@@ -326,17 +275,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * B.A. Psychology student, McGill University
 * Over the short term, I wish to master software, technologies and techniques used in Psychology research and treatments, with a special focus on Python and R. Over the long term, I wish to develop strategies to improve the care of people living with psychopathologies and chronic pain, with a special focus on BPD.
 * [Email](mailto:anais.rubsamen@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/anaïs-issaeva-rubsamen-9ba222217/) 
-
----------------------------------------------------------
-
-
-
-<a name="lilia"></a>
-
-#### Lilia Fernane
-
-* U3 Neuroscience student, McGill University
-* [Email](mailto:lilia.fernane@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -387,8 +325,8 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis')
 
 
-nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Lilia','Alexandru','Youzhi','Noa','Bradley','Romina','Sizhuo','Lilie','Jerome','Louis'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi'))
+nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Noa','Bradley','Sizhuo','Lilie','Jerome','Louis'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina'))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -427,9 +365,11 @@ tm_shape(World)+
 
 -   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
 -   COMP 401 - Nevine Nzabonimpa
-- 	COGS 444 Injy Fouda
--	PSYC 395 Anais Rubsamen 
--   Mackey-Glass research bursary -- Tim Yang
+- 	COGS 444 - Injy Fouda
+-	PSYC 395 - Anais Rubsamen 
+-   PSYC 494 - Youzhi Huang
+-   NSCI 410 - Alexandru Tecu, Lilia Fernane
+-   Mackey-Glass research bursary - Tim Yang
 -   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari
 -   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
 

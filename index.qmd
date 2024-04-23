@@ -16,6 +16,8 @@ More details on the [Projects](projects.qmd) page.
 
 **News**
 
+** April 2024** - Buxin and Haoxiang complete their Masters defense with flying colors. Alexandru, Youzhi, Lilia and Romina complete their year-long research courses. Yohai's team wins third prize in the Mistral AI hackathon in Paris during the R.AI.SE summit.
+
 **March 2024** - Both Oren's team and Noa's team get CIRMMT Student Awards (at the maximum level). Congrats Oren and Noa ! 🏆
 
 **March 2024** - Yohai gets accepted to and will attend the CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School. Congrats Yohai ! 🏆
