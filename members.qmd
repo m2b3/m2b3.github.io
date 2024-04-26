@@ -330,17 +330,17 @@ tm_shape(World)+
 
 ### Alumni
 
--	Masters
-		* Haoxiang Liu (2024), IPN Dual degree program
--   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
--   COMP 401 - Nevine Nzabonimpa
-- 	COGS 444 - Injy Fouda
--	PSYC 395 - Anais Rubsamen 
--   PSYC 494 - Youzhi Huang
--   NSCI 410 - Alexandru Tecu, Lilia Fernane
--   Mackey-Glass research bursary - Tim Yang
--   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari
--   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
+*	Masters
+		+ Haoxiang Liu (2024), IPN Dual degree program
+*   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
+*   COMP 401 - Nevine Nzabonimpa
+* 	COGS 444 - Injy Fouda
+*	PSYC 395 - Anais Rubsamen 
+*   PSYC 494 - Youzhi Huang
+*   NSCI 410 - Alexandru Tecu, Lilia Fernane
+*   Mackey-Glass research bursary - Tim Yang
+*   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari
+*   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
 
 --------------------------------------------------
 
