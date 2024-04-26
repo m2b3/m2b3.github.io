@@ -38,8 +38,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Sizhuo Wang](images/sizhuo.png){fig-alt="Photo of Sizhuo"}](#sizhuo)
 
-[![Anais Rubsamen](images/anaissm.png){fig-alt="Photo of Anais"}](#anais)
-
 [![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
 
 [![Lilie Jeanneaux](images/marty2.png){fig-alt="Photo of Lilie"}](#lilie)
@@ -262,20 +260,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * Combining a decade of musical training with clinical experience in a therapeutic context,  I strive to bridge the gap by examining neural and physiological correlates of music therapy with a special focus on the intersection of music and health promotion. 
 * [Email](mailto:Bradleyaustinkeiller@videotron.ca), [LinkedIn](https://www.linkedin.com/in/bradley-austin-keiller-297787212/)
 
----------------------------------------------------------
-
-<a name="anais"></a>
-
-#### Anais Rubsamen
-
-::: column-margin
-![](images/anaissm.png){fig-alt="Photo of Anais" width="200"}
-:::
-
-* B.A. Psychology student, McGill University
-* Over the short term, I wish to master software, technologies and techniques used in Psychology research and treatments, with a special focus on Python and R. Over the long term, I wish to develop strategies to improve the care of people living with psychopathologies and chronic pain, with a special focus on BPD.
-* [Email](mailto:anais.rubsamen@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/anaïs-issaeva-rubsamen-9ba222217/) 
-
 ------------------------------------------------------------------------
 
 
@@ -325,8 +309,8 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis')
 
 
-nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Noa','Bradley','Sizhuo','Lilie','Jerome','Louis'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina'))
+nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Sizhuo','Lilie','Jerome','Louis'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais'))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
