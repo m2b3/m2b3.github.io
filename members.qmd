@@ -26,8 +26,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Amanda Pruss](images/marty2.png){fig-alt="Photo of Marty"}](#amanda)
 
-[![Haoxiang Liu](images/haoxiangsm.png){fig-alt="Photo of Haoxiang"}](#haoxiang)
-
 [![Oren Gurevitch](images/orensm.png){fig-alt="Photo of Oren"}](#oren)
 
 [![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin"}](#buxin)
@@ -152,21 +150,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * B.A. in Psychology, McGill.
 * I am also very interested in applying my knowledge in neuroscience in a clinical setting as well, in an effort to help people with conditions related to vision, attention, or epilepsy.
 * [Email](mailto: amanda.pruss@mail.mcgill.ca), [GitHub](https://github.com/amandapruss), [LinkedIn](https://www.linkedin.com/in/amanda-pruss-a78813261/)
-
-------------------------------------------------------------------------
-
-<a name="haoxiang"></a>
-
-#### Haoxiang Liu
-
-::: column-margin
-![](images/haoxiangsm.png){fig-alt="Photo of Haoxiang" width="200"}
-:::
-
--   M.Sc. Student, Integrated Program in Neuroscience, McGill.
--   M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
--   B.Eng. in Network Engineering, University of Electronic Science and Technology of China, Chengdu, China.
--   [Email](mailto:haoxiang.liu@mail.mcgill.ca), [GitHub](https://github.com/hxliu4mcgill)
 
 ------------------------------------------------------------------------
 
@@ -309,8 +292,8 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis')
 
 
-nowies<-is.element(namezlist,c('Suresh','Haoxiang','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Sizhuo','Lilie','Jerome','Louis'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais'))
+nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Sizhuo','Lilie','Jerome','Louis'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang'))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
