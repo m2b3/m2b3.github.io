@@ -331,9 +331,7 @@ tm_shape(World)+
 ### Alumni
 
 *	Masters
-
-		+ Haoxiang Liu (2024), IPN Dual degree program
-		
+	+ Haoxiang Liu (2024), IPN Dual degree program	
 *   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
 *   COMP 401 - Nevine Nzabonimpa
 * 	COGS 444 - Injy Fouda
