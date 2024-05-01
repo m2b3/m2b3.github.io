@@ -267,7 +267,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/LouisSmall.jpg){fig-alt="Photo of Louis" width="200"}
 :::
 
-* Engineering Student, Télécom Paris, Palaiseau, France
+* Engineering Student, Télécom Paris, Palaiseau, France; visiting GSoC 2024 intern.
 * MPSI/PSI CPGE (Math/Physics/Engineering Classes Préparatoires aux Grandes Écoles), Lycée Fénélon Sainte-Marie, Paris, France
 * Passionate about AI and curious about how the brain works, I'm interested in the intersection between these two fields.
 * A great deal of my free time is devoted to sport (running on the slopes of Mount Royal is my second passion) and travels.
