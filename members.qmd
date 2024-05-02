@@ -284,6 +284,10 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 #### Jacky Chen
 
+::: column-margin
+![](images/jackysm.png){fig-alt="Photo de Jacky" width="200"}
+:::
+
 * B.A. in Psychology with double minors in Behavioral Science and Science for Art Students, McGill
 * As someone who enjoys playing the piano, I am curious to explore the ways cognitive processes impact musical expression and attentional shifts. My research interests lie at the intersection of psychology, music, and cognitive science.
 * I was born in Shanghai, China, where I spent the first 18 years of my life. After completing high school, I relocated to Montreal to pursue my studies at McGill University. I really enjoy the lovely summer in Montreal!
@@ -295,6 +299,10 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 #### Yagya Joshi
 
+::: column-margin
+![](images/yagyasm.png){fig-alt="Photo de Yagya" width="200"}
+:::
+
 * B.A. in Psychology with minors in Behavioral Neuroscience and Sociology, McGill University.
 * I am originally from North India. I immigrated to Montreal in 2014 and have been living here ever since. I admire the rich cultural diversity and vibrancy of Montreal.
 * With my Undergraduate degree completed, I am keen to apply my theoretical understanding of psychology and physiology in a laboratory setting to better understand the interaction between mind and behaviour concerning music and attention.
@@ -305,6 +313,11 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 <a name="alexparent"></a>
 
 #### Alex Parent
+
+::: column-margin
+![](images/alexparentsm.png){fig-alt="Photo de Alex" width="200"}
+:::
+
 
 * BA Student, Department of Psychology, McGill University
 * As someone who plays seven instruments and is fascinated by neuroscience, I am fascinated by the interaction between music and the brain.
