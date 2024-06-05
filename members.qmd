@@ -34,11 +34,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning"}](#xinning)
 
-[![Sizhuo Wang](images/sizhuo.png){fig-alt="Photo of Sizhuo"}](#sizhuo)
-
 [![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
-
-[![Lilie Jeanneaux](images/marty2.png){fig-alt="Photo of Lilie"}](#lilie)
 
 [![Louis Martinez](images/LouisSmall.jpg){fig-alt="Photo of Louis"}](#Louis)
 
@@ -220,22 +216,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------
 
-<a name="sizhuo"></a>
-
-#### Sizhou Wang
-
-::: column-margin
-![](images/sizhuo.png){fig-alt="Photo of Sizhuo" width="200"}
-:::
-
-* M.Sc. Student, Integrated Program in Neuroscience, McGill.
-* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
-* B.Eng. in Biomedical Engineering, Taiyuan University of Technology, Taiyuan, China 
-* My research interests lie in developing algorithmic encoding and decoding models to explore the intricate mechanisms of brain, particularly in the field of visual perception. 
-* [Email](mailto:sizhuo.wang@std.uestc.edu.cn)
-
-------------------------------------------------------------------
-
 <a name="bradley"></a>
 
 #### Bradley Austin-Keiller
@@ -248,18 +228,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * Joint B.A. in Psychology and Music, McGill 
 * Combining a decade of musical training with clinical experience in a therapeutic context,  I strive to bridge the gap by examining neural and physiological correlates of music therapy with a special focus on the intersection of music and health promotion. 
 * [Email](mailto:Bradleyaustinkeiller@videotron.ca), [LinkedIn](https://www.linkedin.com/in/bradley-austin-keiller-297787212/)
-
-------------------------------------------------------------------------
-
-
-<a name="lilie"></a>
-
-#### Lilie Jeanneaux
-
-* B. Eng. Civil engineering student, McGill University
-* PCSI CPGE (Physics/Chemistry Classes Préparatoires aux Grandes Écoles), Lycée Louis-le-Grand, Paris, France
-* I would like to continue my studies in the domain of environmental engineering. I'm also passionate about music.
-* [Email](mailto:lilie.jeanneaux@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -342,8 +310,8 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya')
 
 
-nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang'))
+nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Jerome','Louis','Jacky','AlexParent','Yagya'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie'))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -389,7 +357,7 @@ tm_shape(World)+
 *   PSYC 494 - Youzhi Huang
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane
 *   Mackey-Glass research bursary - Tim Yang
-*   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari
+*   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux
 *   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
 
 --------------------------------------------------
