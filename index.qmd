@@ -8,7 +8,7 @@ More details on the [Projects](projects.qmd) page.
 
 
 ::: {layout-nrow="2"}
-[![](images/lp2.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
+[![](images/lp2b.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
 [![](images/pres1234.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
 :::
 
