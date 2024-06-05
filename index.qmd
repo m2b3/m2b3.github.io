@@ -9,12 +9,14 @@ More details on the [Projects](projects.qmd) page.
 
 ::: {layout-nrow="2"}
 [![](images/lp2.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
-[![](images/pres123.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
+[![](images/pres1234.png){fig-alt="Lab Photo" fig-align=left}](members.qmd)
 :::
 
 [More photos](https://m2b3.github.io/members.html#us)
 
 **News**
+
+**May 2024** - Welcoming Jacky, Lian, Alex and Yagya to the lab as undergraduate research trainees. They will be with us for several months to a year.
 
 **April 2024** - Buxin and Haoxiang complete their Masters defense with flying colors. Alexandru, Youzhi, Lilia and Romina complete their year-long research courses. Yohai's team wins third prize in the Mistral AI hackathon in Paris during the R.AI.SE summit.
 
