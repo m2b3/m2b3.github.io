@@ -18,6 +18,8 @@ Funding:
 ![](images/ivado.png){fig-alt="IVADO logo"}
 
 ![](images/unique.png){fig-alt="UNIQUE logo"}
+
+![](images/drac.png){fig-alt="DRIO logo"}
 :::
 :::
 
