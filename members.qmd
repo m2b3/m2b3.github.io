@@ -369,6 +369,7 @@ tm_shape(World)+
 
 *	Masters
 	+ Haoxiang Liu (2024), IPN	
+	+ Buxin Liao (2024), IPN
 *   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
 *   COMP 401 - Nevine Nzabonimpa
 * 	COGS 444 - Injy Fouda
