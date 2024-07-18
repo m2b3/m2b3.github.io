@@ -309,7 +309,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * I have previously participated in an eye tracking experiment at the University of Tel Aviv, Israel.
 * I am passionate about the intersection between the brain and computers, and in my free time I love to do yoga.
 * I am Finnish / Israeli, and I was born in Brussels. I grew up in Israel and Belgium, and moved to Montreal to pursue my bachelor’s degree. 
-* [Email:](mailto:lian.mouwes@icloud.com), [LinkedIn:](http://linkedin.com/in/lian-m-46939229b)
+* [Email](mailto:lian.mouwes@icloud.com), [LinkedIn](http://linkedin.com/in/lian-m-46939229b)
 
 ------------------------------------------------------------------------
 
@@ -323,7 +323,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 * B. Sc student, Neuroscience program, McGill
 * My research interests lie in computational neuroscience, as I believe that computational models have the power to capture the brain's inner workings. In my free time I enjoy reading and solo traveling.
-* [Email:](mailto:alex.zhao@mail.mcgill.ca)
+* [Email](mailto:alex.zhao@mail.mcgill.ca)
 
 -----------------------------------------------------------------
 
