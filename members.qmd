@@ -46,7 +46,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Lian Mouwes](images/liansm.png){fig-alt="Photo of Lian"}](#lian)
 
-[![Alex Zhao](images/alexsm.png){fig-alt="Photo of Alex"}](#azhao)
+[![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex"}](#azhao)
 
 :::
 
