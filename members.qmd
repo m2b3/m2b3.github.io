@@ -46,6 +46,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Lian Mouwes](images/liansm.png){fig-alt="Photo of Lian"}](#lian)
 
+[![Alex Zhao](images/alexsm.png){fig-alt="Photo of Alex"}](#azhao)
+
 :::
 
 [comm1]: # (### Current undergraduate observers) 
@@ -310,6 +312,19 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * [Email:](mailto:lian.mouwes@icloud.com), [LinkedIn:](http://linkedin.com/in/lian-m-46939229b)
 
 ------------------------------------------------------------------------
+<a name="azhao"></a>
+
+#### Alex Zhao
+
+::: column-margin
+![](images/alexsm.png){fig-alt="Photo of AlexZhao" width="200"}
+:::
+
+* B. Sc student, Neuroscience program, McGill
+* My research interests lie in computational neuroscience, as I believe that computational models have the power to capture the brain's inner workings. In my free time I enjoy reading and solo traveling.
+* [Email:](mailto:alex.zhao@mail.mcgill.ca)
+
+-----------------------------------------------------------------
 
 ### Where we are from
 
@@ -322,14 +337,13 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,30.0444,41.084148,37,45.45778,45.56583,50.848383801134766,45.5019,33.885340,32.3274,14.6584,32.4279,37.8706,50.6,45.25,48.84674234948124,31.2304,41.9001,31.311206,60.29335)
+latlist <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,30.0444,41.084148,37,45.45778,45.56583,50.848383801134766,45.5019,33.885340,32.3274,14.6584,32.4279,37.8706,50.6,45.25,48.84674234948124,31.2304,41.9001,31.311206,60.29335,45.30 )
 
-lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357,29.035460,3,-73.88489,-73.31437,4.350009489440508,-73.567,35.511500,50.8650,100.3947,53.6880,112.5486,3,5.75,2.3724100000000004,121.4737,-71.0898,75.584556,25.03784)
+lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357,29.035460,3,-73.88489,-73.31437,4.350009489440508,-73.567,35.511500,50.8650,100.3947,53.6880,112.5486,3,5.75,2.3724100000000004,121.4737,-71.0898,75.584556,25.03784,-73.33)
 
-namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya','Lian')
+namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya','Lian','Alex')
 
-
-nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Jerome','Louis','Jacky','AlexParent','Yagya','Lian'))
+nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Jerome','Louis','Jacky','AlexParent','Yagya','Lian','Alex'))
 oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie'))
 
 lat<-latlist[nowies]
