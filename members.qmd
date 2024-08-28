@@ -411,6 +411,6 @@ tm_shape(World)+
 
 !["Point d'eau"](images/3brass.png){fig-alt="labgath"}
 
-!["Thompson House"](images/lp2sm.png){fig-alt="labgath"}
+![Harry Potter](images/lp2sm.png){fig-alt="labgath"}
 
 :::
