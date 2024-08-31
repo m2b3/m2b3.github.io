@@ -34,8 +34,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning"}](#xinning)
 
-[![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
-
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky"}](#jacky)
 
 [![Alex Parent](images/alexparentsm.png){fig-alt="Photo of Alex"}](#alexparent)
@@ -214,21 +212,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * B.Sc. in Information Security, Xi'an University of Posts and Telecommunication, Xian, China.
 * [Email](mailto:xinning.le@mail.mcgill.ca)
 
-------------------------------------------------------------------
-
-<a name="bradley"></a>
-
-#### Bradley Austin-Keiller
-
-::: column-margin
-![](images/bradleysm.png){fig-alt="Photo of Bradley" width="200"}
-:::
-
-* GrDip Music Therapy Student, Department of Fine Arts, Concordia 
-* Joint B.A. in Psychology and Music, McGill 
-* Combining a decade of musical training with clinical experience in a therapeutic context,  I strive to bridge the gap by examining neural and physiological correlates of music therapy with a special focus on the intersection of music and health promotion. 
-* [Email](mailto:Bradleyaustinkeiller@videotron.ca), [LinkedIn](https://www.linkedin.com/in/bradley-austin-keiller-297787212/)
-
 ------------------------------------------------------------------------
 
 
@@ -309,8 +292,8 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya','Lian','Alex')
 
-nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Jerome','Jacky','AlexParent','Lian','Alex'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie','Yagya','Louis'))
+nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Jerome','Jacky','AlexParent','Lian','Alex'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie','Yagya','Louis','Bradley'))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -359,7 +342,7 @@ tm_shape(World)+
 *   Mackey-Glass research bursary - Tim Yang
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi
 *   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
-* Interns - Louis Martinez
+* Interns - Louis Martinez, Bradley Austin-Keiller
 
 --------------------------------------------------
 
