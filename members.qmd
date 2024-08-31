@@ -36,11 +36,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Bradley Austin-Keiller](images/bradleysm.png){fig-alt="Photo of Bradley"}](#bradley)
 
-[![Louis Martinez](images/LouisSmall.jpg){fig-alt="Photo of Louis"}](#Louis)
-
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky"}](#jacky)
-
-[![Yagya Joshi](images/yagyasm.png){fig-alt="Photo of Yagya"}](#yagya)
 
 [![Alex Parent](images/alexparentsm.png){fig-alt="Photo of Alex"}](#alexparent)
 
@@ -235,22 +231,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Louis"></a>
-
-#### Louis Martinez
-
-::: column-margin
-![](images/LouisSmall.jpg){fig-alt="Photo of Louis" width="200"}
-:::
-
-* Engineering Student, Télécom Paris, Palaiseau, France; visiting GSoC 2024 intern.
-* MPSI/PSI CPGE (Math/Physics/Engineering Classes Préparatoires aux Grandes Écoles), Lycée Fénélon Sainte-Marie, Paris, France
-* Passionate about AI and curious about how the brain works, I'm interested in the intersection between these two fields.
-* A great deal of my free time is devoted to sport (running on the slopes of Mount Royal is my second passion) and travels.
-* [Email](mailto:louis.martinez@telecom-paris.fr), [Github](https://github.com/lmartinez2001/),[LinkedIn](https://www.linkedin.com/in/louis-martinez-5586b71b7/)
-
-------------------------------------------------------------------------
-
 
 <a name="jacky"></a>
 
@@ -264,21 +244,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 * As someone who enjoys playing the piano, I am curious to explore the ways cognitive processes impact musical expression and attentional shifts. My research interests lie at the intersection of psychology, music, and cognitive science.
 * I was born in Shanghai, China, where I spent the first 18 years of my life. After completing high school, I relocated to Montreal to pursue my studies at McGill University. I really enjoy the lovely summer in Montreal!
 * [Email](mailto:yijun.chen@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="yagya"></a>
-
-#### Yagya Joshi
-
-::: column-margin
-![](images/yagyasm.png){fig-alt="Photo de Yagya" width="200"}
-:::
-
-* B.A. in Psychology with minors in Behavioral Neuroscience and Sociology, McGill University.
-* I am originally from North India. I immigrated to Montreal in 2014 and have been living here ever since. I admire the rich cultural diversity and vibrancy of Montreal.
-* With my Undergraduate degree completed, I am keen to apply my theoretical understanding of psychology and physiology in a laboratory setting to better understand the interaction between mind and behaviour concerning music and attention.
-* [Email](mailto:yagya.joshi@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -344,8 +309,8 @@ lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,
 
 namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya','Lian','Alex')
 
-nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Jerome','Louis','Jacky','AlexParent','Yagya','Lian','Alex'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie'))
+nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Bradley','Jerome','Jacky','AlexParent','Lian','Alex'))
+oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie','Yagya','Louis'))
 
 lat<-latlist[nowies]
 lon<-lonlist[nowies]
@@ -392,8 +357,9 @@ tm_shape(World)+
 *   PSYC 494 - Youzhi Huang
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane
 *   Mackey-Glass research bursary - Tim Yang
-*   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux
+*   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi
 *   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
+* Interns - Louis Martinez
 
 --------------------------------------------------
 
