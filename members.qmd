@@ -341,8 +341,7 @@ tm_shape(World)+
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane
 *   Mackey-Glass research bursary - Tim Yang
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller
-*   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye
-* Visiting students - Louis Martinez
+*   Google Summer of Code interns - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi
 
 --------------------------------------------------
 
