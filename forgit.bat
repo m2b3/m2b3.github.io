@@ -1,5 +1,11 @@
 @echo off
 
+REM Handle the commit message
+SET msg="minor change"
+IF NOT [%1] == [] SET msg=%1
+
+echo %msg%
+
 REM Check if the second argument is "dopy"
 IF [%2] == [dopy] (
     echo "Dopy mode activated"
@@ -15,11 +21,7 @@ IF [%2] == [dopy] (
     popd
 )
 
-REM Handle the commit message
-SET msg="minor change"
-IF NOT [%1] == [] SET msg=%1
 
-echo %msg%
 call quarto.cmd render
 
 REM Check if the third argument is "dogit"
