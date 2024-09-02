@@ -3,10 +3,15 @@
 REM Check if the second argument is "dopy"
 IF [%2] == [dopy] (
     echo "Dopy mode activated"
-    pushd ..\pyplay
+    pushd ..\py_m2b3
     python Generate.py
-    move members_en.qmd ..\m2b3en\members.qmd
-    move members_fr.qmd ..\fr\members.qmd
+    copy members_en.qmd ..\m2b3en\members.qmd
+    copy members_fr.qmd ..\fr\members.qmd
+	IF [%3] == [dogit] (
+	git add -A
+	git commit -m %msg% 
+	git push
+	)
     popd
 )
 
