@@ -1,3 +1,4 @@
+
 ---
 execute:
   echo: false
@@ -16,40 +17,34 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 :::
 
 ::: {#members layout-ncol="6"}
-[![Suresh Krishna](images/sureshsm.png){fig-alt="Photo of Suresh"}](#suresh)
+[![Suresh Krishna](images/sureshsm.png){fig-alt="Photo of Suresh Krishna"}](#suresh)
 
-[![Katarzyna Jurewicz](images/kasia.png){fig-alt="Photo of Kasia"}](#kasia)
+[![Katarzyna (Kasia) Jurewicz](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz"}](#kasia)
 
-[![Jerome Carriot](images/Jerome2.jpg){fig-alt="Photo of Jerome"}](#jerome)
+[![Jerome Carriot](images/Jerome2.jpg){fig-alt="Photo of Jerome Carriot"}](#jerome)
 
-[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai"}](#yohai)
+[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai-Eliel Berreby"}](#yohai)
 
-[![Amanda Pruss](images/marty2.png){fig-alt="Photo of Marty"}](#amanda)
+[![Amanda Pruss](images/marty2.png){fig-alt="Photo of Amanda Pruss"}](#amanda)
 
-[![Oren Gurevitch](images/orensm.png){fig-alt="Photo of Oren"}](#oren)
+[![Oren Gurevitch](images/orensm.png){fig-alt="Photo of Oren Gurevitch"}](#oren)
 
-[![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin"}](#buxin)
+[![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin Liao"}](#buxin)
 
-[![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa"}](#noa)
+[![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa Kemp"}](#noa)
 
-[![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning"}](#xinning)
+[![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning Le"}](#xinning)
 
-[![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky"}](#jacky)
+[![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
 
-[![Alex Parent](images/alexparentsm.png){fig-alt="Photo of Alex"}](#alexparent)
+[![Alex Parent](images/alexparentsm.png){fig-alt="Photo of Alex Parent"}](#alexparent)
 
-[![Lian Mouwes](images/liansm.png){fig-alt="Photo of Lian"}](#lian)
+[![Lian Mouwes](images/liansm.png){fig-alt="Photo of Lian Mouwes"}](#lian)
 
-[![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex"}](#azhao)
+[![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
+
 
 :::
-
-[comm1]: # (### Current undergraduate observers) 
-[comm2]: # (::: {#observers layout-ncol="5"})
-[comm3]: # ([![Yavuz Shahzad](images/yavuzsm.png){fig-alt="Photo of Yavuz"}](#yavuz))
-[comm4]: # (:::)
-[comm5]: # ### Google Summer of Code Interns
-
 
 ### Collaborators
 
@@ -83,16 +78,14 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Suresh Krishna
 
 ::: column-margin
-![](images/sureshsm.png){fig-alt="Photo of Suresh" width="200"}
+![](images/sureshsm.png){fig-alt="Photo of Suresh Krishna" width="200"}
 :::
 
 -   Associate Professor, Department of Physiology, McGill.
-
 -   MBBS (Med School), AIIMS, New Delhi; PhD, NYU, New York.
-
 -   Spent time at Columbia University, CNRS (Lyon), German Primate Center (Goettingen), MPI for Human Development (Berlin), before coming to McGill (Jan 2020).
 
--   [Email](mailto:suresh.krishna@mcgill.ca); [Google Scholar](https://tinyurl.com/ypeu5ha3)
+[Email](mailto:suresh.krishna@mcgill.ca); [Google Scholar]( Google Scholar - https://tinyurl.com/ypeu5ha3)
 
 ------------------------------------------------------------------------
 
@@ -101,44 +94,54 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Katarzyna (Kasia) Jurewicz
 
 ::: column-margin
-![](images/kasia.png){fig-alt="Photo of Kasia" width="200"}
+![](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz" width="200"}
 :::
 
 -   Post-doctoral fellow, Department of Physiology, McGill.
 -   MSc in Psychology, University of Warsaw; PhD in Neurobiology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw.
--   Previously, I was a post-doc in Dr. Becket Ebitz' lab (Noise lab) at Université de Montréal. Earlier, I conducted research in Dr. Ewa Kublik's Cortico-Thalamic Group at the Nencki Institute of Experimental Biology. My PhD work was supervised by Prof. Andrzej Wróbel in the Laboratory of the Visual System at Nencki.
--   [Email](mailto:katarzyna.jurewicz@mcgill.ca); [Google Scholar](http://www.tinyurl.com/kjurewicz-scholar)
+-   Previously, I was a post-doc in Dr.
+-   Becket Ebitz' lab (Noise lab) at UniversitÃ© de MontrÃ©al.
+-   Earlier, I conducted research in Dr.
+-   Ewa Kublik's Cortico-Thalamic Group at the Nencki Institute of Experimental Biology.
+-   My PhD work was supervised by Prof.
+-   Andrzej WrÃ³bel in the Laboratory of the Visual System at Nencki.
+
+[Email](mailto:katarzyna.jurewicz@mail.mcgill.ca); [Google Scholar]( http://www.tinyurl.com/kjurewicz-scholar)
 
 ------------------------------------------------------------------------
-
 
 <a name="jerome"></a>
 
 #### Jerome Carriot
 
 ::: column-margin
-![](images/Jerome2.jpg){fig-alt="Photo of Jerome" width="200"}
+![](images/Jerome2.jpg){fig-alt="Photo of Jerome Carriot" width="200"}
 :::
 
 -   Research Associate, Department of Physiology, McGill.
 -   PhD, Joseph Fourier University, Grenoble, France.
--   For the past two decades, I have been working on the vestibular system. I have held positions as a postdoctoral researcher and research associate at several institutions, including Brandeis University in Boston, the University of Western Ontario in London, and McGill University. My specialization lies in neural encoding of self-motion within the vestibular pathway.
--   [Email](mailto:Jerome.carriot@mcgill.ca); [Google Scholar](https://scholar.google.ca/citations?hl=en&user=rEzMXEUAAAAJ); [ResearchGate](https://www.researchgate.net/profile/Jerome-Carriot)
+-   For the past two decades, I have been working on the vestibular system.
+-   I have held positions as a postdoctoral researcher and research associate at several institutions, including Brandeis University in Boston, the University of Western Ontario in London, and McGill University.
+-   My specialization lies in neural encoding of self-motion within the vestibular pathway.
 
---------------------------------------------------------------------------
+[Email](mailto:Jerome.Carriot@mcgill.ca); [Google Scholar](https://scholar.google.ca/citations?hl=en&user=rEzMXEUAAAAJ); [ResearchGate]( https://www.researchgate.net/profile/Jerome-Carriot)
+
+------------------------------------------------------------------------
 
 <a name="yohai"></a>
 
-#### Yohaï-Eliel Berreby
+#### Yohai-Eliel Berreby
 
 ::: column-margin
-![](images/yohaism2.png){fig-alt="Photo of Yohai" width="200"}
+![](images/yohaism2.png){fig-alt="Photo of Yohai-Eliel Berreby" width="200"}
 :::
 
--   M.Sc. student, Department of Physiology, McGill
--   *Diplôme d'Ingénieur* (combined B.Sc. and M.Sc. in Engineering), Télécom Paris, Palaiseau, France
--   MPSI/MP CPGE (Math/Physics [*Classes Préparatoires aux Grandes Écoles*](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)), Lycée Hoche, Versailles, France
--   [Email](mailto:yohai-eliel.berreby@mail.mcgill.ca), [GitHub](https://github.com/yberreby/), [LinkedIn](https://linkedin.com/in/yberreby)
+-   Ph.D.
+-   student, Department of Physiology, McGill DiplÃ´me d'IngÃ©nieur (combined B.Sc.
+-   and M.Sc.
+-   in Engineering), TÃ©lÃ©com Paris, Palaiseau, France MPSI/MP CPGE (Math/Physics [*Classes PrÃ©paratoires aux Grandes Ã‰coles*](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)), LycÃ©e Hoche, Versailles, France
+
+[Email](mailto:yohai-eliel.berreby@mail.mcgill.ca); [GitHub]( https://github.com/yberreby/); [LinkedIn]( https://linkedin.com/in/yberreby)
 
 ------------------------------------------------------------------------
 
@@ -146,10 +149,17 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 #### Amanda Pruss
 
-* M.Sc. Student, Integrated Program in Neuroscience, McGill.
-* B.A. in Psychology, McGill.
-* I am also very interested in applying my knowledge in neuroscience in a clinical setting as well, in an effort to help people with conditions related to vision, attention, or epilepsy.
-* [Email](mailto: amanda.pruss@mail.mcgill.ca), [GitHub](https://github.com/amandapruss), [LinkedIn](https://www.linkedin.com/in/amanda-pruss-a78813261/)
+::: column-margin
+![](images/marty2.png){fig-alt="Photo of Amanda Pruss" width="200"}
+:::
+
+-   M.Sc.
+-   Student, Integrated Program in Neuroscience, McGill.
+-   B.A.
+-   in Psychology, McGill.
+-   I am also very interested in applying my knowledge in neuroscience in a clinical setting as well, in an effort to help people with conditions related to vision, attention, or epilepsy.
+
+[Email](mailto:amanda.pruss@mail.mcgill.ca); [GitHub]( https://github.com/amandapruss); [LinkedIn]( https://www.linkedin.com/in/amanda-pruss-a78813261/)
 
 ------------------------------------------------------------------------
 
@@ -158,13 +168,17 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Oren Gurevitch
 
 ::: column-margin
-![](images/orensm.png){fig-alt="Photo of Oren" width="200"}
+![](images/orensm.png){fig-alt="Photo of Oren Gurevitch" width="200"}
 :::
 
--   M.Sc. Student, Department of Physiology, McGill.
--   B.Sc. in Neuroscience, Bar-Ilan University, Ramat Gan, Israel.
--   Previously, I was a research assistant working on sensory processing using rats, at Bar-Ilan University under Professor Adam Zaidel. Before that, as a lab assistant at the Weizmann Institute of Science, I worked on Multiple Sclerosis research with Professor Idit Shachar.
--   [Email](mailto:oren.gurevitch@mail.mcgill.ca), [GitHub](https://github.com/OrenGurevitch), [LinkedIn](https://www.linkedin.com/in/oren-gurevitch/)
+-   M.Sc.
+-   Student, Department of Physiology, McGill.
+-   B.Sc.
+-   in Neuroscience, Bar-Ilan University, Ramat Gan, Israel.
+-   Previously, I was a research assistant working on sensory processing using rats, at Bar-Ilan University under Professor Adam Zaidel.
+-   Before that, as a lab assistant at the Weizmann Institute of Science, I worked on Multiple Sclerosis research with Professor Idit Shachar.
+
+[Email](mailto:oren.gurevitch@mail.mcgill.ca)); [GitHub]( https://github.com/OrenGurevitch); [LinkedIn]( https://www.linkedin.com/in/oren-gurevitch/)
 
 ------------------------------------------------------------------------
 
@@ -173,60 +187,76 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Buxin Liao
 
 ::: column-margin
-![](images/buxinsm.png){fig-alt="Photo of Buxin" width="200"}
+![](images/buxinsm.png){fig-alt="Photo of Buxin Liao" width="200"}
 :::
 
-* M.Sc. Student, Integrated Program in Neuroscience, McGill.
-* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
-* B.Eng. in Biomedical Engineering, Southeast University, Nanjing, China.
-* [Email](mailto:buxin.liao@mail.mcgill.ca), [GitHub](https://github.com/D-Fonauton)
+-   Ph.D.
+-   Student, Integrated Program in Neuroscience, McGill.
+-   M.Eng.
+-   Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
+-   B.Eng.
+-   in Biomedical Engineering, Southeast University, Nanjing, China.
 
------------------------------------------------------------
+[Email](mailto:buxin.liao@mail.mcgill.ca); [GitHub]( https://github.com/D-Fonauton)
+
+------------------------------------------------------------------------
 
 <a name="noa"></a>
 
 #### Noa Kemp
 
 ::: column-margin
-![](images/noasm.png){fig-alt="Photo of Noa" width="200"}
+![](images/noasm.png){fig-alt="Photo of Noa Kemp" width="200"}
 :::
 
-* M.Sc. Student, Department of Physiology, McGill.
-* B.Sc. in Biology and Computer Science, McGill.
-* Between musical theater, computer science and the brain - I wasn’t able to chose so I will focus on one of their intersections: the study of audiovisual space and object perception.
-* I was born and raised in Belgium. However half of my family lives in Israel and I have spent most of my summers there. Today, the place I truly call home is definitely Montreal.
-* [Email](mailto:noa.kemp@mail.mcgill.ca)
+-   M.Sc.
+-   Student, Department of Physiology, McGill.
+-   B.Sc.
+-   in Biology and Computer Science, McGill.
+-   Between musical theater, computer science and the brain - I wasnâ€™t able to chose so I will focus on one of their intersections: the study of audiovisual space and object perception.
+-   I was born and raised in Belgium.
+-   However half of my family lives in Israel and I have spent most of my summers there.
+-   Today, the place I truly call home is definitely Montreal.
 
-------------------------------------------------------------------
+[Email](mailto:noa.kemp@mail.mcgill.ca)
+
+------------------------------------------------------------------------
 
 <a name="xinning"></a>
 
 #### Xinning Le
 
 ::: column-margin
-![](images/xinning.png){fig-alt="Photo of Xinning" width="200"}
+![](images/xinning.png){fig-alt="Photo of Xinning Le" width="200"}
 :::
 
-* M.Sc. Student, Integrated Program in Neuroscience, McGill.
-* M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
-* B.Sc. in Information Security, Xi'an University of Posts and Telecommunication, Xian, China.
-* [Email](mailto:xinning.le@mail.mcgill.ca)
+-   M.Sc.
+-   Student, Integrated Program in Neuroscience, McGill.
+-   M.Eng.
+-   Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
+-   B.Sc.
+-   in Information Security, Xi'an University of Posts and Telecommunication, Xian, China.
+
+[Email](mailto:xinning.le@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
-
 
 <a name="jacky"></a>
 
 #### Jacky Chen
 
 ::: column-margin
-![](images/jackysm.png){fig-alt="Photo de Jacky" width="200"}
+![](images/jackysm.png){fig-alt="Photo of Jacky Chen" width="200"}
 :::
 
-* B.A. in Psychology with double minors in Behavioral Science and Science for Art Students, McGill
-* As someone who enjoys playing the piano, I am curious to explore the ways cognitive processes impact musical expression and attentional shifts. My research interests lie at the intersection of psychology, music, and cognitive science.
-* I was born in Shanghai, China, where I spent the first 18 years of my life. After completing high school, I relocated to Montreal to pursue my studies at McGill University. I really enjoy the lovely summer in Montreal!
-* [Email](mailto:yijun.chen@mail.mcgill.ca)
+-   B.A.
+-   in Psychology with double minors in Behavioral Science and Science for Art Students, McGill As someone who enjoys playing the piano, I am curious to explore the ways cognitive processes impact musical expression and attentional shifts.
+-   My research interests lie at the intersection of psychology, music, and cognitive science.
+-   I was born in Shanghai, China, where I spent the first 18 years of my life.
+-   After completing high school, I relocated to Montreal to pursue my studies at McGill University.
+-   I really enjoy the lovely summer in Montreal!
+
+[Email](mailto:yijun.chen@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -235,13 +265,12 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Alex Parent
 
 ::: column-margin
-![](images/alexparentsm.png){fig-alt="Photo of Alex" width="200"}
+![](images/alexparentsm.png){fig-alt="Photo of Alex Parent" width="200"}
 :::
 
+-   BA Student, Department of Psychology, McGill University As someone who plays seven instruments and is fascinated by neuroscience, I am fascinated by the interaction between music and the brain.
 
-* BA Student, Department of Psychology, McGill University
-* As someone who plays seven instruments and is fascinated by neuroscience, I am fascinated by the interaction between music and the brain.
-* [Email](mailto:alexandra.parent@mail.mcgill.ca), [LinkedIn](https://www.linkedin.com/in/alex-parent-82b456261)
+[Email](mailto:alexandra.parent@mail.mcgill.ca); [LinkedIn]( https://www.linkedin.com/in/alex-parent-82b456261)
 
 ------------------------------------------------------------------------
 
@@ -250,14 +279,19 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Lian Mouwes
 
 ::: column-margin
-![](images/liansm.png){fig-alt="Photo of Lian" width="200"}
+![](images/liansm.png){fig-alt="Photo of Lian Mouwes" width="200"}
 :::
 
-* B.A. & Sc. Student, Cognitive Science program, McGill. Minor in International Development.
-* I have previously participated in an eye tracking experiment at the University of Tel Aviv, Israel.
-* I am passionate about the intersection between the brain and computers, and in my free time I love to do yoga.
-* I am Finnish / Israeli, and I was born in Brussels. I grew up in Israel and Belgium, and moved to Montreal to pursue my bachelor’s degree. 
-* [Email](mailto:lian.mouwes@icloud.com), [LinkedIn](http://linkedin.com/in/lian-m-46939229b)
+-   B.A.
+-   & Sc.
+-   Student, Cognitive Science program, McGill.
+-   Minor in International Development.
+-   I have previously participated in an eye tracking experiment at the University of Tel Aviv, Israel.
+-   I am passionate about the intersection between the brain and computers, and in my free time I love to do yoga.
+-   I am Finnish / Israeli, and I was born in Brussels.
+-   I grew up in Israel and Belgium, and moved to Montreal to pursue my bachelorâ€™s degree.
+
+[Email](mailto:lian.mouwes@icloud.com); [LinkedIn]( http://linkedin.com/in/lian-m-46939229b)
 
 ------------------------------------------------------------------------
 
@@ -266,14 +300,17 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Alex Zhao
 
 ::: column-margin
-![](images/alexsm.jpg){fig-alt="Photo of AlexZhao" width="200"}
+![](images/alexsm.jpg){fig-alt="Photo of Alex Zhao" width="200"}
 :::
 
-* B. Sc student, Neuroscience program, McGill
-* My research interests lie in computational neuroscience, as I believe that computational models have the power to capture the brain's inner workings. In my free time I enjoy reading and solo traveling.
-* [Email](mailto:alex.zhao@mail.mcgill.ca)
+-   B.
+-   Sc student, Neuroscience program, McGill My research interests lie in computational neuroscience, as I believe that computational models have the power to capture the brain's inner workings.
+-   In my free time I enjoy reading and solo traveling.
 
------------------------------------------------------------------
+[Email](mailto:alex.zhao@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### Where we are from
 
@@ -286,20 +323,20 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053,32.082330,43.6532,53.13333,43.70313,48.831704,30.0444,41.084148,37,45.45778,45.56583,50.848383801134766,45.5019,33.885340,32.3274,14.6584,32.4279,37.8706,50.6,45.25,48.84674234948124,31.2304,41.9001,31.311206,60.29335,45.30 )
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 30.605053, 30.605053)
 
-lonlist <- c(76.874224, 104.074123,34.881787,-79.3832,23.16433,7.26608,1.609642,31.2357,29.035460,3,-73.88489,-73.31437,4.350009489440508,-73.567,35.511500,50.8650,100.3947,53.6880,112.5486,3,5.75,2.3724100000000004,121.4737,-71.0898,75.584556,25.03784,-73.33)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 104.074123, 104.074123)
 
-namezlist <- c('Suresh','Haoxiang','Oren','Amanda','Kasia','Anais','Yohai','Injy','Yavuz','Lilia','Alexandru','Youzhi','Noa','Bradley','Sarah','Pegah','Divi','Romina','Sizhuo','Lilie','Jerome','Louis','Jacky','AlexParent','Yagya','Lian','Alex')
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "buxin", "xinning")
 
-nowies<-is.element(namezlist,c('Suresh','Oren','Amanda','Kasia','Yohai','Noa','Jerome','Jacky','AlexParent','Lian','Alex'))
-oldies<-is.element(namezlist,c('Injy','Sarah','Pegah','Yavuz','Divi','Alexandru','Lilia','Youzhi','Romina','Anais','Haoxiang','Lilie','Yagya','Louis','Bradley'))
+nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jerome", "jacky", "alexparent", "lian", "azhao", "buxin", "xinning"))
+oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "Louis", "Yagya"))
 
-lat<-latlist[nowies]
-lon<-lonlist[nowies]
+lat <- latlist[nowies]
+lon <- lonlist[nowies]
 
-latold<-latlist[oldies]
-lonold<-lonlist[oldies]
+latold <- latlist[oldies]
+lonold <- lonlist[oldies]
 
 geocode <- data.frame(lon,lat)
 geocode2 <- st_as_sf(geocode, coords = c("lon", "lat"), crs = 4326)
@@ -362,3 +399,4 @@ tm_shape(World)+
 ![Harry Potter](images/lp2sm.png){fig-alt="labgath"}
 
 :::
+
