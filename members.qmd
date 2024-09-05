@@ -41,6 +41,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
 
+[![Evan Jiang](images/ejiang.jpg){fig-alt="Photo of Evan Jiang"}](#evan)
+
 
 :::
 
@@ -285,6 +287,22 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="evan"></a>
+
+#### Evan Jiang
+
+::: column-margin
+![](images/ejiang.jpg){fig-alt="Photo of Evan Jiang" width="200"}
+:::
+
+-   B. Sc student, Major Computer Science and Biology, Mcgill
+
+-   I initially started in the life science program but developed a strong interest in programming, which led me to combine these interests by switching to a major in computer science and biology. My research interests now lie in computational biology, with a particular focus on neurology.
+
+-   [Email](mailto:duoduo.jiang@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### Where we are from
 
@@ -297,13 +315,13 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 30.605053, 30.605053)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 30.605053, 30.605053, 31.9796)
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 104.074123, 104.074123)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 104.074123, 104.074123, 120.8937)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "buxin", "xinning")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "buxin", "xinning", "evan")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jerome", "jacky", "alexparent", "azhao", "buxin", "xinning"))
+nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jerome", "jacky", "alexparent", "azhao", "buxin", "xinning", "evan"))
 oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "Louis", "Yagya", "lian"))
 
 lat <- latlist[nowies]
