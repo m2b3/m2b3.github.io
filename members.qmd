@@ -21,8 +21,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Katarzyna (Kasia) Jurewicz](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz"}](#kasia)
 
-[![Jerome Carriot](images/Jerome2.jpg){fig-alt="Photo of Jerome Carriot"}](#jerome)
-
 [![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai-Eliel Berreby"}](#yohai)
 
 [![Amanda Pruss](images/marty2.png){fig-alt="Photo of Amanda Pruss"}](#amanda)
@@ -108,24 +106,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   Previously, I was a post-doc in Dr. Becket Ebitz' lab (Noise lab) at Université de Montréal. Earlier, I conducted research in Dr. Ewa Kublik's Cortico-Thalamic Group at the Nencki Institute of Experimental Biology. My PhD work was supervised by Prof. Andrzej Wróbel in the Laboratory of the Visual System at Nencki.
 
 -   [Email](mailto:katarzyna.jurewicz@mail.mcgill.ca); [Google Scholar]( http://www.tinyurl.com/kjurewicz-scholar)
-
-------------------------------------------------------------------------
-
-<a name="jerome"></a>
-
-#### Jerome Carriot
-
-::: column-margin
-![](images/Jerome2.jpg){fig-alt="Photo of Jerome Carriot" width="200"}
-:::
-
--   Research Associate, Department of Physiology, McGill.
-
--   PhD, Joseph Fourier University, Grenoble, France.
-
--   For the past two decades, I have been working on the vestibular system. I have held positions as a postdoctoral researcher and research associate at several institutions, including Brandeis University in Boston, the University of Western Ontario in London, and McGill University. My specialization lies in neural encoding of self-motion within the vestibular pathway.
-
--   [Email](mailto:Jerome.Carriot@mcgill.ca); [Google Scholar](https://scholar.google.ca/citations?hl=en&user=rEzMXEUAAAAJ); [ResearchGate]( https://www.researchgate.net/profile/Jerome-Carriot)
 
 ------------------------------------------------------------------------
 
@@ -341,8 +321,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "buxin", "xinning", "evan", "isidore")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jerome", "jacky", "alexparent", "azhao", "buxin", "xinning", "evan", "isidore"))
-oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "Louis", "Yagya", "lian"))
+nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "alexparent", "azhao", "buxin", "xinning", "evan", "isidore"))
+oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "Yagya", "lian"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
