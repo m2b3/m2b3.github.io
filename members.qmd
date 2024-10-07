@@ -43,7 +43,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Isidore Victorri](images/Isidore.jpg){fig-alt="Photo of Isidore Victorri"}](#isidore)
 
-[![Maya Aderka](images/maya.jpg){fig-alt="Photo of Maya Aderka"}](#maya)
+[![Maya Aderka](images/maya.jpeg){fig-alt="Photo of Maya Aderka"}](#maya)
 
 
 :::
@@ -310,7 +310,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Maya Aderka
 
 ::: column-margin
-![](images/maya.jpg){fig-alt="Photo of Maya Aderka" width="200"}
+![](images/maya.jpeg){fig-alt="Photo of Maya Aderka" width="200"}
 :::
 
 -   M.Sc. Student, Department of Physiology, McGill.
