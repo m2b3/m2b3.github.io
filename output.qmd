@@ -23,8 +23,6 @@ output:
 
 #### Output from m2b3 lab members continuing/completing their prior work.
 
-* Neural populations within macaque early vestibular pathways are adapted to encode natural self-motion. Mohammadi M, *Carriot J*, Mackrous I, Cullen KE, Chacron MJ (2024).[PLoS Biol 22(4): e3002623] (https://doi.org/10.1371/journal.pbio.3002623)
-
 * Investigating Efficient Deep Learning Architectures For Side-Channel Attacks on AES. [arXiv](https://arxiv.org/abs/2309.13170). *Berreby Y-E*, Sauvage, L. (2023).
 
 * Jurewicz, K., Sleezer, B.J., Mehta, P.S., Hayden, B. Y., Ebitz, R.B.  (2024). Irrational choices via a curvilinear representational geometry for value. [Nat Commun 15, 6424.](https://doi.org/10.1038/s41467-024-49568-4)
