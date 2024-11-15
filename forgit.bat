@@ -21,6 +21,7 @@ IF [%2] == [dopy] (
     popd
 )
 
+echo "now doing quarto"
 
 call quarto.cmd render
 
