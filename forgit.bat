@@ -10,7 +10,7 @@ REM Check if the second argument is "dopy"
 IF [%2] == [dopy] (
     echo "Dopy mode activated"
     pushd ..\py_m2b3
-    python Generate.py
+    call python Generate.py
     copy members_en.qmd ..\m2b3en\members.qmd
     copy members_fr.qmd ..\fr\members.qmd
 	IF [%3] == [dogit] (
@@ -19,8 +19,10 @@ IF [%2] == [dopy] (
 	git push
 	)
     popd
+
 )
 
+echo "hello"
 echo "now doing quarto"
 
 call quarto.cmd render
