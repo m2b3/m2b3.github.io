@@ -61,7 +61,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Prof. Simone Dalla Bella, co-Director, BRAMS, UdeM](images/SDB.png){fig-alt="Photo of Simone"}](https://brams.org/members/simone-dalla-bella/)
 
-[![Prof. Hongmei Yan, UESTC](images/yhm.png){fig-alt="Photo of Hongmei"}](https://www.neuro.uestc.edu.cn/vccl/yhm.html)
+[![Prof. Audrey Durand, U.Laval](images/Audreysm.png){fig-alt="Photo of Audrey"}](https://audur2.ift.ulaval.ca/)
 
 [![Prof. Dang Nguyen, Neurology, CHUM](images/dang.png){fig-alt="Photo of Dang Nguyen"}](https://neurosciences.umontreal.ca/recherche/les-chercheurs/dang-khoa-nguyen/)
 
