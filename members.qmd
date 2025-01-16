@@ -391,7 +391,7 @@ tm_shape(World)+
 *   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
 *   COMP 401 - Nevine Nzabonimpa
 * 	COGS 444 - Injy Fouda
-*	PSYC 395 - Anais Rubsamen, Alex Parent 
+*	PSYC 385/395 - Anais Rubsamen, Alex Parent 
 *   PSYC 494 - Youzhi Huang
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane
 *   Mackey-Glass research bursary - Tim Yang
