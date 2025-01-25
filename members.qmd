@@ -47,7 +47,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Taimaa Bachi](images/taimaa.jpeg){fig-alt="Photo of Taimaa Bachi"}](#taimaa)
 
-[![Anna Rose Hunt-Isaak](images/annasmall.jpeg){fig-alt="Photo of Anna Rose Hunt-Isaak"}](#annarose)
+[![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo of Anna Rose Hunt-Isaak"}](#annarose)
 
 
 :::
@@ -354,7 +354,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Anna Rose Hunt-Isaak
 
 ::: column-margin
-![](images/annasmall.jpeg){fig-alt="Photo of Anna Rose Hunt-Isaak" width="200"}
+![](images/annasmall.jpg){fig-alt="Photo of Anna Rose Hunt-Isaak" width="200"}
 :::
 
 -   BASc Honors Cognitive Science, McGill
