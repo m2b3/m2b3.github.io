@@ -11,7 +11,7 @@ output:
 
 ### Preprints
 
-* Microelectrode Implantation in Human Insula: Technical Challenges and Recording Insights.[Preprints.org](https://www.preprints.org/manuscript/202504.1279/v1) Daphné Citherlet,Sami Heymann,Maya Aderka,Katarzyna Jurewicz,B. Suresh Krishna,Manon Robert,Alain Bouthillier,Olivier Boucher,Dang Khoa Nguyen (2025)
+* Microelectrode Implantation in Human Insula: Technical Challenges and Recording Insights. [Preprints.org](https://www.preprints.org/manuscript/202504.1279/v1) Daphné Citherlet, Sami Heymann, Maya Aderka, Katarzyna Jurewicz, B. Suresh Krishna, Manon Robert, Alain Bouthillier, Olivier Boucher, Dang Khoa Nguyen (2025)
 
 * On variability in local field potentials. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1) Mohsen Parto-Dezfouli, Elizabeth L. Johnson, Eleni Psarou, Conrado Arturo Bosman, B. Suresh Krishna, Pascal Fries (2025)
 
