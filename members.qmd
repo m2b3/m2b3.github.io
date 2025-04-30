@@ -23,15 +23,11 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai-Eliel Berreby"}](#yohai)
 
-[![Amanda Pruss](images/marty2.png){fig-alt="Photo of Amanda Pruss"}](#amanda)
-
 [![Oren Gurevitch](images/orensm.png){fig-alt="Photo of Oren Gurevitch"}](#oren)
 
 [![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin Liao"}](#buxin)
 
 [![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa Kemp"}](#noa)
-
-[![Xinning Le](images/xinning.png){fig-alt="Photo of Xinning Le"}](#xinning)
 
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
 
@@ -46,6 +42,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina Du"}](#sabrina)
 
 [![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo of Anna Rose Hunt-Isaak"}](#annarose)
+
+[![Yiqing Zhu](images/YiqingZhu.jpg){fig-alt="Photo of Yiqing Zhu"}](#Yiqing)
 
 
 :::
@@ -131,24 +129,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="amanda"></a>
-
-#### Amanda Pruss
-
-::: column-margin
-![](images/marty2.png){fig-alt="Photo of Amanda Pruss" width="200"}
-:::
-
--   M.Sc. Student, Integrated Program in Neuroscience, McGill.
-
--   B.A. in Psychology, McGill.
-
--   I am also very interested in applying my knowledge in neuroscience in a clinical setting as well, in an effort to help people with conditions related to vision, attention, or epilepsy.
-
--   [Email](mailto:amanda.pruss@mail.mcgill.ca); [GitHub]( https://github.com/amandapruss); [LinkedIn]( https://www.linkedin.com/in/amanda-pruss-a78813261/)
-
-------------------------------------------------------------------------
-
 <a name="oren"></a>
 
 #### Oren Gurevitch
@@ -202,24 +182,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   I was born and raised in Belgium. However half of my family lives in Israel and I have spent most of my summers there. Today, the place I truly call home is definitely Montreal.
 
 -   [Email](mailto:noa.kemp@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="xinning"></a>
-
-#### Xinning Le
-
-::: column-margin
-![](images/xinning.png){fig-alt="Photo of Xinning Le" width="200"}
-:::
-
--   M.Sc. Student, Integrated Program in Neuroscience, McGill.
-
--   M.Eng. Student, Biomedical Engineering, University of Electronic Science and Technology of China, Chengdu, China.
-
--   B.Sc. in Information Security, Xi'an University of Posts and Telecommunication, Xian, China.
-
--   [Email](mailto:xinning.le@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -349,6 +311,22 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="Yiqing"></a>
+
+#### Yiqing Zhu
+
+::: column-margin
+![](images/YiqingZhu.jpg){fig-alt="Photo of Yiqing Zhu" width="200"}
+:::
+
+-   Non-thesis M.Sc student, Computer Science, McGill.
+
+-   I have graduated from McGill University with a B.Sc. Honours in Computer Science and a minor in Statistics. During my undergraduate studies, I conducted interdisciplinary research at the intersection of biology, neuroscience, and computation. I'm now pursuing graduate studies with a focus on ML, AI, and the contribution of large language models to data research.
+
+-   [Email](mailto:yiqing.zhu2@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### Where we are from
 
@@ -361,16 +339,16 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 30.605053, 31.9796, 46.8852, 32.119023, 45.5019, 33.5138, 40.022709)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 30.605053, 31.9796, 46.8852, 32.119023, 45.5019, 33.5138, 40.022709, 45.5103643)
 
 
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 104.074123, 120.8937, -56.3159, 34.819675, -73.5674, 36.2765, -75.320869)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 104.074123, 120.8937, -56.3159, 34.819675, -73.5674, 36.2765, -75.320869, -73.5746522)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "taimaa", "annarose")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "taimaa", "annarose", "Yiqing")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "amanda", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "annarose"))
-oldies <- is.element(namezlist, c("Haoxiang", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "taimaa"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "evan", "isidore", "maya", "sabrina", "annarose", "Yiqing"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "taimaa"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -395,7 +373,11 @@ usesize<-1
 tm_shape(World)+
   tm_fill(col='darkslategray2')+
   tm_borders(col="black")+
-  tm_layout(scale=0.5, bg.color="dodgerblue4",inner.margin=0.0005)+
+  tm_layout(
+    scale = 0.5,
+    bg.color = "dodgerblue4",
+    inner.margins = c(0.0005, 0.0005, 0.0005, 0.0005)  # bottom, left, top, right
+  )+
   tm_shape(ogeocode2)+
   tm_dots(size = usesize, col = "orange")+
   tm_shape(geocode2)+
@@ -408,6 +390,8 @@ tm_shape(World)+
 ### Alumni
 
 *	Masters
+    + Amanda Pruss (2025), IPN
+    + Xinning Le (2025), IPN
 	+ Haoxiang Liu (2024), IPN	
 	+ Buxin Liao (2024), IPN
 *   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili
