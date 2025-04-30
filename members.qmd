@@ -333,7 +333,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 <span style="color:firebrick1;">Current</span> /  <span style="color:orange;">Past</span>
 
 ```{r,message=FALSE,warning=FALSE}
-#| warning: false
+
 library(tmap)
 library(sf)
 
