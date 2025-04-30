@@ -379,9 +379,9 @@ tm_shape(World)+
     inner.margins = c(0.0005, 0.0005, 0.0005, 0.0005)  # bottom, left, top, right
   )+
   tm_shape(ogeocode2)+
-  tm_dots(size = usesize, col = "orange")+
+  tm_dots(size = usesize, col = "orange", fill="orange")+
   tm_shape(geocode2)+
-  tm_dots(size = usesize, col = "firebrick1")+
+  tm_dots(size = usesize, col = "firebrick1", fill="firebrick1")+
      tm_credits("Réalisée avec tmap",
              position = c("RIGHT", "BOTTOM"))
 ```
