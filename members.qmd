@@ -382,7 +382,6 @@ tm_shape(World)+
   tm_dots(size = usesize, col = "orange")+
   tm_shape(geocode2)+
   tm_dots(size = usesize, col = "firebrick1")+
-  tm_layout()+
      tm_credits("Réalisée avec tmap",
              position = c("RIGHT", "BOTTOM"))
 ```
