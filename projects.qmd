@@ -1,0 +1,83 @@
+---
+title: "Projects"
+editor: visual
+---
+
+
+We work at the interface between the mind, brain, machines and the external world, using behavioral measurements (including eye-tracking), physiological measurements and computational modeling. We work with humans (and soon with animals, including non-human primates) as well as with open datasets, and much of our research focus is on vision, hearing and eye-movements, including both sensory, attentional and cognitive aspects. We keep a keen eye on direct applications to devices, algorithms and human health.
+
+We practice open science !
+
+::: column-margin
+Funding:
+
+::: {#funding}
+::: {layout-ncol="2"}
+![](images/nsercLogo.png){fig-alt="NSERC logo"}
+
+![](images/mcgill.png){fig-alt="McGill logo"}
+
+![](images/cirmmt.png){fig-alt="CIRMMT logo"}
+
+![](images/vhrn.png){fig-alt="VHRN logo"}
+
+![](images/ivado.png){fig-alt="IVADO logo"}
+
+![](images/unique.png){fig-alt="UNIQUE logo"}
+:::
+:::
+:::
+
+We are finally up and running in full swing after the long pandemic-imposed pause.
+
+These are some of our ongoing projects:
+
+### Visual attentional dynamics and eye-movements
+
+Lead: Amanda Pruss (co-supervised with [Chris Pack](https://www.mcgill.ca/neurology-neurosurgery/christopher-pack-phd)) - We are continuing the work from the Yao et al. [eLife paper](https://elifesciences.org/articles/18009) and will investigate information transfer across eye-movements.
+
+* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Krishna BS (2023).
+
+### Neuro-AI
+
+Lead: Yohai-Eliel Berreby - We are looking at both foundational and applied issues related to how artificial and biological neural networks function.
+
+* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Krishna BS (2023).
+   
+* Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
+
+### Active vision
+
+Leads: Katarzyna Jurewicz and Buxin Liao - Katarzyna is pursuing her IVADO-funded work on the computational, psychophysical and physiological aspects of active vision. And Buxin is working on modeling active vision.
+
+* Information integration across saccades plays a prominent role during goal-directed viewing of everyday scenes. [PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. (2023).
+
+* Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. (2023).
+
+### Audiovisual perception
+
+Lead: Noa Kemp (co-supervised with [Catherine Guastavino](https://www.mcgill.ca/sis/people/faculty/guastavino) - We are working on multiple projects involving visual and auditory localization, motion and objecthood.
+
+### Flow
+
+Lead: Oren Gurevitch (co-supervised with [Simone Dalla Bella](https://brams.org/members/simone-dalla-bella/)) - We are beginning an exciting, highly exploratory project on characterizing the physiological and phenomenological correlates of flow-states.
+
+### Strabismus
+
+Lead: Suresh Krishna - We are starting a series of projects looking into visual perception and simple interventional possibilities in intermittent exotropes.
+
+### Music
+
+Lead: Suresh Krishna (with Bradley Austin-Keiller and Anais Rubsamen) - In collaboration with [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), we are working on eye-tracking and attentional shifts while performing music, with an aim to build a comprehensive cognitive model of music performance.
+
+### Google Summer of Code 2024 
+
+#### Potential projects
+
+1. [INCF: A social-web tool to facilitate rating and commenting on research reports](https://tinyurl.com/5fbr2fa5)
+
+2. [INCF: Efficient app-based measurement of visual functions in infants and young children](https://tinyurl.com/mrxda9vs).
+
+3. [INCF: Using markerless motion capture to drive music generation and develop neuroscientific/psychological theories of music creativity and music-movement-dance interactions](https://tinyurl.com/48ymnzwn).
+
+An example previous project aiming to build an open-source phone-based eye-tracker using PyTorch is [here](https://dssr2.github.io/gaze-track/).
