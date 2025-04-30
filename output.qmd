@@ -1,0 +1,40 @@
+---
+title: "m2b3 Output"
+description: |
+
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+### Preprints
+
+* Microelectrode Implantation in Human Insula: Technical Challenges and Recording Insights. [Preprints.org](https://www.preprints.org/manuscript/202504.1279/v1) Daphné Citherlet, Sami Heymann, Maya Aderka, Katarzyna Jurewicz, B. Suresh Krishna, Manon Robert, Alain Bouthillier, Olivier Boucher, Dang Khoa Nguyen (2025)
+
+* On variability in local field potentials. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1) Mohsen Parto-Dezfouli, Elizabeth L. Johnson, Eleni Psarou, Conrado Arturo Bosman, B. Suresh Krishna, Pascal Fries (2025)
+
+* How anticipatory remapping along the saccade direction predicts perisaccadic biphasic mislocalization. [OSF Preprints](https://osf.io/bkaep/). Berreby YE, Krishna BS (2023).
+   
+* Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
+
+* Fast and frequent corrections of saccadic decisions underlie a satisficing strategy when searching everyday scenes.[PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. (2023).
+
+* Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. (2023).
+
+### Other
+
+#### Output from m2b3 lab members continuing/completing their prior work.
+
+* Investigating Efficient Deep Learning Architectures For Side-Channel Attacks on AES. [arXiv](https://arxiv.org/abs/2309.13170). *Berreby Y-E*, Sauvage, L. (2023).
+
+* Jurewicz, K., Sleezer, B.J., Mehta, P.S., Hayden, B. Y., Ebitz, R.B.  (2024). Irrational choices via a curvilinear representational geometry for value. [Nat Commun 15, 6424.](https://doi.org/10.1038/s41467-024-49568-4)
+
+* Wojciechowski, J., Jurewicz, K., Dzianok, P., Antonova, I., Paluch, K., Wolak, T., Kublik, E. (2024). Common and distinct BOLD correlates of Simon and flanker conflicts which can(not) be reduced to time-on-task effects. [Human Brain Mapping. 45(1), 1-16.](https://doi.org/10.1002/hbm.26549)
+
+* Pupil size predicts the onset of exploration in brain and behavior. [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.24.541981v1). Shourkeshti A, Marrocco G, *Jurewicz K*, Moore T, Ebitz RB. (2023).
+
+* ToFFi–Toolbox for frequency-based fingerprinting of brain signals. [Neurocomputing](https://doi.org/10.1016/j.neucom.2023.126236), 544, 126236. Komorowski MK, Rykaczewski K, Piotrowski T, *Jurewicz K*, Wojciechowski J, Keitel A, Dreszer J, Duch W. (2023).
+
+* Single-neuron spiking variability in hippocampus dynamically tracks sensory content during memory formation in humans. Accepted for publication, Nature Communications (2024). [bioRxiv](https://doi.org/10.1101/2023.02.23.529684). Leonhard Waschke, Fabian Kamp, Evi van den Elzen, *Suresh Krishna*, Ulman Lindenberger, Ueli Rutishauser, Douglas D. Garrett (2023).
