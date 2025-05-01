@@ -368,7 +368,7 @@ ogeocode2 <- st_as_sf(ogeocode, coords = c("lonold", "latold"), crs = 4326)
 # tm_shape(geocode2) +      # dots shape
 #   tm_dots(col = "red", size = .2)
 
-usesize<-1.5
+usesize<-2
 
 tm_shape(World)+
   tm_fill(col='darkslategray2')+
