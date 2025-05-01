@@ -12,9 +12,9 @@ knitr:
 
 ### Current Lab Members
 
-::: column-margin
-Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
-:::
+<!-- ::: column-margin -->
+<!-- L’image de Marty est tirée du [McGill Tribune](https://tinyurl.com/55wf3bae). -->
+<!-- ::: -->
 
 ::: {#members layout-ncol="6"}
 [![Suresh Krishna](images/sureshsm.png){fig-alt="Photo of Suresh Krishna"}](#suresh)
@@ -29,6 +29,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa Kemp"}](#noa)
 
+[![Maya Aderka](images/maya.jpeg){fig-alt="Photo of Maya Aderka"}](#maya)
+
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
 
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
@@ -36,8 +38,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Evan Jiang](images/ejiang.jpg){fig-alt="Photo of Evan Jiang"}](#evan)
 
 [![Isidore Victorri](images/Isidore.jpg){fig-alt="Photo of Isidore Victorri"}](#isidore)
-
-[![Maya Aderka](images/maya.jpeg){fig-alt="Photo of Maya Aderka"}](#maya)
 
 [![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina Du"}](#sabrina)
 
@@ -185,6 +185,26 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="maya"></a>
+
+#### Maya Aderka
+
+::: column-margin
+![](images/maya.jpeg){fig-alt="Photo of Maya Aderka" width="200"}
+:::
+
+-   M.Sc. Student, Department of Physiology, McGill.
+
+-   B.Sc. in Psychology and Computer Science with an emphasis on Neuroscience, Tel Aviv University, Tel Aviv, Israel.
+
+-   During mt B.Sc, I worked as a research assistant in Prof. Nitzan Censor lab, which studies memory and learning. I assisted in conducting behavioral studies, as well as studies involving EEG, fMRI and TMS.
+
+-   In the final year of my B.Sc, I joined Prof. Yuval Nir's sleep lab to help with an initiative to create SleepEEGpy, a platform to pre-process and analyse sleep EEG data.
+
+-   [Email](mailto:maya.aderka@mail.mcgill.ca); [GitHub]( https://github.com/maya-a); [LinkedIn]( https://www.linkedin.com/in/maya-aderka-703b08229/)
+
+------------------------------------------------------------------------
+
 <a name="jacky"></a>
 
 #### Jacky Chen
@@ -250,26 +270,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   Originally from Saint-Pierre-et-Miquelon, a small French overseas territory, now experiencing life in a big city for the first time while studying in Montréal.
 
 -   [Email](mailto:isidore.victorri@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="maya"></a>
-
-#### Maya Aderka
-
-::: column-margin
-![](images/maya.jpeg){fig-alt="Photo of Maya Aderka" width="200"}
-:::
-
--   M.Sc. Student, Department of Physiology, McGill.
-
--   B.Sc. in Psychology and Computer Science with an emphasis on Neuroscience, Tel Aviv University, Tel Aviv, Israel.
-
--   During mt B.Sc, I worked as a research assistant in Prof. Nitzan Censor lab, which studies memory and learning. I assisted in conducting behavioral studies, as well as studies involving EEG, fMRI and TMS.
-
--   In the final year of my B.Sc, I joined Prof. Yuval Nir's sleep lab to help with an initiative to create SleepEEGpy, a platform to pre-process and analyse sleep EEG data.
-
--   [Email](mailto:maya.aderka@mail.mcgill.ca); [GitHub]( https://github.com/maya-a); [LinkedIn]( https://www.linkedin.com/in/maya-aderka-703b08229/)
 
 ------------------------------------------------------------------------
 
@@ -339,15 +339,15 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 30.605053, 31.9796, 46.8852, 32.119023, 45.5019, 33.5138, 40.022709, 45.5103643)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 30.605053, 31.9796, 46.8852, 45.5019, 33.5138, 40.022709, 45.5103643)
 
 
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 104.074123, 120.8937, -56.3159, 34.819675, -73.5674, 36.2765, -75.320869, -73.5746522)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 104.074123, 120.8937, -56.3159, -73.5674, 36.2765, -75.320869, -73.5746522)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "xinning", "evan", "isidore", "maya", "sabrina", "taimaa", "annarose", "Yiqing")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "evan", "isidore", "maya", "sabrina", "annarose", "Yiqing"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing"))
 oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "taimaa"))
 
 lat <- latlist[nowies]
