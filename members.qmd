@@ -45,6 +45,8 @@ knitr:
 
 [![Yiqing Zhu](images/YiqingZhu.jpg){fig-alt="Photo of Yiqing Zhu"}](#Yiqing)
 
+[![Kevin (Yuze) Liu](images/Kevin.jpg){fig-alt="Photo of Kevin (Yuze) Liu"}](#Kevin)
+
 
 :::
 
@@ -327,6 +329,22 @@ knitr:
 
 ------------------------------------------------------------------------
 
+<a name="Kevin"></a>
+
+#### Kevin (Yuze) Liu
+
+::: column-margin
+![](images/Kevin.jpg){fig-alt="Photo of Kevin (Yuze) Liu" width="200"}
+:::
+
+-   MSc,BSc - data science, statistics and CS, McGill.
+
+-   I recently graduated from McGill University with a Master's in Information Studies (Data Science) and a Bachelor's in Statistics with a minor in Computer Science. My academic and research experience spans machine learning, NLP, and ethical AI applications. Currently, I am interested in exploring how large language models (LLMs) can be applied to real-world data challenges, especially in multilingual, dynamic, or multimodal environments. My goal is to develop research that bridges theoretical advances in LLMs with practical, high-impact use cases.
+
+-   [Email](mailto:yuze.liu@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### Where we are from
 
@@ -339,15 +357,15 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 31.9796, 46.8852, 45.5019, 40.022709, 45.5103643)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 31.9796, 46.8852, 45.5019, 40.022709, 45.5103643, 39.9042)
 
 
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 120.8937, -56.3159, -73.5674, -75.320869, -73.5746522)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 120.8937, -56.3159, -73.5674, -75.320869, -73.5746522, -116.4074)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing", "Kevin")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing", "Kevin"))
 oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu"))
 
 lat <- latlist[nowies]
