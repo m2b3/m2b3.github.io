@@ -17,33 +17,33 @@ knitr:
 <!-- ::: -->
 
 ::: {#members layout-ncol="6"}
-[![Isidore Victorri](images/Isidore.jpg){fig-alt="Photo of Isidore Victorri"}](#isidore)
+[![Suresh Krishna](images/sureshsm.png){fig-alt="Photo of Suresh Krishna"}](#suresh)
+
+[![Katarzyna (Kasia) Jurewicz](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz"}](#kasia)
+
+[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai-Eliel Berreby"}](#yohai)
+
+[![Oren Gurevitch](images/orensm.png){fig-alt="Photo of Oren Gurevitch"}](#oren)
 
 [![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa Kemp"}](#noa)
 
 [![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin Liao"}](#buxin)
 
-[![Oren Gurevitch](images/orensm.png){fig-alt="Photo of Oren Gurevitch"}](#oren)
+[![Maya Aderka](images/maya.jpeg){fig-alt="Photo of Maya Aderka"}](#maya)
 
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
 
-[![Suresh Krishna](images/sureshsm.png){fig-alt="Photo of Suresh Krishna"}](#suresh)
+[![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
 
-[![Katarzyna (Kasia) Jurewicz](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz"}](#kasia)
+[![Evan Jiang](images/ejiang.jpg){fig-alt="Photo of Evan Jiang"}](#evan)
+
+[![Isidore Victorri](images/Isidore.jpg){fig-alt="Photo of Isidore Victorri"}](#isidore)
+
+[![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina Du"}](#sabrina)
 
 [![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo of Anna Rose Hunt-Isaak"}](#annarose)
 
 [![Yiqing Zhu](images/YiqingZhu.jpg){fig-alt="Photo of Yiqing Zhu"}](#Yiqing)
-
-[![Evan Jiang](images/ejiang.jpg){fig-alt="Photo of Evan Jiang"}](#evan)
-
-[![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina Du"}](#sabrina)
-
-[![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai-Eliel Berreby"}](#yohai)
-
-[![Maya Aderka](images/maya.jpeg){fig-alt="Photo of Maya Aderka"}](#maya)
-
-[![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
 
 
 :::
@@ -75,21 +75,75 @@ knitr:
 
 ------------------------------------------------------------------------
 
-<a name="isidore"></a>
+<a name="suresh"></a>
 
-#### Isidore Victorri
+#### Suresh Krishna
 
 ::: column-margin
-![](images/Isidore.jpg){fig-alt="Photo of Isidore Victorri" width="200"}
+![](images/sureshsm.png){fig-alt="Photo of Suresh Krishna" width="200"}
 :::
 
--   B.Sc. Student in Physiology and Physics, McGill.
+-   Associate Professor, Department of Physiology, McGill.
 
--   With a bachelor’s program focused on research, I'm eager to dive into the field of auditory attention.
+-   MBBS (Med School), AIIMS, New Delhi; PhD, NYU, New York.
 
--   Originally from Saint-Pierre-et-Miquelon, a small French overseas territory, now experiencing life in a big city for the first time while studying in Montréal.
+-   Spent time at Columbia University, CNRS (Lyon), German Primate Center (Goettingen), MPI for Human Development (Berlin), before coming to McGill (Jan 2020).
 
--   [Email](mailto:isidore.victorri@mail.mcgill.ca)
+-   [Email](mailto:suresh.krishna@mcgill.ca); [Google Scholar]( Google Scholar - https://tinyurl.com/ypeu5ha3)
+
+------------------------------------------------------------------------
+
+<a name="kasia"></a>
+
+#### Katarzyna (Kasia) Jurewicz
+
+::: column-margin
+![](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz" width="200"}
+:::
+
+-   Post-doctoral fellow, Department of Physiology, McGill.
+
+-   MSc in Psychology, University of Warsaw; PhD in Neurobiology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw.
+
+-   Previously, I was a post-doc in Dr. Becket Ebitz' lab (Noise lab) at Université de Montréal. Earlier, I conducted research in Dr. Ewa Kublik's Cortico-Thalamic Group at the Nencki Institute of Experimental Biology. My PhD work was supervised by Prof. Andrzej Wróbel in the Laboratory of the Visual System at Nencki.
+
+-   [Email](mailto:katarzyna.jurewicz@mail.mcgill.ca); [Google Scholar]( http://www.tinyurl.com/kjurewicz-scholar)
+
+------------------------------------------------------------------------
+
+<a name="yohai"></a>
+
+#### Yohai-Eliel Berreby
+
+::: column-margin
+![](images/yohaism2.png){fig-alt="Photo of Yohai-Eliel Berreby" width="200"}
+:::
+
+-   Ph.D. student, Department of Physiology, McGill
+
+-   Diplôme d'Ingénieur (combined B.Sc. and M.Sc. in Engineering), Télécom Paris, Palaiseau, France
+
+-   MPSI/MP CPGE (Math/Physics [*Classes Préparatoires aux Grandes Écoles*](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)), Lycée Hoche, Versailles, France
+
+-   [Email](mailto:yohai-eliel.berreby@mail.mcgill.ca); [GitHub]( https://github.com/yberreby/); [LinkedIn]( https://linkedin.com/in/yberreby)
+
+------------------------------------------------------------------------
+
+<a name="oren"></a>
+
+#### Oren Gurevitch
+
+::: column-margin
+![](images/orensm.png){fig-alt="Photo of Oren Gurevitch" width="200"}
+:::
+
+-   M.Sc. Student, Department of Physiology, McGill.
+
+-   B.Sc. in Neuroscience, Bar-Ilan University, Ramat Gan, Israel.
+
+-   Previously, I was a research assistant working on sensory processing using rats, at Bar-Ilan University under Professor Adam Zaidel. Before that, as a lab assistant at the Weizmann Institute of Science, I worked on Multiple Sclerosis research with Professor Idit Shachar.
+
+-   [Email](mailto:oren.gurevitch@mail.mcgill.ca); [GitHub]( https://github.com/OrenGurevitch); [LinkedIn]( https://www.linkedin.com/in/oren-gurevitch/)
 
 ------------------------------------------------------------------------
 
@@ -131,21 +185,23 @@ knitr:
 
 ------------------------------------------------------------------------
 
-<a name="oren"></a>
+<a name="maya"></a>
 
-#### Oren Gurevitch
+#### Maya Aderka
 
 ::: column-margin
-![](images/orensm.png){fig-alt="Photo of Oren Gurevitch" width="200"}
+![](images/maya.jpeg){fig-alt="Photo of Maya Aderka" width="200"}
 :::
 
 -   M.Sc. Student, Department of Physiology, McGill.
 
--   B.Sc. in Neuroscience, Bar-Ilan University, Ramat Gan, Israel.
+-   B.Sc. in Psychology and Computer Science with an emphasis on Neuroscience, Tel Aviv University, Tel Aviv, Israel.
 
--   Previously, I was a research assistant working on sensory processing using rats, at Bar-Ilan University under Professor Adam Zaidel. Before that, as a lab assistant at the Weizmann Institute of Science, I worked on Multiple Sclerosis research with Professor Idit Shachar.
+-   During mt B.Sc, I worked as a research assistant in Prof. Nitzan Censor lab, which studies memory and learning. I assisted in conducting behavioral studies, as well as studies involving EEG, fMRI and TMS.
 
--   [Email](mailto:oren.gurevitch@mail.mcgill.ca); [GitHub]( https://github.com/OrenGurevitch); [LinkedIn]( https://www.linkedin.com/in/oren-gurevitch/)
+-   In the final year of my B.Sc, I joined Prof. Yuval Nir's sleep lab to help with an initiative to create SleepEEGpy, a platform to pre-process and analyse sleep EEG data.
+
+-   [Email](mailto:maya.aderka@mail.mcgill.ca); [GitHub]( https://github.com/maya-a); [LinkedIn]( https://www.linkedin.com/in/maya-aderka-703b08229/)
 
 ------------------------------------------------------------------------
 
@@ -167,39 +223,73 @@ knitr:
 
 ------------------------------------------------------------------------
 
-<a name="suresh"></a>
+<a name="azhao"></a>
 
-#### Suresh Krishna
+#### Alex Zhao
 
 ::: column-margin
-![](images/sureshsm.png){fig-alt="Photo of Suresh Krishna" width="200"}
+![](images/alexsm.jpg){fig-alt="Photo of Alex Zhao" width="200"}
 :::
 
--   Associate Professor, Department of Physiology, McGill.
+-   B. Sc student, Neuroscience program, McGill
 
--   MBBS (Med School), AIIMS, New Delhi; PhD, NYU, New York.
+-   My research interests lie in computational neuroscience, as I believe that computational models have the power to capture the brain's inner workings. In my free time I enjoy reading and solo traveling.
 
--   Spent time at Columbia University, CNRS (Lyon), German Primate Center (Goettingen), MPI for Human Development (Berlin), before coming to McGill (Jan 2020).
-
--   [Email](mailto:suresh.krishna@mcgill.ca); [Google Scholar]( Google Scholar - https://tinyurl.com/ypeu5ha3)
+-   [Email](mailto:alex.zhao@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
-<a name="kasia"></a>
+<a name="evan"></a>
 
-#### Katarzyna (Kasia) Jurewicz
+#### Evan Jiang
 
 ::: column-margin
-![](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz" width="200"}
+![](images/ejiang.jpg){fig-alt="Photo of Evan Jiang" width="200"}
 :::
 
--   Post-doctoral fellow, Department of Physiology, McGill.
+-   B. Sc student, Major Computer Science and Biology, Mcgill
 
--   MSc in Psychology, University of Warsaw; PhD in Neurobiology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw.
+-   I initially started in the life science program but developed a strong interest in programming, which led me to combine these interests by switching to a major in computer science and biology. My research interests now lie in computational biology, with a particular focus on neurology.
 
--   Previously, I was a post-doc in Dr. Becket Ebitz' lab (Noise lab) at Université de Montréal. Earlier, I conducted research in Dr. Ewa Kublik's Cortico-Thalamic Group at the Nencki Institute of Experimental Biology. My PhD work was supervised by Prof. Andrzej Wróbel in the Laboratory of the Visual System at Nencki.
+-   [Email](mailto:duoduo.jiang@mail.mcgill.ca)
 
--   [Email](mailto:katarzyna.jurewicz@mail.mcgill.ca); [Google Scholar]( http://www.tinyurl.com/kjurewicz-scholar)
+------------------------------------------------------------------------
+
+<a name="isidore"></a>
+
+#### Isidore Victorri
+
+::: column-margin
+![](images/Isidore.jpg){fig-alt="Photo of Isidore Victorri" width="200"}
+:::
+
+-   B.Sc. Student in Physiology and Physics, McGill.
+
+-   With a bachelor’s program focused on research, I'm eager to dive into the field of auditory attention.
+
+-   Originally from Saint-Pierre-et-Miquelon, a small French overseas territory, now experiencing life in a big city for the first time while studying in Montréal.
+
+-   [Email](mailto:isidore.victorri@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="sabrina"></a>
+
+#### Sabrina Du
+
+::: column-margin
+![](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina Du" width="200"}
+:::
+
+-   B. Sc. Student, Honours Neuroscience, McGill.
+
+-   Born and raised in Montreal, I grew up alongside this city’s rise as an AI hub and developed a keen interest in brain-inspired computational architectures.
+
+-   How does short-term perceptual memory guide decisions? Can we replicate this memory system in artificial networks? These questions (and more) are ones I am excited to explore.
+
+-   In my free time, you can find me listening to a podcast, hiking, or attempting to sew.
+
+-   [Email](mailto:sabrina.du@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -237,96 +327,6 @@ knitr:
 
 ------------------------------------------------------------------------
 
-<a name="evan"></a>
-
-#### Evan Jiang
-
-::: column-margin
-![](images/ejiang.jpg){fig-alt="Photo of Evan Jiang" width="200"}
-:::
-
--   B. Sc student, Major Computer Science and Biology, Mcgill
-
--   I initially started in the life science program but developed a strong interest in programming, which led me to combine these interests by switching to a major in computer science and biology. My research interests now lie in computational biology, with a particular focus on neurology.
-
--   [Email](mailto:duoduo.jiang@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="sabrina"></a>
-
-#### Sabrina Du
-
-::: column-margin
-![](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina Du" width="200"}
-:::
-
--   B. Sc. Student, Honours Neuroscience, McGill.
-
--   Born and raised in Montreal, I grew up alongside this city’s rise as an AI hub and developed a keen interest in brain-inspired computational architectures.
-
--   How does short-term perceptual memory guide decisions? Can we replicate this memory system in artificial networks? These questions (and more) are ones I am excited to explore.
-
--   In my free time, you can find me listening to a podcast, hiking, or attempting to sew.
-
--   [Email](mailto:sabrina.du@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="yohai"></a>
-
-#### Yohai-Eliel Berreby
-
-::: column-margin
-![](images/yohaism2.png){fig-alt="Photo of Yohai-Eliel Berreby" width="200"}
-:::
-
--   Ph.D. student, Department of Physiology, McGill
-
--   Diplôme d'Ingénieur (combined B.Sc. and M.Sc. in Engineering), Télécom Paris, Palaiseau, France
-
--   MPSI/MP CPGE (Math/Physics [*Classes Préparatoires aux Grandes Écoles*](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)), Lycée Hoche, Versailles, France
-
--   [Email](mailto:yohai-eliel.berreby@mail.mcgill.ca); [GitHub]( https://github.com/yberreby/); [LinkedIn]( https://linkedin.com/in/yberreby)
-
-------------------------------------------------------------------------
-
-<a name="maya"></a>
-
-#### Maya Aderka
-
-::: column-margin
-![](images/maya.jpeg){fig-alt="Photo of Maya Aderka" width="200"}
-:::
-
--   M.Sc. Student, Department of Physiology, McGill.
-
--   B.Sc. in Psychology and Computer Science with an emphasis on Neuroscience, Tel Aviv University, Tel Aviv, Israel.
-
--   During mt B.Sc, I worked as a research assistant in Prof. Nitzan Censor lab, which studies memory and learning. I assisted in conducting behavioral studies, as well as studies involving EEG, fMRI and TMS.
-
--   In the final year of my B.Sc, I joined Prof. Yuval Nir's sleep lab to help with an initiative to create SleepEEGpy, a platform to pre-process and analyse sleep EEG data.
-
--   [Email](mailto:maya.aderka@mail.mcgill.ca); [GitHub]( https://github.com/maya-a); [LinkedIn]( https://www.linkedin.com/in/maya-aderka-703b08229/)
-
-------------------------------------------------------------------------
-
-<a name="azhao"></a>
-
-#### Alex Zhao
-
-::: column-margin
-![](images/alexsm.jpg){fig-alt="Photo of Alex Zhao" width="200"}
-:::
-
--   B. Sc student, Neuroscience program, McGill
-
--   My research interests lie in computational neuroscience, as I believe that computational models have the power to capture the brain's inner workings. In my free time I enjoy reading and solo traveling.
-
--   [Email](mailto:alex.zhao@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 
 ### Where we are from
 
@@ -339,15 +339,15 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 46.8852, 30.605053, 40.022709, 45.5103643, 31.9796, 45.5019, 32.119023)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 31.9796, 46.8852, 45.5019, 40.022709, 45.5103643)
 
 
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, -56.3159, 104.074123, -75.320869, -73.5746522, 120.8937, -73.5674, 34.819675)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 120.8937, -56.3159, -73.5674, -75.320869, -73.5746522)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "isidore", "buxin", "annarose", "Yiqing", "evan", "sabrina", "maya")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "isidore", "buxin", "annarose", "Yiqing", "evan", "sabrina", "maya"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "isidore", "sabrina", "annarose", "Yiqing"))
 oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu"))
 
 lat <- latlist[nowies]
