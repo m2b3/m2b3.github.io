@@ -15,7 +15,7 @@ output:
 
 * Microelectrode Implantation in Human Insula: Technical Challenges and Recording Insights. Daphné Citherlet, Sami Heymann, Maya Aderka, Katarzyna Jurewicz, B. Suresh Krishna, Manon Robert, Alain Bouthillier, Olivier Boucher, Dang Khoa Nguyen. Brain Sciences (2025), Accepted. [Preprints.org](https://www.preprints.org/manuscript/202504.1279/v1) 
 
-* Single-neuron spiking variability in hippocampus dynamically tracks sensory content during memory formation in humans. Nature Communications 2025 Jan 2;16(1):236. [bioRxiv](https://doi.org/10.1101/2023.02.23.529684). Leonhard Waschke, Fabian Kamp, Evi van den Elzen, Suresh Krishna, Ulman Lindenberger, Ueli Rutishauser, Douglas D. Garrett (2023).
+* Single-neuron spiking variability in hippocampus dynamically tracks sensory content during memory formation in humans. Leonhard Waschke, Fabian Kamp, Evi van den Elzen, Suresh Krishna, Ulman Lindenberger, Ueli Rutishauser, Douglas D. Garrett. Nature Communications 2025 Jan 2;16(1):236. [bioRxiv](https://doi.org/10.1101/2023.02.23.529684).
 
 ### Preprints
 
