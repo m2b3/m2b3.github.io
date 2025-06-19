@@ -66,10 +66,6 @@ Lead: Oren Gurevitch (co-supervised with [Simone Dalla Bella](https://brams.org/
 
 Lead: Suresh Krishna - We are starting a series of projects looking into visual perception and simple interventional possibilities in intermittent exotropes.
 
-### Music
-
-Lead: Suresh Krishna (with Bradley Austin-Keiller and Anais Rubsamen) - In collaboration with [Fabrice Marandola](https://www.mcgill.ca/music/fabrice-marandola), we are working on eye-tracking and attentional shifts while performing music, with an aim to build a comprehensive cognitive model of music performance.
-
 ### Google Summer of Code 2025 projects
 
 1. [INCF - ActiveVision : a data and model portal for the study of goal-directed vision](https://neurostars.org/t/gsoc-2025-project-25-activevision-a-data-and-model-portal-for-the-study-of-goal-directed-vision-350h/32063)
