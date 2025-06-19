@@ -9,7 +9,7 @@ output:
     toc_depth: 3
 ---
 
-### Journal articles
+### Journal articles 
 
 * How forward remapping along the saccade direction predicts perisaccadic biphasic mislocalization. Berreby YE, Krishna BS. [Journal of Vision , June 2025](https://doi.org/10.1167/jov.25.7.4).
 
