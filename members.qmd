@@ -65,8 +65,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Jonathan Morris](images/DSC_5520.JPG){fig-alt="Photo of Jonathan Morris"}](#Jonathan)
 
-[![Rashed Alhosani](images/marty2.png){fig-alt="Photo of Rashed Alhosani"}](#Rashed)
-
 [![Deepansh Goel](images/9nyvij-min.jpg){fig-alt="Photo of Deepansh Goel"}](#Deepansh)
 
 [![Alison Jiaxi Wang](images/Alison.jpg){fig-alt="Photo of Alison Jiaxi Wang"}](#Alison)
@@ -429,22 +427,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Rashed"></a>
-
-#### Rashed Alhosani
-
-::: column-margin
-![](images/marty2.png){fig-alt="Photo of Rashed Alhosani" width="200"}
-:::
-
--   BSc in Computational Systems, Zayed University
-
--   I'm interested in exploring how computational models can be used to understand biological tasks through rich data.
-
--   [Email](mailto:rashed.alhosani@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Deepansh"></a>
 
 #### Deepansh Goel
@@ -497,8 +479,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "isidore", "taimaa"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Jonathan", "Linjing", "Alison"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "isidore", "taimaa", "Rashed"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
