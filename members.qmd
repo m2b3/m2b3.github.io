@@ -47,8 +47,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
 
-[![Evan Jiang](images/ejiang.jpg){fig-alt="Photo of Evan Jiang"}](#evan)
-
 [![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina Du"}](#sabrina)
 
 [![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo of Anna Rose Hunt-Isaak"}](#annarose)
@@ -263,22 +261,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="evan"></a>
-
-#### Evan Jiang
-
-::: column-margin
-![](images/ejiang.jpg){fig-alt="Photo of Evan Jiang" width="200"}
-:::
-
--   B. Sc student, Major Computer Science and Biology, Mcgill
-
--   I initially started in the life science program but developed a strong interest in programming, which led me to combine these interests by switching to a major in computer science and biology. My research interests now lie in computational biology, with a particular focus on neurology.
-
--   [Email](mailto:duoduo.jiang@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="sabrina"></a>
 
 #### Sabrina Du
@@ -463,8 +445,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Jonathan", "Alison"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "isidore", "taimaa", "Rashed", "Linjing"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Jonathan", "Alison"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "taimaa", "Rashed", "Linjing"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -520,6 +502,7 @@ tm_shape(World)+
 *   Mackey-Glass Fellowship -- Tim Yang
 *   McGill-UAE summer internship - Rashed Alhosani
 *   MITACS Globalink Interns - Linjing Wang
+*   Summer interns - Evan Jiang, Yagya Joshi
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
 *   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi
 
