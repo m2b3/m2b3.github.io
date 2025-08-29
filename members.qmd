@@ -55,8 +55,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Youyou Yang](images/youyou.jpg){fig-alt="Photo of Youyou Yang"}](#Claire)
 
-[![Jonathan Morris](images/DSC_5520.JPG){fig-alt="Photo of Jonathan Morris"}](#Jonathan)
-
 [![Deepansh Goel](images/9nyvij-min.jpg){fig-alt="Photo of Deepansh Goel"}](#Deepansh)
 
 [![Alison Jiaxi Wang](images/Alison.jpg){fig-alt="Photo of Alison Jiaxi Wang"}](#Alison)
@@ -86,6 +84,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Prof. Marie-Hélène Boudrias, McGill](images/mh.jpg){fig-alt="Photo of MH"}](https://www.mcgill.ca/spot/marie-helene-boudrias)
 
 [![Joshua Rosner, McGill](images/joshuasm.png){fig-alt="Photo de Joshua"}](https://www.linkedin.com/in/joshua-rosner-98b15b166/?originalSubdomain=ca)
+
+[![Jonathan Morris, University of Wisconsin-Madison](images/DSC_5520.JPG){fig-alt="Photo of Jonathan"}](https://www.linkedin.com/in/jonathan-morris-5b841a283/)
 
 ::: 
 
@@ -319,22 +319,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Jonathan"></a>
-
-#### Jonathan Morris
-
-::: column-margin
-![](images/DSC_5520.JPG){fig-alt="Photo of Jonathan Morris" width="200"}
-:::
-
--   Bsc. in Statistics, Bsc. in Psychology, University of Wisconsin-Madison
-
--   I'm interested in time series analysis, network analysis, and applications to the study of neuroscience and health.
-
--   [Email](mailto:jonathan.morris@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Deepansh"></a>
 
 #### Deepansh Goel
@@ -387,8 +371,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire", "Deepansh", "Jonathan", "Alison"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Rashed", "Linjing"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire", "Deepansh", "Alison"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Rashed", "Jonathan", "Linjing"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -443,7 +427,7 @@ tm_shape(World)+
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao 
 *   Mackey-Glass Fellowship -- Tim Yang
 *   McGill-UAE summer internship - Rashed Alhosani
-*   MITACS Globalink Interns - Linjing Wang
+*   MITACS Globalink Interns - Linjing Wang, Jonathan Morris
 *   NSERC SURA - Sabrina Du
 *   Summer interns - Evan Jiang, Yagya Joshi, Kevin (Yuze) Liu
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
