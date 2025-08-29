@@ -43,9 +43,9 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Maya Aderka](images/maya.jpeg){fig-alt="Photo of Maya Aderka"}](#maya)
 
-[![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
-
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
+
+[![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
 
 [![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo of Anna Rose Hunt-Isaak"}](#annarose)
 
@@ -54,10 +54,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Edward Tong](images/edtong.jpg){fig-alt="Photo of Edward Tong"}](#Edward)
 
 [![Youyou Yang](images/youyou.jpg){fig-alt="Photo of Youyou Yang"}](#Claire)
-
-[![Deepansh Goel](images/9nyvij-min.jpg){fig-alt="Photo of Deepansh Goel"}](#Deepansh)
-
-[![Alison Jiaxi Wang](images/Alison.jpg){fig-alt="Photo of Alison Jiaxi Wang"}](#Alison)
 
 
 :::
@@ -86,6 +82,11 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Joshua Rosner, McGill](images/joshuasm.png){fig-alt="Photo de Joshua"}](https://www.linkedin.com/in/joshua-rosner-98b15b166/?originalSubdomain=ca)
 
 [![Jonathan Morris, University of Wisconsin-Madison](images/DSC_5520.JPG){fig-alt="Photo of Jonathan"}](https://www.linkedin.com/in/jonathan-morris-5b841a283/)
+
+[![Deepansh Goel, Maharaja Agrasen Institute of Technology](images/9nyvij-min.jpg
+){fig-alt="Photo of Deepansh"}](https://www.linkedin.com/in/deepanshgl)
+
+[![Alison Wang, University of Durham](images/Alison.jpg){fig-alt="Photo of Alison"}](https://alison-jiax-wang.artstation.com/)
 
 ::: 
 
@@ -221,6 +222,22 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="azhao"></a>
+
+#### Alex Zhao
+
+::: column-margin
+![](images/alexsm.jpg){fig-alt="Photo of Alex Zhao" width="200"}
+:::
+
+-   B. Sc student, Neuroscience program, McGill
+
+-   My research interests lie in computational neuroscience, as I believe that computational models have the power to capture the brain's inner workings. In my free time I enjoy reading and solo traveling.
+
+-   [Email](mailto:alex.zhao@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 <a name="jacky"></a>
 
 #### Jacky Chen
@@ -236,22 +253,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   I was born in Shanghai, China, where I spent the first 18 years of my life. After completing high school, I relocated to Montreal to pursue my studies at McGill University. I really enjoy the lovely summer in Montreal!
 
 -   [Email](mailto:yijun.chen@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="azhao"></a>
-
-#### Alex Zhao
-
-::: column-margin
-![](images/alexsm.jpg){fig-alt="Photo of Alex Zhao" width="200"}
-:::
-
--   B. Sc student, Neuroscience program, McGill
-
--   My research interests lie in computational neuroscience, as I believe that computational models have the power to capture the brain's inner workings. In my free time I enjoy reading and solo traveling.
-
--   [Email](mailto:alex.zhao@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -319,38 +320,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Deepansh"></a>
-
-#### Deepansh Goel
-
-::: column-margin
-![](images/9nyvij-min.jpg){fig-alt="Photo of Deepansh Goel" width="200"}
-:::
-
--   BTech in Computer Science and Engineering, AIML, Maharaja Agrasen Institute of Technology, Delhi, India
-
--   I'm interested in Computer Vision, AI, Music and Robotics.
-
--   [Email](mailto:deepansh.goel@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="Alison"></a>
-
-#### Alison Jiaxi Wang
-
-::: column-margin
-![](images/Alison.jpg){fig-alt="Photo of Alison Jiaxi Wang" width="200"}
-:::
-
--   MEng Electronics Engineering student, Durham University, UK (integrated master programme with one year abroad at Notre Dame University, USA).
-
--   Spent time on Durham Heart Project developing artificial heart prototype. Born in taizhou,China and raised in Johor Bahru, Malaysia.
-
--   [Email](mailto:jiaxi.a.wang@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 
 ### Where we are from
 
@@ -371,8 +340,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire", "Deepansh", "Alison"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Rashed", "Jonathan", "Linjing"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -431,7 +400,7 @@ tm_shape(World)+
 *   NSERC SURA - Sabrina Du
 *   Summer interns - Evan Jiang, Yagya Joshi, Kevin (Yuze) Liu
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
-*   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen
+*   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen, Deepansh Goel
 
 --------------------------------------------------
 
