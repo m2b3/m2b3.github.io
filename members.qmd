@@ -59,8 +59,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Youyou Yang](images/youyou.jpg){fig-alt="Photo of Youyou Yang"}](#Claire)
 
-[![Lihong Chen](images/LC.jpg){fig-alt="Photo of Lihong Chen"}](#Lihong)
-
 [![Jonathan Morris](images/DSC_5520.JPG){fig-alt="Photo of Jonathan Morris"}](#Jonathan)
 
 [![Deepansh Goel](images/9nyvij-min.jpg){fig-alt="Photo of Deepansh Goel"}](#Deepansh)
@@ -361,22 +359,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Lihong"></a>
-
-#### Lihong Chen
-
-::: column-margin
-![](images/LC.jpg){fig-alt="Photo of Lihong Chen" width="200"}
-:::
-
--   M.Eng. in Artificial Intelligence, Western University. B.Eng. in Software Engineering, East China Normal University, Shanghai, China.
-
--   Currently exploring visual attention and how semantic information guides perception and behavior. Previously worked on visual perception and multimodal reasoning in autonomous systems. I am broadly interested in the interaction between visual and language information in task-driven behavior, and in how computational models can help us understand and replicate these processes.
-
--   [Email](mailto:lchen893@uwo.ca)
-
-------------------------------------------------------------------------
-
 <a name="Jonathan"></a>
 
 #### Jonathan Morris
@@ -445,8 +427,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Jonathan", "Alison"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "taimaa", "Rashed", "Linjing"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Deepansh", "Jonathan", "Alison"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "taimaa", "Lihong", "Rashed", "Linjing"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -504,7 +486,7 @@ tm_shape(World)+
 *   MITACS Globalink Interns - Linjing Wang
 *   Summer interns - Evan Jiang, Yagya Joshi
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
-*   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi
+*   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen
 
 --------------------------------------------------
 
