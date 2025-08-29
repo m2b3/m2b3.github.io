@@ -31,13 +31,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ::: {#members layout-ncol="6"}
 [![Suresh Krishna](images/p1.jpg){fig-alt="Photo of Suresh Krishna"}](#suresh)
 
-[![Katarzyna (Kasia) Jurewicz](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz"}](#kasia)
-
 [![Yohai-Eliel Berreby](images/yohaism2.png){fig-alt="Photo of Yohai-Eliel Berreby"}](#yohai)
-
-[![Oren Gurevitch](images/orensm.png){fig-alt="Photo of Oren Gurevitch"}](#oren)
-
-[![Noa Kemp](images/noasm.png){fig-alt="Photo of Noa Kemp"}](#noa)
 
 [![Buxin Liao](images/buxinsm.png){fig-alt="Photo of Buxin Liao"}](#buxin)
 
@@ -88,6 +82,10 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Alison Wang, University of Durham](images/Alison.jpg){fig-alt="Photo of Alison"}](https://alison-jiax-wang.artstation.com/)
 
+[![Oren Gurevitch, McGill](images/orensm.png){fig-alt="Photo of Oren"}](https://www.linkedin.com/in/oren-gurevitch/)
+
+[![Katarzyna Jurewicz, Jagiellonian University](images/kasia.png){fig-alt="Photo of Kasia"}](http://www.tinyurl.com/kjurewicz-scholar)
+
 ::: 
 
 ------------------------------------------------------------------------
@@ -110,24 +108,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="kasia"></a>
-
-#### Katarzyna (Kasia) Jurewicz
-
-::: column-margin
-![](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz" width="200"}
-:::
-
--   Post-doctoral fellow, Department of Physiology, McGill.
-
--   MSc in Psychology, University of Warsaw; PhD in Neurobiology, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw.
-
--   Previously, I was a post-doc in Dr. Becket Ebitz' lab (Noise lab) at Université de Montréal. Earlier, I conducted research in Dr. Ewa Kublik's Cortico-Thalamic Group at the Nencki Institute of Experimental Biology. My PhD work was supervised by Prof. Andrzej Wróbel in the Laboratory of the Visual System at Nencki.
-
--   [Email](mailto:katarzyna.jurewicz@mail.mcgill.ca); [Google Scholar]( http://www.tinyurl.com/kjurewicz-scholar)
-
-------------------------------------------------------------------------
-
 <a name="yohai"></a>
 
 #### Yohai-Eliel Berreby
@@ -143,44 +123,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   MPSI/MP CPGE (Math/Physics [*Classes Préparatoires aux Grandes Écoles*](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)), Lycée Hoche, Versailles, France
 
 -   [Email](mailto:yohai-eliel.berreby@mail.mcgill.ca); [GitHub]( https://github.com/yberreby/); [LinkedIn]( https://linkedin.com/in/yberreby)
-
-------------------------------------------------------------------------
-
-<a name="oren"></a>
-
-#### Oren Gurevitch
-
-::: column-margin
-![](images/orensm.png){fig-alt="Photo of Oren Gurevitch" width="200"}
-:::
-
--   M.Sc. Student, Department of Physiology, McGill.
-
--   B.Sc. in Neuroscience, Bar-Ilan University, Ramat Gan, Israel.
-
--   Previously, I was a research assistant working on sensory processing using rats, at Bar-Ilan University under Professor Adam Zaidel. Before that, as a lab assistant at the Weizmann Institute of Science, I worked on Multiple Sclerosis research with Professor Idit Shachar.
-
--   [Email](mailto:oren.gurevitch@mail.mcgill.ca); [GitHub]( https://github.com/OrenGurevitch); [LinkedIn]( https://www.linkedin.com/in/oren-gurevitch/)
-
-------------------------------------------------------------------------
-
-<a name="noa"></a>
-
-#### Noa Kemp
-
-::: column-margin
-![](images/noasm.png){fig-alt="Photo of Noa Kemp" width="200"}
-:::
-
--   M.Sc. Student, Department of Physiology, McGill.
-
--   B.Sc. in Biology and Computer Science, McGill.
-
--   Between musical theater, computer science and the brain - I wasn’t able to chose so I will focus on one of their intersections: the study of audiovisual space and object perception.
-
--   I was born and raised in Belgium. However half of my family lives in Israel and I have spent most of my summers there. Today, the place I truly call home is definitely Montreal.
-
--   [Email](mailto:noa.kemp@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -340,8 +282,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -381,11 +323,14 @@ tm_shape(World)+
 
 ### Alumni
 
+* Post-doctoral fellow - Katarzyna Jurewicz
 * Masters 
     + Amanda Pruss (2025), IPN
     + Xinning Le (2025), IPN
 	+ Haoxiang Liu (2024), IPN
 	+ Buxin Liao (2024), IPN
+    + Oren Gurevitch(2025), Physiology
+    + Noa Kemp (2025), Physiology
 *   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili, Jacky Chen
 *   PHGY 461 - Isidore Victorri
 *   COMP 401 - Nevine Nzabonimpa, Evan Jiang
