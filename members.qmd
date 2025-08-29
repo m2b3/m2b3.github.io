@@ -29,7 +29,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -->
 
 ::: {#members layout-ncol="6"}
-[![Suresh Krishna](images/sureshsm.png){fig-alt="Photo of Suresh Krishna"}](#suresh)
+[![Suresh Krishna](images/p1.jpg){fig-alt="Photo of Suresh Krishna"}](#suresh)
 
 [![Katarzyna (Kasia) Jurewicz](images/kasia.png){fig-alt="Photo of Katarzyna (Kasia) Jurewicz"}](#kasia)
 
@@ -97,7 +97,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 #### Suresh Krishna
 
 ::: column-margin
-![](images/sureshsm.png){fig-alt="Photo of Suresh Krishna" width="200"}
+![](images/p1.jpg){fig-alt="Photo of Suresh Krishna" width="200"}
 :::
 
 -   Associate Professor, Department of Physiology, McGill.
