@@ -63,8 +63,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Lihong Chen](images/LC.jpg){fig-alt="Photo of Lihong Chen"}](#Lihong)
 
-[![Linjing Wang](images/linjing.jpg){fig-alt="Photo of Linjing Wang"}](#Linjing)
-
 [![Jonathan Morris](images/DSC_5520.JPG){fig-alt="Photo of Jonathan Morris"}](#Jonathan)
 
 [![Deepansh Goel](images/9nyvij-min.jpg){fig-alt="Photo of Deepansh Goel"}](#Deepansh)
@@ -397,22 +395,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Linjing"></a>
-
-#### Linjing Wang
-
-::: column-margin
-![](images/linjing.jpg){fig-alt="Photo of Linjing Wang" width="200"}
-:::
-
--   Bsc. In Mathematics, The University of Hong Kong.
-
--   My second major is Neuroscience, and I’m interested in computational neuroscience, deep learning, and their relationship. By training models to solve biological tasks, I want to uncover what makes neural systems so robust and efficient.
-
--   [Email](mailto:linjing.wang@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Jonathan"></a>
 
 #### Jonathan Morris
@@ -481,8 +463,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Jonathan", "Linjing", "Alison"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "isidore", "taimaa", "Rashed"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "evan", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Jonathan", "Alison"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "isidore", "taimaa", "Rashed", "Linjing"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -537,6 +519,7 @@ tm_shape(World)+
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao 
 *   Mackey-Glass Fellowship -- Tim Yang
 *   McGill-UAE summer internship - Rashed Alhosani
+*   MITACS Globalink Interns - Linjing Wang
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
 *   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi
 
