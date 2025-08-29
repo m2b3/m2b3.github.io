@@ -47,8 +47,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
 
-[![Sabrina Du](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina Du"}](#sabrina)
-
 [![Anna Rose Hunt-Isaak](images/annasmall.jpg){fig-alt="Photo of Anna Rose Hunt-Isaak"}](#annarose)
 
 [![Yiqing Zhu](images/YiqingZhu.jpg){fig-alt="Photo of Yiqing Zhu"}](#Yiqing)
@@ -259,26 +257,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="sabrina"></a>
-
-#### Sabrina Du
-
-::: column-margin
-![](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina Du" width="200"}
-:::
-
--   B. Sc. Student, Honours Neuroscience, McGill.
-
--   Born and raised in Montreal, I grew up alongside this city’s rise as an AI hub and developed a keen interest in brain-inspired computational architectures.
-
--   How does short-term perceptual memory guide decisions? Can we replicate this memory system in artificial networks? These questions (and more) are ones I am excited to explore.
-
--   In my free time, you can find me listening to a podcast, hiking, or attempting to sew.
-
--   [Email](mailto:sabrina.du@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="annarose"></a>
 
 #### Anna Rose Hunt-Isaak
@@ -427,8 +405,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison")
 
-nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "sabrina", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Deepansh", "Jonathan", "Alison"))
-oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "taimaa", "Lihong", "Rashed", "Linjing"))
+nowies <- is.element(namezlist, c("suresh", "oren", "kasia", "yohai", "noa", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Deepansh", "Jonathan", "Alison"))
+oldies <- is.element(namezlist, c("Haoxiang", "amanda", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Lihong", "Rashed", "Linjing"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -484,6 +462,7 @@ tm_shape(World)+
 *   Mackey-Glass Fellowship -- Tim Yang
 *   McGill-UAE summer internship - Rashed Alhosani
 *   MITACS Globalink Interns - Linjing Wang
+*   NSERC SURA - Sabrina Du
 *   Summer interns - Evan Jiang, Yagya Joshi
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
 *   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen
