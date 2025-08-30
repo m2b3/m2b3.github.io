@@ -156,7 +156,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 -   B.Sc. in Psychology and Computer Science with an emphasis on Neuroscience, Tel Aviv University, Tel Aviv, Israel.
 
--   During mt B.Sc, I worked as a research assistant in Prof. Nitzan Censor lab, which studies memory and learning. I assisted in conducting behavioral studies, as well as studies involving EEG, fMRI and TMS.
+-   During my B.Sc, I worked as a research assistant in Prof. Nitzan Censor lab, which studies memory and learning. I assisted in conducting behavioral studies, as well as studies involving EEG, fMRI and TMS.
 
 -   In the final year of my B.Sc, I joined Prof. Yuval Nir's sleep lab to help with an initiative to create SleepEEGpy, a platform to pre-process and analyse sleep EEG data.
 
