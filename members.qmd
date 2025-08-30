@@ -80,7 +80,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Deepansh Goel, Maharaja Agrasen Institute of Technology](images/9nyvij-min.jpg
 ){fig-alt="Photo of Deepansh"}](https://www.linkedin.com/in/deepanshgl)
 
-[![Alison Wang, University of Durham](images/Alison.jpg){fig-alt="Photo of Alison"}](https://www.linkedin.com/in/-jiaxi-wang/)
+[![Alison Wang, Durham University](images/Alison.jpg){fig-alt="Photo of Alison"}](https://www.linkedin.com/in/-jiaxi-wang/)
 
 [![Oren Gurevitch, McGill](images/orensm.png){fig-alt="Photo of Oren"}](https://www.linkedin.com/in/oren-gurevitch/)
 
