@@ -34,9 +34,11 @@ These are some of our ongoing projects (as of August 2025):
 
 This is the primary (bread-and-butter) focus of the lab. We always have a large bag of potential projects with several running at any given time. 
 
-We have a very strong interest in goal-directed active vision (where the eyes are freely moving). We combine modeling (with a variety of approaches), data analysis, psychophysics experiments and analysis of neurophysiological datasets from humans and monkeys. We are also very interested in predictive vision in general, and have a strong background and interest in visual attention and visuomotor behavior. Undergraduate research courses are usually, but not always, in this broad area, and involve a combination of psychophysics and data analysis/modeling. Buxin Liao is the technical lead.
+We have a very strong interest in goal-directed active vision (where the eyes are freely moving). We combine modeling (with a variety of approaches), data analysis, psychophysics experiments and analysis of neurophysiological datasets from humans and monkeys. We are also very interested in predictive vision in general, and have a strong background and interest in visual attention and visuomotor behavior. Undergraduate research courses are usually, but not always, in this broad area, and involve a combination of psychophysics and data analysis/modeling. Buxin Liao is the technical lead. 
 
-We are also mostly focusing our ongoing efforts in "Neuro-AI" on this topic. We are developing and evaluating models of goal-directed vision that include various modern AI components (including deep convolutional neural networks and transformers) as components. Much of this work is led by Yohai-Eliel Berreby. 
+Over the last two years, in work led by Katarzyna Jurewicz, we have obtained a large body of results related to how fixation durations reflect trans-saccadic processing during active vision -- this work has been developed into multiple manuscripts that should be published over the coming year. We continue to collaborate with Katarzyna, who has now moved to a new position in Krakow.
+
+We are also mostly focusing our ongoing efforts in "Neuro-AI" on this topic. We are developing and evaluating models of goal-directed vision that include various modern AI components (including deep convolutional neural networks and transformers). Much of this work is led by Yohai-Eliel Berreby. 
 
 ### Hearing and sound
 
