@@ -70,6 +70,6 @@ We are very interested in a range of applied work, and generally pursue this wit
 
 * GestureCap - we are building a markerless gesture-recognition and motion-capture Ml/AI-based tool to drive music and speech generation, and develop neuroscientific/psychological theories of music creativity and music-movement-dance interactions. At the moment, we are able to achieve a median 13 ms latency from gesture to sound output using a regular laptop. Technical report coming soon. Ongoing work with Deepansh Goel and Alison Wang.
 
-* We have been working on projects to build open-source phone-based eye-trackers; this remains in progress. 
+* We have been working on projects to build open-source phone-based eye-trackers. We have also built a version of an infant vision measurement device using eye-tracking. These projects remain work in progress.
 
 * We will soon release the first version of a cross-platform phone app that records breathing via a microphone and ECG via a Polar H10 belt and allows feedback-guided breathing protocols to be easily performed, recorded and tested. Ongoing work with Michael Lewis.
