@@ -49,6 +49,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Youyou Yang](images/youyou.jpg){fig-alt="Photo of Youyou Yang"}](#Claire)
 
+[![Eliot Mudry Danisch](images/eliot.jpg){fig-alt="Photo of Eliot Mudry Danisch"}](#Eliot)
+
 
 :::
 
@@ -262,6 +264,22 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="Eliot"></a>
+
+#### Eliot Mudry Danisch
+
+::: column-margin
+![](images/eliot.jpg){fig-alt="Photo of Eliot Mudry Danisch" width="200"}
+:::
+
+-   B.A. student in joint honours philosophy and political science with a minor in science for arts students, McGill
+
+-   I’m interested in philosophy of mind and the intersection of philosophy and cognitive science. More specifically, I’m interested in the neural basis of consciousness, cognition, and perception in both humans and AI.
+
+-   [Email](mailto:eliot.mudrydanisch@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### Where we are from
 
@@ -282,8 +300,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "annarose", "Yiqing", "Yiqing", "Edward", "Claire", "Eliot"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Kevin", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
