@@ -347,7 +347,7 @@ tm_shape(World)+
     + Xinning Le (2025), IPN
 	+ Haoxiang Liu (2024), IPN
 	+ Buxin Liao (2024), IPN
-    + Oren Gurevitch(2025), Physiology
+    + Oren Gurevitch (2025), Physiology
     + Noa Kemp (2025), Physiology
 *   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili, Jacky Chen
 *   PHGY 461 - Isidore Victorri
