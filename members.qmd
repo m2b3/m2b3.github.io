@@ -377,7 +377,7 @@ tm_shape(World)+
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao 
 *   Mackey-Glass Fellowship -- Tim Yang
 *   McGill-UAE summer internship - Rashed Alhosani
-*   MITACS Globalink Interns - Linjing Wang, Jonathan Morris
+*   MITACS Globalink Interns - Linjing Wang, Jonathan Morris, Alison Jiaxi Wang
 *   NSERC SURA - Sabrina Du
 *   Summer interns - Evan Jiang, Yagya Joshi, Kevin (Yuze) Liu
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
