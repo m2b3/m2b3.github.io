@@ -42,7 +42,7 @@ We are also mostly focusing our ongoing efforts in "Neuro-AI" on this topic. We 
 
 ### Hearing and sound
 
-We are working on multiple projects involving visual and auditory localization, motion and objecthood. Our specific auditory interests include envelope process and sound motion, using behavioral and physiological data analysis and computational modeling.
+We are working on multiple projects involving visual and auditory localization, motion and objecthood. Our specific auditory interests include envelope processing and sound motion, using behavioral and physiological data analysis and computational modeling.
 
 ### Phenomenological states and brain-heart-breathing interactions 
 
