@@ -2,7 +2,7 @@
 from: markdown+emoji
 ---
 
-We work at the interface between the mind, brain, machines and the external world, using behavioral measurements (including eye tracking), physiological measurements and computational modeling. We work with humans and animals, as well as with open datasets, and much of our research focus is on vision, hearing and eye-movements, including both sensory, attentional and cognitive aspects. We keep a keen eye on direct applications to devices, algorithms and human health.
+We work at the interface between the mind, brain, machines and the external world, using behavioral measurements (including eye tracking), physiological measurements and computational modeling. We work with humans and animals, as well as with open datasets, and much of our research focus is on vision, hearing and eye-movements, including sensory, attentional and cognitive aspects. We keep a keen eye on direct applications to devices, algorithms and human health.
 
 More details on the [Projects](projects.qmd) page.
 
