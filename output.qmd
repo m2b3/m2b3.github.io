@@ -18,8 +18,6 @@ output:
 * Single-neuron spiking variability in hippocampus dynamically tracks sensory content during memory formation in humans. Leonhard Waschke, Fabian Kamp, Evi van den Elzen, Suresh Krishna, Ulman Lindenberger, Ueli Rutishauser, Douglas D. Garrett. [Nature Communications 2025 Jan 2](https://www.nature.com/articles/s41467-024-55406-4).
 
 ### Preprints
-
-* On variability in local field potentials. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1) Mohsen Parto-Dezfouli, Elizabeth L. Johnson, Eleni Psarou, Conrado Arturo Bosman, B. Suresh Krishna, Pascal Fries (2025)
    
 * Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
 
