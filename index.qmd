@@ -16,7 +16,7 @@ More details on the [Projects](projects.qmd) page.
 
 **News**
 
-**October 2025** - New preprint out on arXiv !! https://arxiv.org/abs/2510.25119 📄
+**October 2025** - New preprint out on [arXiv](https://arxiv.org/abs/2510.25119) !! 📄
 
 **September 2025** - A lot of movement, and new beginnings ! Oren and Noa graduate and move on to new things, Kasia moves to a new position in Krakow, MITACS and GSoC students return to their regular programs, Alex joins the lab as a new Masters student. Congratulations to all !! 🎉
 
