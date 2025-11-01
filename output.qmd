@@ -20,6 +20,9 @@ output:
 ### Preprints
 
 * Effect of an auditory static distractor on the perception of an auditory moving target. [arXiv](https://arxiv.org/abs/2510.25119). Kemp N, Tarlao C, Guastavino C, Krishna BS (2025).
+
+* On variability in local field potentials. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1.full)
+ Mohsen Parto-Dezfouli,  Elizabeth L. Johnson,  Eleni Psarou,  Conrado Arturo Bosman,  B. Suresh Krishna,  Pascal Fries (2025).
    
 * Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
 
