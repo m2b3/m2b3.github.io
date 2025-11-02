@@ -50,7 +50,7 @@ We have become very interested in the behavioral, physiological and neural corre
 
 ### Ageing
 
-We have a new focus, with Alex Zhao as technical lead, on the impact of ageing on various brain and behavioral measures and their interactions with respiratory and cardiovascular measures. We are also collaborating Jonathan Morris, who did a summer Fulbright Canada - MITACS internship with us and with the MIDUS project at the University of Wisconsin-Madison.
+We have a new focus, with Alex Zhao as technical lead, on the impact of ageing on various brain and behavioral measures and their interactions with respiratory and cardiovascular measures. We are also collaborating with Jonathan Morris, who did a summer Fulbright Canada - MITACS internship with us and with the MIDUS project at the University of Wisconsin-Madison.
 
 ### Epilepsy
 
