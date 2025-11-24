@@ -49,8 +49,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Samantha Rogers](images/sammy.jpg){fig-alt="Photo of Samantha Rogers"}](#Sammy)
 
-[![Tanya Kumar](images/tanya.jpeg){fig-alt="Photo of Tanya Kumar"}](#Tanya)
-
 
 :::
 
@@ -266,22 +264,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Tanya"></a>
-
-#### Tanya Kumar
-
-::: column-margin
-![](images/tanya.jpeg){fig-alt="Photo of Tanya Kumar" width="200"}
-:::
-
--   Non-Thesis MSc, Computer Science, McGill BTech, Computer Science and Engineering, SRM University, Chennai, India
-
--   I'm interested in exploring psychology and neuroscience concepts through machine learning techniques.
-
--   [Email](mailto:tanya.kumar@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 
 ### Where we are from
 
@@ -302,8 +284,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "annarose", "Edward", "Eliot", "Sammy", "Tanya"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Yiqing", "Yiqing", "Kevin", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "annarose", "Edward", "Eliot", "Sammy"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "Yiqing", "Yiqing", "Kevin", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Tanya"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
