@@ -11,7 +11,7 @@ output:
 
 ### Journal articles 
 
-* How forward remapping along the saccade direction predicts perisaccadic biphasic mislocalization. Berreby YE, Krishna BS. [Journal of Vision , June 2025](https://doi.org/10.1167/jov.25.7.4).
+* How forward remapping predicts perisaccadic biphasic mislocalization. Berreby YE, Krishna BS. [Journal of Vision , June 2025](https://doi.org/10.1167/jov.25.7.4).
 
 * Microelectrode Implantation in Human Insula: Technical Challenges and Recording Insights. Daphné Citherlet, Sami Heymann, Maya Aderka, Katarzyna Jurewicz, B. Suresh Krishna, Manon Robert, Alain Bouthillier, Olivier Boucher, Dang Khoa Nguyen. [Brain Sciences (2025)](https://www.mdpi.com/2076-3425/15/6/550). 
 
