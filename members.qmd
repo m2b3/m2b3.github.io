@@ -317,7 +317,7 @@ tm_shape(World)+
 *   PHGY 461 - Isidore Victorri
 *   COMP 401 - Nevine Nzabonimpa, Evan Jiang
 *   COMP 396 - Evan Jiang
-* 	COGS 401/444 - Injy Fouda, Romina Niksirat
+* 	COGS 401/444 - Injy Fouda, Romina Niksirat, Anna Rose Hunt-Isaak
 *	PSYC 385/395 - Anais Rubsamen, Alex Parent
 *   PSYC 494 - Youzhi Huang, Jacky Chen
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao 
