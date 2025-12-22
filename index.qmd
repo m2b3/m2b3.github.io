@@ -16,6 +16,8 @@ More details on the [Projects](projects.qmd) page.
 
 **News**
 
+**December 2025** - Alex gets a Brain-Heart Interconnectome Masters Scholarship ! 🎉
+
 **December 2025** - SciCommons: The first step in our slow, but steady progress towards an open publishing and rating portal is out in the form of a [journal club portal](https://alphatest.scicommons.org/). Great work by Armaan and Faisal, building on past work by Jyothi Swaroop and Dinakar. Intrepid testers are welcome to set up their discussion groups there.
 
 **December 2025** - Jonathan's preprint out on [biorXiv](https://www.biorxiv.org/content/10.1101/2025.11.26.690332v1) !! 📄
