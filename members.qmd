@@ -41,8 +41,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
 
-[![Edward Tong](images/edtong.jpg){fig-alt="Photo of Edward Tong"}](#Edward)
-
 [![Eliot Mudry Danisch](images/eliot.jpg){fig-alt="Photo of Eliot Mudry Danisch"}](#Eliot)
 
 [![Samantha Rogers](images/sammy.jpg){fig-alt="Photo of Samantha Rogers"}](#Sammy)
@@ -198,22 +196,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Edward"></a>
-
-#### Edward Tong
-
-::: column-margin
-![](images/edtong.jpg){fig-alt="Photo of Edward Tong" width="200"}
-:::
-
--   B. Eng. Student in Bioengineering, McGill.
-
--   Bioengineering courses often focus on design like tissue engineering or microfluidic devices. However, my interests was peaked during a signal analysis class (BIEN462), learning about the diagnostic abilities of ECGs. I look forward to analyses other signals such as EEGs. In my spare time, I enjoy listening to music and playing videogames.
-
--   [Email](mailto:edward.tong@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Eliot"></a>
 
 #### Eliot Mudry Danisch
@@ -282,8 +264,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Edward", "Eliot", "Sammy", "Tanya"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Eliot", "Sammy", "Tanya"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
