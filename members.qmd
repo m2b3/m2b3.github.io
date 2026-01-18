@@ -47,6 +47,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Tanya Kumar](images/tanya.jpeg){fig-alt="Photo of Tanya Kumar"}](#Tanya)
 
+[![Manuel Hanna](images/manuel.png){fig-alt="Photo of Manuel Hanna"}](#Manuel)
+
 
 :::
 
@@ -244,6 +246,24 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="Manuel"></a>
+
+#### Manuel Hanna
+
+::: column-margin
+![](images/manuel.png){fig-alt="Photo of Manuel Hanna" width="200"}
+:::
+
+-   B.Eng. Student, Software Engineering (major) and Biomedical Engineering (minor), McGill.
+
+-   As a Software Engineering student I started my minor in Biomedical Engineering last year with the goal of studying neural systems. I'm interested in using computational modeling to help improve understanding of processes such as attention and motor learning.
+
+-   I enjoy playing soccer in my free time.
+
+-   [Email](mailto:manuel.hanna@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### Where we are from
 
@@ -256,15 +276,15 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 30.605053, 31.9796, 46.8852, 45.5019, 33.5138, 40.022709, 45.5103643, 45.5103643, 39.9042, 45.51, 31.8775, 31.8206, 28.7041, 24.4539, 43.0722, 36.0671, 29.166128, 43.6532, 37.832602, 19.076)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 30.605053, 31.9796, 46.8852, 45.5019, 33.5138, 40.022709, 45.5103643, 45.5103643, 39.9042, 45.51, 31.8775, 31.8206, 28.7041, 24.4539, 43.0722, 36.0671, 29.166128, 43.6532, 37.832602, 19.076, 45.498163)
 
 
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 104.074123, 120.8937, -56.3159, -73.5674, 36.2765, -75.320869, -73.5746522, -73.5746522, -116.4074, -73.58, 120.5511, 117.2272, 77.1025, 54.3773, -89.40123, 120.3826, 120.055445, -79.3832, -122.210795, 72.8777)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 104.074123, 120.8937, -56.3159, -73.5674, 36.2765, -75.320869, -73.5746522, -73.5746522, -116.4074, -73.58, 120.5511, 117.2272, 77.1025, 54.3773, -89.40123, 120.3826, 120.055445, -79.3832, -122.210795, 72.8777, -73.585224)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Manuel")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Eliot", "Sammy", "Tanya"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Eliot", "Sammy", "Tanya", "Manuel"))
 oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
 
 lat <- latlist[nowies]
@@ -323,7 +343,7 @@ tm_shape(World)+
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao 
 *   Mackey-Glass Fellowship -- Tim Yang
 *   CDSI Summer Research Fellow - Yiqing Zhu
-*   Volunteer Researcher - Claire Yang
+*   Volunteer Researcher - Claire Yang, Edward Tong
 *   McGill-UAE summer internship - Rashed Alhosani
 *   MITACS Globalink Interns - Linjing Wang, Jonathan Morris, Alison Jiaxi Wang
 *   NSERC SURA - Sabrina Du
