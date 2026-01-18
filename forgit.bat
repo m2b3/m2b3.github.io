@@ -5,6 +5,7 @@ SET msg="minor change"
 IF NOT [%1] == [] SET msg=%1
 
 set "QUARTO=C:\Program Files\Quarto\bin\quarto.cmd"
+set "QUARTO_DENO=C:\Program Files\Quarto\bin\tools\x86_64\deno.exe"
 
 echo %msg%
 
@@ -30,7 +31,8 @@ echo "now doing quarto"
 REM call "%QUARTO%" render
 echo QUARTO is: "%QUARTO%"
 pause
-call "C:\Program Files\Quarto\bin\quarto.cmd" render
+REM call "C:\Program Files\Quarto\bin\quarto.cmd" render
+call quarto render
 
 REM Check if the third argument is "dogit"
 REM Also check if the second argument is "dogit" if the second is missing
@@ -49,7 +51,8 @@ IF [%3] == [dogit] (
 cd ../fr
 REM call "%QUARTO%" render
 REM call quarto.cmd render
-call "C:\Program Files\Quarto\bin\quarto.cmd" render
+REM call "C:\Program Files\Quarto\bin\quarto.cmd" render
+call quarto render
 
 IF [%3] == [dogit] (
     git add -A
