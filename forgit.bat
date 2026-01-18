@@ -27,8 +27,10 @@ IF [%2] == [dopy] (
 echo "hello"
 echo "now doing quarto"
 
-call "%QUARTO%" render
-REM call quarto.cmd render
+REM call "%QUARTO%" render
+echo QUARTO is: "%QUARTO%"
+pause
+call "C:\Program Files\Quarto\bin\quarto.cmd" render
 
 REM Check if the third argument is "dogit"
 REM Also check if the second argument is "dogit" if the second is missing
@@ -45,8 +47,9 @@ IF [%3] == [dogit] (
 )
 
 cd ../fr
-call "%QUARTO%" render
+REM call "%QUARTO%" render
 REM call quarto.cmd render
+call "C:\Program Files\Quarto\bin\quarto.cmd" render
 
 IF [%3] == [dogit] (
     git add -A
