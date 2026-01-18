@@ -31,8 +31,8 @@ echo "now doing quarto"
 REM call "%QUARTO%" render
 echo QUARTO is: "%QUARTO%"
 pause
-REM call "C:\Program Files\Quarto\bin\quarto.cmd" render
-call quarto render
+call "C:\Program Files\Quarto\bin\quarto.cmd" render
+REM call quarto render
 
 REM Check if the third argument is "dogit"
 REM Also check if the second argument is "dogit" if the second is missing
