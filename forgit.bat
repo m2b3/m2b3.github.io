@@ -4,7 +4,8 @@ REM Handle the commit message
 SET msg="minor change"
 IF NOT [%1] == [] SET msg=%1
 
-set "QUARTO=C:\Program Files\Quarto\bin\quarto.cmd"
+set "QUARTO=C:\Program Files\Quarto\bin\quarto.exe"
+REM dont use quarto.cmd, that is broken. that is also why just quarto works, windows finds .exe first
 set "QUARTO_DENO=C:\Program Files\Quarto\bin\tools\x86_64\deno.exe"
 
 echo %msg%
@@ -28,10 +29,8 @@ IF [%2] == [dopy] (
 echo "hello"
 echo "now doing quarto"
 
-REM call "%QUARTO%" render
-echo QUARTO is: "%QUARTO%"
-pause
-call "C:\Program Files\Quarto\bin\quarto.cmd" render
+call "%QUARTO%" render
+REM call "C:\Program Files\Quarto\bin\quarto.cmd" render
 REM call quarto render
 
 REM Check if the third argument is "dogit"
@@ -49,10 +48,10 @@ IF [%3] == [dogit] (
 )
 
 cd ../fr
-REM call "%QUARTO%" render
+call "%QUARTO%" render
 REM call quarto.cmd render
 REM call "C:\Program Files\Quarto\bin\quarto.cmd" render
-call quarto render
+REM call quarto render
 
 IF [%3] == [dogit] (
     git add -A
