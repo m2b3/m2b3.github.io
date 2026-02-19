@@ -11,6 +11,8 @@ output:
 
 ### Journal articles 
 
+* Correction of saccadic decisions during active visual search in the monkey. Ipata AE, Bisley JW, Krishna BS. [OSF Preprints](https://osf.io/vt423) (2026).
+
 * How forward remapping predicts perisaccadic biphasic mislocalization. Berreby YE, Krishna BS. [Journal of Vision , June 2025](https://doi.org/10.1167/jov.25.7.4).
 
 * Microelectrode Implantation in Human Insula: Technical Challenges and Recording Insights. Daphné Citherlet, Sami Heymann, Maya Aderka, Katarzyna Jurewicz, B. Suresh Krishna, Manon Robert, Alain Bouthillier, Olivier Boucher, Dang Khoa Nguyen. [Brain Sciences (2025)](https://www.mdpi.com/2076-3425/15/6/550). 
@@ -29,8 +31,6 @@ output:
 * Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
 
 * Fast and frequent corrections of saccadic decisions underlie a satisficing strategy when searching everyday scenes.[PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. (2023).
-
-* Correction of saccadic decisions during free-viewing visual search in the monkey. [OSF Preprints](https://osf.io/vt423). Ipata AE, Bisley JW, Krishna BS. (2023).
 
 ### Other
 
