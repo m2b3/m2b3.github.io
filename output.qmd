@@ -11,7 +11,7 @@ output:
 
 ### Journal articles 
 
-* Correction of saccadic decisions during active visual search in the monkey. Ipata AE, Bisley JW, Krishna BS. Accepted, Journal of Vision. [OSF Preprints](https://osf.io/vt423) (2026).
+* Correction of saccadic decisions during active visual search in the monkey. Ipata AE, Bisley JW, Krishna BS. Journal of Vision, March 2026](https://jov.arvojournals.org/article.aspx?articleid=2811630)
 
 * How forward remapping predicts perisaccadic biphasic mislocalization. Berreby YE, Krishna BS. [Journal of Vision , June 2025](https://doi.org/10.1167/jov.25.7.4).
 
