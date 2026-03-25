@@ -21,6 +21,8 @@ output:
 
 ### Preprints
 
+* CanViT: Toward Active-Vision Foundation Models. [arXiv](https://arxiv.org/abs/2603.22570) (2026). Yohaï-Eliel Berreby, Sabrina Du, Audrey Durand, B. Suresh Krishna. 
+
 * Associations Between Age, Heart Rate Variability, and BOLD fMRI Signal Variability.[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.26.690332v1) 2025.11.26.690332. Jonathan Morris, Stacey M Schaefer, Yiyi Zhu, Jinx Recchio, Lauren Gresham, Sarah Skinner, Kareem Al-Khalil, B. Suresh Krishna (2025).
 
 * Effect of an auditory static distractor on the perception of an auditory moving target. [arXiv](https://arxiv.org/abs/2510.25119). Kemp N, Tarlao C, Guastavino C, Krishna BS (2025).
@@ -34,7 +36,9 @@ output:
 
 ### Other
 
-#### Output from m2b3 lab members continuing/completing their prior work.
+#### Output from m2b3 lab members continuing/completing prior or independent work.
+
+* Random Initialization of Gated Sparse Adapters. [arXiv](https://arxiv.org/abs/2511.01794)(2023). Vi Retault, Yohaï-Eliel Berreby. 
 
 * Investigating Efficient Deep Learning Architectures For Side-Channel Attacks on AES. [arXiv](https://arxiv.org/abs/2309.13170). *Berreby Y-E*, Sauvage, L. (2023).
 
