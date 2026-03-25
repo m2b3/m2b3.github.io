@@ -16,7 +16,7 @@ More details on the [Projects](projects.qmd) page.
 
 **News**
 
-**March 2026** - Yohai's CanVIT model is now out as a preprint in [arXiv](https://arxiv.org/abs/2603.22570) !! 🎉📄
+**March 2026** - Yohai's [CanVIT model](https://arxiv.org/abs/2603.22570) is now out as a preprint in [arXiv](https://arxiv.org/abs/2603.22570) !! 🎉📄
 
 **March 2026** - ["Correction of saccadic decisions during active visual search in the monkey"](https://jov.arvojournals.org/article.aspx?articleid=2811630) in print at the Journal of Vision after a smooth, quick and transparent reviewing process. 📄
 
