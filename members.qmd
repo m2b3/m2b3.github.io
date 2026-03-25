@@ -63,7 +63,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Prof. Catherine Guastavino, McGill](images/CG.jpeg){fig-alt="Photo of Catherine"}](https://www.mcgill.ca/sis/people/faculty/guastavino)
 
-[![Prof. Fabrice Marandola, CIRMMT, McGill](images/fm.png){fig-alt="Photo of Fabrice"}](https://www.mcgill.ca/music/fabrice-marandola)
+[![Prof. Fabrice Marandola, CIRMMT, McGill](images/FM.png){fig-alt="Photo of Fabrice"}](https://www.mcgill.ca/music/fabrice-marandola)
 
 [![Prof. Simone Dalla Bella, co-Director, BRAMS, UdeM](images/SDB.png){fig-alt="Photo of Simone"}](https://brams.org/members/simone-dalla-bella/)
 
@@ -106,7 +106,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 -   Spent time at Columbia University, CNRS (Lyon), German Primate Center (Goettingen), MPI for Human Development (Berlin), before coming to McGill (Jan 2020).
 
--   [Email](mailto:suresh.krishna@mcgill.ca); [Google Scholar]( Google Scholar - https://tinyurl.com/ypeu5ha3)
+-   [Email](mailto:suresh.krishna@mcgill.ca); [Google Scholar](https://tinyurl.com/ypeu5ha3)
 
 ------------------------------------------------------------------------
 

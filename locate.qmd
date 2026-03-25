@@ -32,7 +32,7 @@ Support:
 :::
 :::
 
-We can be reached at this [address](mailto: m2b3.lab@mcgill.ca).
+We can be reached at this [address](mailto:m2b3.lab@mcgill.ca).
 
 Lab locations
 
