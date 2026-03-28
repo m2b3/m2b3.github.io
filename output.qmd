@@ -38,14 +38,17 @@ output:
 
 #### Output from m2b3 lab members continuing/completing prior or independent work.
 
-* Random Initialization of Gated Sparse Adapters. [arXiv](https://arxiv.org/abs/2511.01794)(2023). Vi Retault, Yohaï-Eliel Berreby. 
+* Mairead Shaw, Celia Berge, *Amanda Pruss*, Jessica Kay Flake. (2025). Mapping the Garden of Forking Paths in Multilevel Models. [Multivariate Behavioral Research  2025, 60(1), 25](https://doi.org/10.1080/00273171.2025.2443366)
 
-* Investigating Efficient Deep Learning Architectures For Side-Channel Attacks on AES. [arXiv](https://arxiv.org/abs/2309.13170). *Berreby Y-E*, Sauvage, L. (2023).
+* *Jurewicz, K.*, Sleezer, B.J., Mehta, P.S., Hayden, B. Y., Ebitz, R.B.  (2024). Irrational choices via a curvilinear representational geometry for value. [Nat Commun 15, 6424.](https://doi.org/10.1038/s41467-024-49568-4)
 
-* Jurewicz, K., Sleezer, B.J., Mehta, P.S., Hayden, B. Y., Ebitz, R.B.  (2024). Irrational choices via a curvilinear representational geometry for value. [Nat Commun 15, 6424.](https://doi.org/10.1038/s41467-024-49568-4)
-
-* Wojciechowski, J., Jurewicz, K., Dzianok, P., Antonova, I., Paluch, K., Wolak, T., Kublik, E. (2024). Common and distinct BOLD correlates of Simon and flanker conflicts which can(not) be reduced to time-on-task effects. [Human Brain Mapping. 45(1), 1-16.](https://doi.org/10.1002/hbm.26549)
+* Wojciechowski, J., *Jurewicz, K.*, Dzianok, P., Antonova, I., Paluch, K., Wolak, T., Kublik, E. (2024). Common and distinct BOLD correlates of Simon and flanker conflicts which can(not) be reduced to time-on-task effects. [Human Brain Mapping. 45(1), 1-16.](https://doi.org/10.1002/hbm.26549)
 
 * Pupil size predicts the onset of exploration in brain and behavior. [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.24.541981v1). Shourkeshti A, Marrocco G, *Jurewicz K*, Moore T, Ebitz RB. (2023).
 
 * ToFFi–Toolbox for frequency-based fingerprinting of brain signals. [Neurocomputing](https://doi.org/10.1016/j.neucom.2023.126236), 544, 126236. Komorowski MK, Rykaczewski K, Piotrowski T, *Jurewicz K*, Wojciechowski J, Keitel A, Dreszer J, Duch W. (2023).
+
+* Random Initialization of Gated Sparse Adapters. [arXiv](https://arxiv.org/abs/2511.01794)(2023). Vi Retault, *Yohaï-Eliel Berreby*. 
+
+* Investigating Efficient Deep Learning Architectures For Side-Channel Attacks on AES. [arXiv](https://arxiv.org/abs/2309.13170). *Berreby Y-E*, Sauvage, L. (2023).
+
