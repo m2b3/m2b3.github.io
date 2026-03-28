@@ -92,7 +92,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Ron Schondorf, McGill](images/Ron.jpg){fig-alt="Photo of Ron"}](https://www.mcgill.ca/neurology-neurosurgery/ronald-schondorf-phd-md-frcpc-faas)
 
-[![Fuat Balci, McGill](images/Fuat.jpg){fig-alt="Photo of Fuat"}](https://umanitoba.ca/science/directory/biological-sciences/fuat-balci)
+[![Fuat Balci, U.Manitoba](images/Fuat.jpg){fig-alt="Photo of Fuat"}](https://umanitoba.ca/science/directory/biological-sciences/fuat-balci)
 
 ::: 
 
