@@ -11,44 +11,43 @@ output:
 
 ### Journal articles 
 
-* Correction of saccadic decisions during active visual search in the monkey. Ipata AE, Bisley JW, Krishna BS.  [Journal of Vision, March 2026](https://jov.arvojournals.org/article.aspx?articleid=2811630)
+* Correction of saccadic decisions during active visual search in the monkey. Ipata, A. E., Bisley, J. W., Krishna, B. S. [Journal of Vision, March 2026](https://jov.arvojournals.org/article.aspx?articleid=2811630).
 
-* How forward remapping predicts perisaccadic biphasic mislocalization. Berreby YE, Krishna BS. [Journal of Vision , June 2025](https://doi.org/10.1167/jov.25.7.4).
+* How forward remapping predicts perisaccadic biphasic mislocalization. Berreby, Y.-E., Krishna, B. S. [Journal of Vision, June 2025](https://doi.org/10.1167/jov.25.7.4).
 
-* Microelectrode Implantation in Human Insula: Technical Challenges and Recording Insights. Daphné Citherlet, Sami Heymann, Maya Aderka, Katarzyna Jurewicz, B. Suresh Krishna, Manon Robert, Alain Bouthillier, Olivier Boucher, Dang Khoa Nguyen. [Brain Sciences (2025)](https://www.mdpi.com/2076-3425/15/6/550). 
+* Microelectrode Implantation in Human Insula: Technical Challenges and Recording Insights. Citherlet, D., Heymann, S., Aderka, M., Jurewicz, K., Krishna, B. S., Robert, M., Bouthillier, A., Boucher, O., Nguyen, D. K. [Brain Sciences, 2025](https://www.mdpi.com/2076-3425/15/6/550).
 
-* Single-neuron spiking variability in hippocampus dynamically tracks sensory content during memory formation in humans. Leonhard Waschke, Fabian Kamp, Evi van den Elzen, Suresh Krishna, Ulman Lindenberger, Ueli Rutishauser, Douglas D. Garrett. [Nature Communications 2025 Jan 2](https://www.nature.com/articles/s41467-024-55406-4).
+* Single-neuron spiking variability in hippocampus dynamically tracks sensory content during memory formation in humans. Waschke, L., Kamp, F., van den Elzen, E., Krishna, B. S., Lindenberger, U., Rutishauser, U., Garrett, D. D. [Nature Communications, January 2, 2025](https://www.nature.com/articles/s41467-024-55406-4).
 
 ### Preprints
 
-* CanViT: Toward Active-Vision Foundation Models. [arXiv](https://arxiv.org/abs/2603.22570) (2026). Yohaï-Eliel Berreby, Sabrina Du, Audrey Durand, B. Suresh Krishna. 
+* CanViT: Toward Active-Vision Foundation Models. Berreby, Y.-E., Du, S., Durand, A., Krishna, B. S. [arXiv, 2026](https://arxiv.org/abs/2603.22570).
 
-* Associations Between Age, Heart Rate Variability, and BOLD fMRI Signal Variability.[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.26.690332v1) 2025.11.26.690332. Jonathan Morris, Stacey M Schaefer, Yiyi Zhu, Jinx Recchio, Lauren Gresham, Sarah Skinner, Kareem Al-Khalil, B. Suresh Krishna (2025).
+* Associations Between Age, Heart Rate Variability, and BOLD fMRI Signal Variability. Morris, J., Schaefer, S. M., Zhu, Y., Recchio, J., Gresham, L., Skinner, S., Al-Khalil, K., Krishna, B. S. [bioRxiv, 2025.11.26.690332 (2025)](https://www.biorxiv.org/content/10.1101/2025.11.26.690332v1).
 
-* Effect of an auditory static distractor on the perception of an auditory moving target. [arXiv](https://arxiv.org/abs/2510.25119). Kemp N, Tarlao C, Guastavino C, Krishna BS (2025).
+* Effect of an auditory static distractor on the perception of an auditory moving target. Kemp, N., Tarlao, C., Guastavino, C., Krishna, B. S. [arXiv, 2025](https://arxiv.org/abs/2510.25119).
 
-* On variability in local field potentials. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1.full).
- Mohsen Parto-Dezfouli,  Elizabeth L. Johnson,  Eleni Psarou,  Conrado Arturo Bosman,  B. Suresh Krishna,  Pascal Fries (2025).
+* On variability in local field potentials. Parto-Dezfouli, M., Johnson, E. L., Psarou, E., Bosman, C. A., Krishna, B. S., Fries, P. [bioRxiv, 2025](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1.full).
    
-* Correlations between different auditory temporal response properties of inferior colliculus neurons. [OSF Preprints](https://osf.io/rytvn/). Berreby YE, Krishna BS. (2023).
+* Correlations between different auditory temporal response properties of inferior colliculus neurons. Berreby, Y.-E., Krishna, B. S. [OSF Preprints, 2023](https://osf.io/rytvn/).
 
-* Fast and frequent corrections of saccadic decisions underlie a satisficing strategy when searching everyday scenes.[PsyArxiv](https://psyarxiv.com/8yta9). Jurewicz K, Liao B, Krishna BS. (2023).
+* Fast and frequent corrections of saccadic decisions underlie a satisficing strategy when searching everyday scenes. Jurewicz, K., Liao, B., Krishna, B. S. [PsyArxiv, 2023](https://psyarxiv.com/8yta9).
 
 ### Other
 
 #### Output from m2b3 lab members continuing/completing prior or independent work.
 
-* Mairead Shaw, Celia Berge, *Amanda Pruss*, Jessica Kay Flake. (2025). Mapping the Garden of Forking Paths in Multilevel Models. [Multivariate Behavioral Research  2025, 60(1), 25](https://doi.org/10.1080/00273171.2025.2443366)
+* Mapping the Garden of Forking Paths in Multilevel Models. Shaw, M., Berge, C., *Pruss, A.*, Flake, J. K. [Multivariate Behavioral Research, 2025, 60(1), 25](https://doi.org/10.1080/00273171.2025.2443366).
 
-* *Jurewicz, K.*, Sleezer, B.J., Mehta, P.S., Hayden, B. Y., Ebitz, R.B.  (2024). Irrational choices via a curvilinear representational geometry for value. [Nat Commun 15, 6424.](https://doi.org/10.1038/s41467-024-49568-4)
+* Irrational choices via a curvilinear representational geometry for value. *Jurewicz, K.*, Sleezer, B. J., Mehta, P. S., Hayden, B. Y., Ebitz, R. B. [Nature Communications, 2024, 15, 6424](https://doi.org/10.1038/s41467-024-49568-4).
 
-* Wojciechowski, J., *Jurewicz, K.*, Dzianok, P., Antonova, I., Paluch, K., Wolak, T., Kublik, E. (2024). Common and distinct BOLD correlates of Simon and flanker conflicts which can(not) be reduced to time-on-task effects. [Human Brain Mapping. 45(1), 1-16.](https://doi.org/10.1002/hbm.26549)
+* Common and distinct BOLD correlates of Simon and flanker conflicts which can(not) be reduced to time-on-task effects. Wojciechowski, J., *Jurewicz, K.*, Dzianok, P., Antonova, I., Paluch, K., Wolak, T., Kublik, E. [Human Brain Mapping, 2024, 45(1), 1-16](https://doi.org/10.1002/hbm.26549).
 
-* Pupil size predicts the onset of exploration in brain and behavior. [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.24.541981v1). Shourkeshti A, Marrocco G, *Jurewicz K*, Moore T, Ebitz RB. (2023).
+* Pupil size predicts the onset of exploration in brain and behavior. Shourkeshti, A., Marrocco, G., *Jurewicz, K.*, Moore, T., Ebitz, R. B. [bioRxiv, 2023](https://www.biorxiv.org/content/10.1101/2023.05.24.541981v1).
 
-* ToFFi–Toolbox for frequency-based fingerprinting of brain signals. [Neurocomputing](https://doi.org/10.1016/j.neucom.2023.126236), 544, 126236. Komorowski MK, Rykaczewski K, Piotrowski T, *Jurewicz K*, Wojciechowski J, Keitel A, Dreszer J, Duch W. (2023).
+* ToFFi-Toolbox for frequency-based fingerprinting of brain signals. Komorowski, M. K., Rykaczewski, K., Piotrowski, T., *Jurewicz, K.*, Wojciechowski, J., Keitel, A., Dreszer, J., Duch, W. [Neurocomputing, 2023, 544, 126236](https://doi.org/10.1016/j.neucom.2023.126236).
 
-* Random Initialization of Gated Sparse Adapters. [arXiv](https://arxiv.org/abs/2511.01794)(2023). Vi Retault, *Yohaï-Eliel Berreby*. 
+* Random Initialization of Gated Sparse Adapters. Retault, V., *Berreby, Y.-E.* [arXiv, 2023](https://arxiv.org/abs/2511.01794).
 
-* Investigating Efficient Deep Learning Architectures For Side-Channel Attacks on AES. [arXiv](https://arxiv.org/abs/2309.13170). *Berreby Y-E*, Sauvage, L. (2023).
+* Investigating Efficient Deep Learning Architectures for Side-Channel Attacks on AES. *Berreby, Y.-E.*, Sauvage, L. [arXiv, 2023](https://arxiv.org/abs/2309.13170).
 
