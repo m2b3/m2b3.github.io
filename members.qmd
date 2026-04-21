@@ -371,7 +371,7 @@ tm_shape(World)+
 *   COMP 396 - Evan Jiang
 *   COMP 693, COMP 694, and COMP 695 - Tanya Kumar
 * 	COGS 401/444 - Injy Fouda, Romina Niksirat, Anna Rose Hunt-Isaak
-*	  PSYC 385/395 - Anais Rubsamen, Alex Parent
+*   PSYC 385/395 - Anais Rubsamen, Alex Parent
 *   PSYC 494 - Youzhi Huang, Jacky Chen
 *   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao, Samantha Rogers
 *   BIOL 468 - Eliot Mudry Danisch
