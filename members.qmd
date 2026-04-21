@@ -41,12 +41,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
 
-[![Eliot Mudry Danisch](images/eliot.jpg){fig-alt="Photo of Eliot Mudry Danisch"}](#Eliot)
-
-[![Samantha Rogers](images/sammy.jpg){fig-alt="Photo of Samantha Rogers"}](#Sammy)
-
-[![Tanya Kumar](images/tanya.jpeg){fig-alt="Photo of Tanya Kumar"}](#Tanya)
-
 [![Manuel Hanna](images/manuel.png){fig-alt="Photo of Manuel Hanna"}](#Manuel)
 
 [![Eva Ozturk](images/Eva.png){fig-alt="Photo of Eva Ozturk"}](#Eva)
@@ -214,54 +208,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Eliot"></a>
-
-#### Eliot Mudry Danisch
-
-::: column-margin
-![](images/eliot.jpg){fig-alt="Photo of Eliot Mudry Danisch" width="200"}
-:::
-
--   B.A. student in joint honours philosophy and political science with a minor in science for arts students, McGill
-
--   I’m interested in philosophy of mind and the intersection of philosophy and cognitive science. More specifically, I’m interested in the neural basis of consciousness, cognition, and perception in both humans and AI.
-
--   [Email](mailto:eliot.mudrydanisch@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="Sammy"></a>
-
-#### Samantha Rogers
-
-::: column-margin
-![](images/sammy.jpg){fig-alt="Photo of Samantha Rogers" width="200"}
-:::
-
--   B. Sc. Neuroscience, McGill University
-
--   I am originally from California and recently spent a semester studying at the University of Edinburgh. I am interested in exploring the connection between neurophysiology and behavior, in particular cognition, memory, and decision making. I hope to be able to learn more about the neural basis of human behavior.
-
--   [Email](mailto:samantha.rogers2@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="Tanya"></a>
-
-#### Tanya Kumar
-
-::: column-margin
-![](images/tanya.jpeg){fig-alt="Photo of Tanya Kumar" width="200"}
-:::
-
--   Non-Thesis MSc, Computer Science, McGill BTech, Computer Science and Engineering, SRM University, Chennai, India
-
--   I'm interested in exploring psychology and neuroscience concepts through machine learning techniques.
-
--   [Email](mailto:tanya.kumar@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Manuel"></a>
 
 #### Manuel Hanna
@@ -370,8 +316,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Eliot", "Sammy", "Tanya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -419,14 +365,16 @@ tm_shape(World)+
 	+ Buxin Liao (2024), IPN
     + Oren Gurevitch (2025), Physiology
     + Noa Kemp (2025), Physiology
-*   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili, Jacky Chen
+*   PHGY 396 - Sean Solomon, Sarah Beydoun, Pegah Aghili, Jacky Chen, Manuel Hanna
 *   PHGY 461 - Isidore Victorri
 *   COMP 401 - Nevine Nzabonimpa, Evan Jiang
 *   COMP 396 - Evan Jiang
+*   COMP 693, COMP 694, and COMP 695 - Tanya Kumar
 * 	COGS 401/444 - Injy Fouda, Romina Niksirat, Anna Rose Hunt-Isaak
-*	PSYC 385/395 - Anais Rubsamen, Alex Parent
+*	  PSYC 385/395 - Anais Rubsamen, Alex Parent
 *   PSYC 494 - Youzhi Huang, Jacky Chen
-*   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao 
+*   NSCI 410 - Alexandru Tecu, Lilia Fernane, Alex Zhao, Samantha Rogers
+*   BIOL 468 - Eliot Mudry Danisch
 *   Mackey-Glass Fellowship -- Tim Yang
 *   CDSI Summer Research Fellow - Yiqing Zhu
 *   Volunteer Researcher - Claire Yang, Edward Tong
