@@ -19,7 +19,7 @@ More details on the [Projects](projects.qmd) page.
 **April 2026** - Lab members will be part of the mentorship teams for 5 Google Summer of Code open-source projects through [INCF](https://www.incf.org/) this summer:
 
 - iEEG - an intracranial EEG data analysis package in collaboration with the CHUM
-- SciCommons - an open platform for scientific discussion and evaluation (alphatest.scicommons.org)
+- [SciCommons](https://alphatest.scicommons.org) - an open platform for scientific discussion and evaluation
 - BreathState - a phone app for monitoring breathing, heart-rate and their relationship to mental health and performance
 - ActiveVision - a package for modeling active vision
 - GestureCap - a system for markerless, gesture-driven musical expression and other applications 
