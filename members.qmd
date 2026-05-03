@@ -348,7 +348,9 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/Simmi.jpg){fig-alt="Photo of Simmi Agnihotram" width="200"}
 :::
 
--   Master of Management in Analytics, McGill University BA in Honours Economics, Concordia University
+-   Master of Management in Analytics, McGill University
+
+-   BA in Honours Economics, Concordia University
 
 -   Interested in machine learning and LLM-based decision workflows. Previously interned at the McGill University Health Center doing statistical analysis on pediatric data, and I look forward to applying this curiosity in health analytics towards how AI workflows can better guide analysis and decision making in the scientific fields such as biology or neuroscience.
 
@@ -364,7 +366,9 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ![](images/Jada.jpg){fig-alt="Photo of Jada Ke Thompson" width="200"}
 :::
 
--   M.Sc. student in Computer Science (Non-Thesis), McGill B.Eng. Mechanical Engineering with a minor in Software Engineering, McGill
+-   M.Sc. student in Computer Science (Non-Thesis), McGill
+
+-   B.Eng. Mechanical Engineering with a minor in Software Engineering, McGill
 
 -   Interested in machine learning, particularly in areas such as robotics, healthcare, and neuroscience
 
