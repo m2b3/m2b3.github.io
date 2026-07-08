@@ -16,6 +16,8 @@ More details on the [Projects](projects.qmd) page.
 
 **News**
 
+**July 2026** - Our manuscript on "Effect of an auditory static distractor on the perception of an auditory moving target" with work led by Noa Kemp and in collaboration with Catherine Guastavino will appear soon in the Journal of the Acoustical Society of America after a smooth and constructive review process. Nice to again have a JASA paper after a long time :)
+
 **June 2026** - Fatma Ozlem gets a Study in Canada scholarship to visit the lab from Sağlık Bilimleri Üniversitesi in Istanbul in 2026-2027.
 
 **May 2026** - Yohai gets the UNIQUE-CerebrUM Best Presentation award at the UNIQUE Student Symposium. Congrats Yohai! 🎉
@@ -28,7 +30,7 @@ More details on the [Projects](projects.qmd) page.
 - [SciCommons](https://alphatest.scicommons.org) - an open platform for scientific discussion and evaluation
 - BreathState - a phone app for monitoring breathing, heart-rate and their relationship to mental health and performance
 - ActiveVision - a package for modeling active vision
-- GestureCap - a system for markerless, gesture-driven musical expression and other applications 
+- GestureCap - a system for markerless, gesture-driven musical expression and other applications
 
 **April 2026** - Yohai gets a NSERC CGRS-D fellowship. Congrats Yohai !! 🎉
 
@@ -58,7 +60,7 @@ More details on the [Projects](projects.qmd) page.
 
 **May 2025** - Maya gets a Savoy Foundation Masters fellowship ! Congratulations !! 🎉
 
-**April 2025** - New methods preprint out on microelectrode recordings in the human insula from the ongoing collaboration with Dr. Dang Nguyen's team at the CHUM. [Preprints.org](https://www.preprints.org/manuscript/202504.1279/v1) 📄 
+**April 2025** - New methods preprint out on microelectrode recordings in the human insula from the ongoing collaboration with Dr. Dang Nguyen's team at the CHUM. [Preprints.org](https://www.preprints.org/manuscript/202504.1279/v1) 📄
 
 **April 2025** - Amanda has finished her Masters and will move on from the lab at the end of the month. Congratulations on completing an excellent Masters thesis, and here is to new adventures ! 🎉
 
@@ -68,7 +70,7 @@ More details on the [Projects](projects.qmd) page.
 
 **March 2025** - New preprint out on variability in local field potentials from a fun collaboration with Mohsen Parto-Dezfouli and the extended group of Pascal Fries. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1) 📄
 
-**January/February 2025** - Maya gets UNIQUE, PGSS, VSRN and GREAT travel awards to go to the MicMac iEEG recording workshop/conference in France in March. 
+**January/February 2025** - Maya gets UNIQUE, PGSS, VSRN and GREAT travel awards to go to the MicMac iEEG recording workshop/conference in France in March.
 
 **January 2025** - Buxin gets a UNIQUE Excellence Scholarship. Congratulations, Buxin ! 🏆
 
@@ -94,9 +96,9 @@ More details on the [Projects](projects.qmd) page.
 
 **March 2024** - Yohai gets accepted to and will attend the CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School. Congrats Yohai ! 🏆
 
-**March 2024** - Welcoming Louis to the lab as a computer vision and neuro-AI intern from Telecom Paris (until August 2024). :tada: 
+**March 2024** - Welcoming Louis to the lab as a computer vision and neuro-AI intern from Telecom Paris (until August 2024). :tada:
 
-**February 2024** - Welcoming Lilie, Joshua and Pauline, our new musically-oriented members/collaborators. :tada: 
+**February 2024** - Welcoming Lilie, Joshua and Pauline, our new musically-oriented members/collaborators. :tada:
 
 **February 2024** - Yohai gets a CAMBAM Masters Fellowship for this year, to add to his UNIQUE Fellowship. Congrats Yohai ! 🏆
 
@@ -133,7 +135,7 @@ More details on the [Projects](projects.qmd) page.
 **Jan 2023** - If you have programming skills,  are interested in a  paid summer internship (June-July-August), and are relatively new to open-source, get in touch - we may have 2 or more [Google Summer of Code projects](projects.qmd){#google-summer-of-code-2023} available.
 
 **Jan 2023** - Yohai and Oren get VHRN recruitment awards. Congrats both! 🏆
-  
+
 **Jan 2023** - Kasia has been awarded a UNIQUE postdoctoral excellence fellowship! 🏆
 
 **Jan 2023** - Yohai and Oren join the lab as new graduate students; Anais starts her undergraduate research course in the lab. Welcome! :wave:
@@ -143,5 +145,3 @@ More details on the [Projects](projects.qmd) page.
 ![](images/m2b3_grey){fig-alt="Lab logo"}
 
 -------------------------------
-
-
