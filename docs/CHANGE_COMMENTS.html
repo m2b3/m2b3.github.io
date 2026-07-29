@@ -166,9 +166,9 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><strong>Problem:</strong> The English website did not have a top-level Teaching tab or a page for the Fall 2026 course.</li>
 <li><strong>Root Cause:</strong> No teaching page or navbar entry had been configured.</li>
-<li><strong>Solution:</strong> Added <code>teaching.qmd</code>, populated its Fall 2026 section from <code>Fall2026.md</code>, and linked it from <code>_quarto.yml</code>.</li>
-<li><strong>Result:</strong> Visitors can open the Fall 2026 teaching information directly from the English site’s top navigation.</li>
-<li><strong>Files Modified:</strong> <code>_quarto.yml</code>, <code>teaching.qmd</code> (not yet committed).</li>
+<li><strong>Solution:</strong> Added <code>teaching.qmd</code>, populated its Fall 2026 section from <code>Fall2026.md</code>, and linked it from <code>_quarto.yml</code>. After the initial implementation, removed the second identical “Time and Location” line inherited from the source.</li>
+<li><strong>Result:</strong> Visitors can open concise Fall 2026 teaching information directly from the English site’s top navigation, with the schedule shown once.</li>
+<li><strong>Files Modified:</strong> <code>_quarto.yml</code>, <code>teaching.qmd</code> (initial implementation: commit <code>72084d2</code>; duplicate removal not yet committed).</li>
 </ul>
 
 

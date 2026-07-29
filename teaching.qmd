@@ -2,10 +2,10 @@
 title: "Teaching"
 ---
 
-<!-- Added by Codex on 2026-07-29
-     What: Added the Fall 2026 teaching section.
-     Why: The course information needs a dedicated page linked from the navbar.
-     How: The English source content from Fall2026.md is reproduced below. -->
+<!-- Fixed by Codex on 2026-07-29
+     What: Added the Fall 2026 teaching section and removed a repeated schedule line.
+     Why: The source included "Time and Location" twice, which made the page repetitive.
+     How: The English source content is reproduced below with one schedule line retained. -->
 
 ## Fall 2026
 
@@ -15,8 +15,6 @@ Section leader: Suresh Krishna (suresh.krishna@mcgill.ca)
 Time and Location: FERR 476 on Monday from 2:35 pm until 5:25 pm.
 
 This section aims to provide a fundamental treatment of the quantitative analysis of cognition and behavior, with a focus on perception, sensorimotor processing, attention and decision-making (and potentially a bit of learning and memory). The goal is to develop a deep intuitive understanding of quantitative topics, aided by simulation notebooks and reading papers using a variety of different techniques and theoretical frameworks from psychophysics, cognitive science, and neuroscience. The connections between the foundations of statistical analysis and methods in behavioral analysis will be emphasized. Specific topics will include the principles of signal detection theory, joint modeling of reaction-time and choice, attention, decision-making, psychometrics, and brain-behavior interactions. This course is directed towards students who are able to think quantitatively (or would like to devote effort towards learning to do so), but does not require specific mathematical preparation beyond intro calculus and basic statistics; prior exposure to Python/R/Matlab programming, or an active willingness to learn, will be helpful.
-
-Time and Location: FERR 476 on Monday from 2:35 pm until 5:25 pm.
 
 Approximate Syllabus (Topics are somewhat flexible, depending on the level and interests of the class):
 
