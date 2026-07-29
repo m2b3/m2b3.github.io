@@ -22,6 +22,11 @@ website:
       href: members.qmd
     - text: "Projects"
       href: projects.qmd
+    # Added by Codex on 2026-07-29
+    # What/Why/How: Exposes the new teaching page in the primary navigation so
+    # visitors can open the Fall 2026 course information from every site page.
+    - text: "Teaching"
+      href: teaching.qmd
     - text: "Output"
       href: output.qmd
     - text: "Join"

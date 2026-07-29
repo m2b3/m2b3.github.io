@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://m2b3.github.io/projects.html</loc>
-    <lastmod>2025-11-02T01:14:05.908Z</lastmod>
+    <loc>https://m2b3.github.io/teaching.html</loc>
+    <lastmod>2026-07-29T04:30:21.035Z</lastmod>
   </url>
   <url>
-    <loc>https://m2b3.github.io/members.html</loc>
-    <lastmod>2026-06-29T00:38:33.125Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m2b3.github.io/join.html</loc>
-    <lastmod>2026-03-25T16:07:46.456Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m2b3.github.io/index.html</loc>
-    <lastmod>2026-07-08T04:04:06.181Z</lastmod>
+    <loc>https://m2b3.github.io/output.html</loc>
+    <lastmod>2026-07-08T04:36:32.861Z</lastmod>
   </url>
   <url>
     <loc>https://m2b3.github.io/locate.html</loc>
     <lastmod>2026-03-25T16:07:46.457Z</lastmod>
   </url>
   <url>
-    <loc>https://m2b3.github.io/output.html</loc>
-    <lastmod>2026-07-08T04:36:32.861Z</lastmod>
+    <loc>https://m2b3.github.io/index.html</loc>
+    <lastmod>2026-07-08T04:04:06.181Z</lastmod>
+  </url>
+  <url>
+    <loc>https://m2b3.github.io/CHANGE_COMMENTS.html</loc>
+    <lastmod>2026-07-29T04:30:25.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://m2b3.github.io/join.html</loc>
+    <lastmod>2026-03-25T16:07:46.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://m2b3.github.io/members.html</loc>
+    <lastmod>2026-06-29T00:38:33.125Z</lastmod>
+  </url>
+  <url>
+    <loc>https://m2b3.github.io/projects.html</loc>
+    <lastmod>2025-11-02T01:14:05.908Z</lastmod>
   </url>
 </urlset>
