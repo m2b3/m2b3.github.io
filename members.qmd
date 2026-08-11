@@ -458,7 +458,7 @@ tm_shape(World)+
 *   Mackey-Glass Fellowship -- Tim Yang
 *   CDSI Summer Research Fellow - Yiqing Zhu
 *   Volunteer Researcher - Claire Yang, Edward Tong
-*   McGill-UAE summer internship - Rashed Alhosani
+*   McGill-UAE summer internship - Rashed Alhosani, Shahad Alnaqbi
 *   MITACS Globalink Interns - Linjing Wang, Jonathan Morris, Alison Jiaxi Wang
 *   NSERC SURA - Sabrina Du
 *   Summer interns - Evan Jiang, Yagya Joshi, Kevin (Yuze) Liu
