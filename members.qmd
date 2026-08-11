@@ -53,8 +53,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Zifan Qian](images/Zifan.jpg){fig-alt="Photo of Zifan Qian"}](#Zifan)
 
-[![Shahad Alnaqbi](images/Shahad.jpg){fig-alt="Photo of Shahad Alnaqbi"}](#Shahad)
-
 [![Simmi Agnihotram](images/Simmi.jpg){fig-alt="Photo of Simmi Agnihotram"}](#Simmi)
 
 [![Jada Ke Thompson](images/Jada.jpg){fig-alt="Photo of Jada Ke Thompson"}](#Jada)
@@ -324,24 +322,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="Shahad"></a>
-
-#### Shahad Alnaqbi
-
-::: column-margin
-![](images/Shahad.jpg){fig-alt="Photo of Shahad Alnaqbi" width="200"}
-:::
-
--   BSc in Computer Engineering, Khalifa University, Abu Dhabi, UAE.
-
--   Interested in artificial intelligence, data science, human-centered technology, and intelligent systems.
-
--   Interested in applying computational methods and machine learning to behavioral and perceptual data, and contributing to interdisciplinary research combining computer engineering and behavioral science.
-
--   [Email](mailto:100063001@ku.ac.ae)
-
-------------------------------------------------------------------------
-
 <a name="Simmi"></a>
 
 #### Simmi Agnihotram
@@ -416,8 +396,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Shahad", "Simmi", "Jada", "fatma")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Shahad", "Simmi", "Jada", "fatma"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Simmi", "Jada", "fatma"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Shahad"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
