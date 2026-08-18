@@ -2,19 +2,19 @@
 ---
 title: "Members"
 description: |
-lang: en  
+lang: en
 
 output:
   distill::distill_article:
     self_contained: false
     toc: true
     toc_depth: 3
-    
+
 execute:
   echo: false
   freeze: auto
 knitr:
-  opts_chunk: 
+  opts_chunk:
     collapse: true
     results: false
     warnings: false
@@ -39,11 +39,7 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
 
-[![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
-
 [![Manuel Hanna](images/manuel.png){fig-alt="Photo of Manuel Hanna"}](#Manuel)
-
-[![Eva Ozturk](images/Eva.png){fig-alt="Photo of Eva Ozturk"}](#Eva)
 
 [![Sophie Yun](images/Sophie.jpg){fig-alt="Photo of Sophie Yun"}](#Sophie)
 
@@ -59,54 +55,39 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Fatma Ozlem](images/fatma.jpg){fig-alt="Photo of Fatma Ozlem"}](#fatma)
 
+[![Lavinia Azer](images/Lavinia.jpg){fig-alt="Photo of Lavinia Azer"}](#lavinia)
+
+[![Erik Mas](images/Erik.jpg){fig-alt="Photo of Erik Mas"}](#erik)
+
 
 :::
 
-### Collaborators
+### Current Collaborators
 
 ::: {#members layout-ncol="5"}
-[![Chris Pack, McGill](images/pack_christopher.png){fig-alt="Photo of Chris"}](https://www.mcgill.ca/neuro/christopher-pack-phd)
+[![Audrey Durand, U.Laval](images/Audreysm.png){fig-alt="Photo de Audrey"}](https://audur2.ift.ulaval.ca/)
 
-[![Ifedayo-Emmanuel Adeyefa-Olasupo, Janelia Farms](images/EL3_1.png){fig-alt="Photo of Emmanuel"}](https://www.janelia.org/people/ifedayo-emmanuel-adeyefa-olasupo)
+[![Dang Nguyen, Neurologie, CHUM](images/dang.png){fig-alt="Photo de Dang Nguyen"}](https://neurosciences.umontreal.ca/recherche/les-chercheurs/dang-khoa-nguyen/)
 
-[![Catherine Guastavino, McGill](images/CG.jpeg){fig-alt="Photo of Catherine"}](https://www.mcgill.ca/sis/people/faculty/guastavino)
+[![Jonathan Morris, University of Wisconsin-Madison](images/DSC_5520.JPG){fig-alt="Photo de Jonathan"}](https://www.linkedin.com/in/jonathan-morris-5b841a283/)
 
-[![Fabrice Marandola, CIRMMT, McGill](images/fm.png){fig-alt="Photo of Fabrice"}](https://www.mcgill.ca/music/fabrice-marandola)
+[![Oren Gurevitch, McGill](images/orensm.png){fig-alt="Photo de Oren"}](https://www.linkedin.com/in/oren-gurevitch/)
 
-[![Simone Dalla Bella, co-Director, BRAMS, UdeM](images/SDB.png){fig-alt="Photo of Simone"}](https://brams.org/members/simone-dalla-bella/)
+[![Katarzyna Jurewicz, Jagiellonian University](images/kasia.png){fig-alt="Photo de Kasia"}](http://www.tinyurl.com/kjurewicz-scholar)
 
-[![Audrey Durand, U.Laval](images/Audreysm.png){fig-alt="Photo of Audrey"}](https://audur2.ift.ulaval.ca/)
+[![Sabrina Du, McGill](images/SabrinaDu_Picture.jpg){fig-alt="Photo de Sabrina"}](https://www.linkedin.com/in/dusabrina/)
 
-[![Dang Nguyen, Neurology, CHUM](images/dang.png){fig-alt="Photo of Dang Nguyen"}](https://neurosciences.umontreal.ca/recherche/les-chercheurs/dang-khoa-nguyen/)
+[![Ron Schondorf, McGill](images/Ron.jpg){fig-alt="Photo de Ron"}](https://www.mcgill.ca/neurology-neurosurgery/ronald-schondorf-phd-md-frcpc-faas)
 
-[![Marcelo Wanderley](images/marcelo.jpg){fig-alt="Photo of Marcelo"}](https://www.mcgill.ca/music/marcelo-m-wanderley)
+[![Fuat Balci, U.Manitoba](images/Fuat.jpg){fig-alt="Photo de Fuat"}](https://umanitoba.ca/science/directory/biological-sciences/fuat-balci)
 
-[![Marie-Hélène Boudrias, McGill](images/mh.jpg){fig-alt="Photo of MH"}](https://www.mcgill.ca/spot/marie-helene-boudrias)
+[![Serpil Çeçen, Sağlık Bilimleri Üniversitesi](images/Serpil.jpg){fig-alt="Photo de Serpil"}](https://scholar.google.com/citations?user=y0i79IgAAAAJ&hl=en)
 
-[![Joshua Rosner, McGill](images/joshuasm.png){fig-alt="Photo de Joshua"}](https://www.linkedin.com/in/joshua-rosner-98b15b166/?originalSubdomain=ca)
+[![Thanh Dang-Vu, Concordia University](images/Thanh.jpg){fig-alt="Photo de Thanh"}](https://www.concordia.ca/faculty/thanh-dang-vu.html)
 
-[![Jonathan Morris, University of Wisconsin-Madison](images/DSC_5520.JPG){fig-alt="Photo of Jonathan"}](https://www.linkedin.com/in/jonathan-morris-5b841a283/)
+[![Eva Ozturk](images/Eva.png){fig-alt="Eva"}](https://www.linkedin.com/in/eva-ozturk-78934b28a/)
 
-[![Deepansh Goel, Maharaja Agrasen Institute of Technology](images/9nyvij-min.jpg
-){fig-alt="Photo of Deepansh"}](https://www.linkedin.com/in/deepanshgl)
-
-[![Alison Wang, Durham University](images/Alison.jpg){fig-alt="Photo of Alison"}](https://www.linkedin.com/in/-jiaxi-wang/)
-
-[![Oren Gurevitch, McGill](images/orensm.png){fig-alt="Photo of Oren"}](https://www.linkedin.com/in/oren-gurevitch/)
-
-[![Katarzyna Jurewicz, Jagiellonian University](images/kasia.png){fig-alt="Photo of Kasia"}](http://www.tinyurl.com/kjurewicz-scholar)
-
-[![Sabrina Du, McGill](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina"}](https://www.linkedin.com/in/dusabrina/)
-
-[![Ron Schondorf, McGill](images/Ron.jpg){fig-alt="Photo of Ron"}](https://www.mcgill.ca/neurology-neurosurgery/ronald-schondorf-phd-md-frcpc-faas)
-
-[![Fuat Balci, U.Manitoba](images/Fuat.jpg){fig-alt="Photo of Fuat"}](https://umanitoba.ca/science/directory/biological-sciences/fuat-balci)
-
-[![Serpil Çeçen, Sağlık Bilimleri Üniversitesi](images/Serpil.jpg){fig-alt="Photo of Serpil"}](https://scholar.google.com/citations?user=y0i79IgAAAAJ&hl=en)
-
-[![Thanh Dang-Vu, Concordia University](images/Thanh.jpg){fig-alt="Photo of Thanh"}](https://www.concordia.ca/faculty/thanh-dang-vu.html)
-
-::: 
+:::
 
 ------------------------------------------------------------------------
 
@@ -200,24 +181,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="jacky"></a>
-
-#### Jacky Chen
-
-::: column-margin
-![](images/jackysm.png){fig-alt="Photo of Jacky Chen" width="200"}
-:::
-
--   B.A. in Psychology with double minors in Behavioral Science and Science for Art Students, McGill
-
--   As someone who enjoys playing the piano, I am curious to explore the ways cognitive processes impact musical expression and attentional shifts. My research interests lie at the intersection of psychology, music, and cognitive science.
-
--   I was born in Shanghai, China, where I spent the first 18 years of my life. After completing high school, I relocated to Montreal to pursue my studies at McGill University. I really enjoy the lovely summer in Montreal!
-
--   [Email](mailto:yijun.chen@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Manuel"></a>
 
 #### Manuel Hanna
@@ -233,24 +196,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   I enjoy playing soccer in my free time.
 
 -   [Email](mailto:manuel.hanna@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
-<a name="Eva"></a>
-
-#### Eva Ozturk
-
-::: column-margin
-![](images/Eva.png){fig-alt="Photo of Eva Ozturk" width="200"}
-:::
-
--   Graduate research trainee (McGill), Master student, Biomedical Engineering - Neurotechnology, Université Paris Cité / Arts et Métiers.
-
--   I have a double degree in Biomedical sciences and Psychology from Université Paris Cité, and I did an Erasmus at Imperial College London and internships at ENS (Paris) and EPFL (Geneva).
-
--   I am interested in developing tools at the interface between engineering and neuroscience, such as BCI or neuroprosthetics. I aim to translate neuroscientific knowledge into clinically relevant technologies
-
--   [Email](mailto:eva.ozturk@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -376,6 +321,38 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
+<a name="lavinia"></a>
+
+#### Lavinia Azer
+
+::: column-margin
+![](images/Lavinia.jpg){fig-alt="Photo of Lavinia Azer" width="200"}
+:::
+
+-   B.Sc Student, Major in Psychology & Minor in Linguistics, Mcgill
+
+-   I’m interested in exploring how the brain perceives and integrates complex auditory and linguistic information, particularly music, sound, and language. Outside of school, you will find me learning songs on my piano or guitar.
+
+-   [Email](mailto:lavinia.azer@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="erik"></a>
+
+#### Erik Mas
+
+::: column-margin
+![](images/Erik.jpg){fig-alt="Photo of Erik Mas" width="200"}
+:::
+
+-   PhD student in Quantitative Life Sciences at McGill
+
+-   My research has primarily been dedicated to bridging the gap between psychology and rigorous statistical methodology. Notably, I focus on leveraging the computational power of modern predictive and inferential models to advance neurocognitive research.
+
+-   [Email](mailto:erik.mas@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
 
 ### Where we are from
 
@@ -388,16 +365,16 @@ library(sf)
 
 data("World")
 
-latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 30.605053, 31.9796, 46.8852, 45.5019, 33.5138, 40.022709, 45.5103643, 39.9042, 45.51, 31.8775, 31.8206, 28.7041, 24.4539, 43.0722, 36.0671, 29.166128, 43.6532, 37.832602, 19.076, 45.498163, 48.866667, 45.5041, 49.205718, 45.5073, 31.2983, 24.442, 45.4479, 45.499155, 41.0082)
+latlist <- c(8.561259, 30.605053, 32.08233, 43.6532, 53.13333, 43.70313, 48.831704, 30.0444, 41.084148, 37.0, 45.45778, 45.56583, 50.848383801134766, 45.5019, 33.88534, 32.3274, 14.6584, 32.4279, 37.8706, 50.6, 45.25, 48.84674234948124, 31.2304, 41.9001, 31.311206, 60.29335, 45.3, 19.00437473941976, 19.1911, 30.605053, 32.119023, 30.605053, 31.9796, 46.8852, 45.5019, 33.5138, 40.022709, 45.5103643, 39.9042, 45.51, 31.8775, 31.8206, 28.7041, 24.4539, 43.0722, 36.0671, 29.166128, 43.6532, 37.832602, 19.076, 45.498163, 48.866667, 45.5041, 49.205718, 45.5073, 31.2983, 24.442, 45.4479, 45.499155, 41.0082, 45.495508, 45.53)
 
 
 
-lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 104.074123, 120.8937, -56.3159, -73.5674, 36.2765, -75.320869, -73.5746522, -116.4074, -73.58, 120.5511, 117.2272, 77.1025, 54.3773, -89.40123, 120.3826, 120.055445, -79.3832, -122.210795, 72.8777, -73.585224, -2.333333, -73.5678, -123.028778, -73.7342, 120.5832, 54.394, -73.7154, -73.577272, 28.9784)
+lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.609642, 31.2357, 29.03546, 3.0, -73.88489, -73.31437, 4.350009489440508, -73.567, 35.5115, 50.865, 100.3947, 53.688, 112.5486, 3.0, 5.75, 2.3724100000000004, 121.4737, -71.0898, 75.584556, 25.03784, -73.33, 72.85023541069054, 72.856, 104.074123, 34.819675, 104.074123, 120.8937, -56.3159, -73.5674, 36.2765, -75.320869, -73.5746522, -116.4074, -73.58, 120.5511, 117.2272, 77.1025, 54.3773, -89.40123, 120.3826, 120.055445, -79.3832, -122.210795, 72.8777, -73.585224, -2.333333, -73.5678, -123.028778, -73.7342, 120.5832, 54.394, -73.7154, -73.577272, 28.9784, -73.847175, -73.58)
 
-namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Shahad", "Simmi", "Jada", "fatma")
+namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Shahad", "Simmi", "Jada", "fatma", "lavinia", "erik")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Simmi", "Jada", "fatma"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Shahad"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "azhao", "buxin", "maya", "Manuel", "Xueqing", "Sophie", "Wayne", "Zifan", "Simmi", "Jada", "fatma", "lavinia", "erik"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Eva", "Shahad"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -438,7 +415,7 @@ tm_shape(World)+
 ### Alumni
 
 * Post-doctoral fellow - Katarzyna Jurewicz
-* Masters 
+* Masters
     + Amanda Pruss (2025), IPN
     + Xinning Le (2025), IPN
 	+ Haoxiang Liu (2024), IPN
@@ -458,12 +435,12 @@ tm_shape(World)+
 *   Mackey-Glass Fellowship -- Tim Yang
 *   CDSI Summer Research Fellow - Yiqing Zhu
 *   Volunteer Researcher - Claire Yang, Edward Tong
-*   McGill-UAE summer internship - Rashed Alhosani, Shahad Alnaqbi
+*   McGill-UAE summer internship - Rashed Alhosani
 *   MITACS Globalink Interns - Linjing Wang, Jonathan Morris, Alison Jiaxi Wang
 *   NSERC SURA - Sabrina Du
 *   Summer interns - Evan Jiang, Yagya Joshi, Kevin (Yuze) Liu
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
-*   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen, Deepansh Goel, Mohd Faisal Ansari, Michael Lewis
+*   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen, Deepansh Goel, Mohd Faisal Ansari, Michael Lewis, Eva Ozturk, Faraz Shamim, Mat Vallejo, Mikaël Molliex, Abhishek Farshwal.
 
 --------------------------------------------------
 
