@@ -67,28 +67,29 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 ### Current Collaborators
 
 ::: {#members layout-ncol="5"}
-[![Audrey Durand, U.Laval](images/Audreysm.png){fig-alt="Photo de Audrey"}](https://audur2.ift.ulaval.ca/)
+[![Audrey Durand, U.Laval](images/Audreysm.png){fig-alt="Photo of Audrey"}](https://audur2.ift.ulaval.ca/)
 
-[![Dang Nguyen, Neurologie, CHUM](images/dang.png){fig-alt="Photo de Dang Nguyen"}](https://neurosciences.umontreal.ca/recherche/les-chercheurs/dang-khoa-nguyen/)
+[![Dang Nguyen, Neurologie, CHUM](images/dang.png){fig-alt="Photo of Dang Nguyen"}](https://neurosciences.umontreal.ca/recherche/les-chercheurs/dang-khoa-nguyen/)
 
-[![Jonathan Morris, University of Wisconsin-Madison](images/DSC_5520.JPG){fig-alt="Photo de Jonathan"}](https://www.linkedin.com/in/jonathan-morris-5b841a283/)
+[![Jonathan Morris, University of Wisconsin-Madison](images/DSC_5520.JPG){fig-alt="Photo of Jonathan"}](https://www.linkedin.com/in/jonathan-morris-5b841a283/)
 
-[![Oren Gurevitch, McGill](images/orensm.png){fig-alt="Photo de Oren"}](https://www.linkedin.com/in/oren-gurevitch/)
+[![Oren Gurevitch, McGill](images/orensm.png){fig-alt="Photo of Oren"}](https://www.linkedin.com/in/oren-gurevitch/)
 
-[![Katarzyna Jurewicz, Jagiellonian University](images/kasia.png){fig-alt="Photo de Kasia"}](http://www.tinyurl.com/kjurewicz-scholar)
+[![Katarzyna Jurewicz, Jagiellonian University](images/kasia.png){fig-alt="Photo of Kasia"}](http://www.tinyurl.com/kjurewicz-scholar)
 
-[![Sabrina Du, McGill](images/SabrinaDu_Picture.jpg){fig-alt="Photo de Sabrina"}](https://www.linkedin.com/in/dusabrina/)
+[![Sabrina Du, McGill](images/SabrinaDu_Picture.jpg){fig-alt="Photo of Sabrina"}](https://www.linkedin.com/in/dusabrina/)
 
-[![Ron Schondorf, McGill](images/Ron.jpg){fig-alt="Photo de Ron"}](https://www.mcgill.ca/neurology-neurosurgery/ronald-schondorf-phd-md-frcpc-faas)
+[![Ron Schondorf, McGill](images/Ron.jpg){fig-alt="Photo of Ron"}](https://www.mcgill.ca/neurology-neurosurgery/ronald-schondorf-phd-md-frcpc-faas)
 
-[![Fuat Balci, U.Manitoba](images/Fuat.jpg){fig-alt="Photo de Fuat"}](https://umanitoba.ca/science/directory/biological-sciences/fuat-balci)
+[![Fuat Balci, U.Manitoba](images/Fuat.jpg){fig-alt="Photo of Fuat"}](https://umanitoba.ca/science/directory/biological-sciences/fuat-balci)
 
-[![Serpil Çeçen, Sağlık Bilimleri Üniversitesi](images/Serpil.jpg){fig-alt="Photo de Serpil"}](https://scholar.google.com/citations?user=y0i79IgAAAAJ&hl=en)
+[![Serpil Çeçen, Sağlık Bilimleri Üniversitesi](images/Serpil.jpg){fig-alt="Photo of Serpil"}](https://scholar.google.com/citations?user=y0i79IgAAAAJ&hl=en)
 
-[![Thanh Dang-Vu, Concordia University](images/Thanh.jpg){fig-alt="Photo de Thanh"}](https://www.concordia.ca/faculty/thanh-dang-vu.html)
+[![Thanh Dang-Vu, Concordia University](images/Thanh.jpg){fig-alt="Photo of Thanh"}](https://www.concordia.ca/faculty/thanh-dang-vu.html)
 
-[![Eva Ozturk](images/Eva.png){fig-alt="Eva"}](https://www.linkedin.com/in/eva-ozturk-78934b28a/)
+[![Eva Ozturk, Paris](images/Eva.png){fig-alt="Photo of Eva"}](https://www.linkedin.com/in/eva-ozturk-78934b28a/)
 
+[![Faraz Shamim, Kathmandu](images/Faraz.png){fig-alt="Photo of Faraz"}](https://www.linkedin.com/in/faraz-sh/)
 :::
 
 ------------------------------------------------------------------------
