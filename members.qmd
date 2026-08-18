@@ -39,6 +39,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
 
+[![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
+
 [![Manuel Hanna](images/manuel.png){fig-alt="Photo of Manuel Hanna"}](#Manuel)
 
 [![Sophie Yun](images/Sophie.jpg){fig-alt="Photo of Sophie Yun"}](#Sophie)
@@ -178,6 +180,24 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   My research interests lie in computational neuroscience, as I believe that computational models have the power to capture the brain's inner workings. In my free time I enjoy reading and solo traveling.
 
 -   [Email](mailto:alex.zhao@mail.mcgill.ca)
+
+------------------------------------------------------------------------
+
+<a name="jacky"></a>
+
+#### Jacky Chen
+
+::: column-margin
+![](images/jackysm.png){fig-alt="Photo of Jacky Chen" width="200"}
+:::
+
+-   B.A. in Psychology with double minors in Behavioral Science and Science for Art Students, McGill
+
+-   As someone who enjoys playing the piano, I am curious to explore the ways cognitive processes impact musical expression and attentional shifts. My research interests lie at the intersection of psychology, music, and cognitive science.
+
+-   I was born in Shanghai, China, where I spent the first 18 years of my life. After completing high school, I relocated to Montreal to pursue my studies at McGill University. I really enjoy the lovely summer in Montreal!
+
+-   [Email](mailto:yijun.chen@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -373,8 +393,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Shahad", "Simmi", "Jada", "fatma", "lavinia", "erik")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "azhao", "buxin", "maya", "Manuel", "Xueqing", "Sophie", "Wayne", "Zifan", "Simmi", "Jada", "fatma", "lavinia", "erik"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Eva", "Shahad"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Manuel", "Xueqing", "Sophie", "Wayne", "Zifan", "Simmi", "Jada", "fatma", "lavinia", "erik"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Eva", "Shahad"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
