@@ -94,6 +94,8 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Eva Ozturk, Paris](images/Eva.png){fig-alt="Photo of Eva"}](https://www.linkedin.com/in/eva-ozturk-78934b28a/)
 
 [![Faraz Shamim, Kathmandu](images/Faraz.png){fig-alt="Photo of Faraz"}](https://www.linkedin.com/in/faraz-sh/)
+
+[![Isabeau Prémont-Schwarz, U.Laval](images/isabeau.jpg){fig-alt="Photo of Isabeau"}](https://isabeaups.github.io/)
 :::
 
 ------------------------------------------------------------------------
