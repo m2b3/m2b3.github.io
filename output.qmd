@@ -11,6 +11,8 @@ output:
 
 ### Journal articles
 
+* On variability in local field potentials. Parto-Dezfouli, M., Johnson, E. L., Psarou, E., Bosman, C. A., Krishna, B. S., Fries, P. Accepted, Communications Biology. [bioRxiv, 2025](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1.full).
+
 * Effect of an auditory static distractor on the perception of an auditory moving target. Kemp, N., Tarlao, C., Guastavino, C., Krishna, B. S. [arXiv, 2025](https://arxiv.org/abs/2510.25119), Accepted, Journal of the Acoustical Society of America.
 
 * Correction of saccadic decisions during active visual search in the monkey. Ipata, A. E., Bisley, J. W., Krishna, B. S. [Journal of Vision, March 2026](https://jov.arvojournals.org/article.aspx?articleid=2811630).
@@ -26,8 +28,6 @@ output:
 * CanViT: Toward Active-Vision Foundation Models. Berreby, Y.-E., Du, S., Durand, A., Krishna, B. S. [arXiv, 2026](https://arxiv.org/abs/2603.22570).
 
 * Associations Between Age, Heart Rate Variability, and BOLD fMRI Signal Variability. Morris, J., Schaefer, S. M., Zhu, Y., Recchio, J., Gresham, L., Skinner, S., Al-Khalil, K., Krishna, B. S. [bioRxiv, 2025.11.26.690332 (2025)](https://www.biorxiv.org/content/10.1101/2025.11.26.690332v1).
-
-* On variability in local field potentials. Parto-Dezfouli, M., Johnson, E. L., Psarou, E., Bosman, C. A., Krishna, B. S., Fries, P. [bioRxiv, 2025](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1.full).
 
 * Correlations between different auditory temporal response properties of inferior colliculus neurons. Berreby, Y.-E., Krishna, B. S. [OSF Preprints, 2023](https://osf.io/rytvn/).
 
