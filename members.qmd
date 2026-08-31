@@ -39,8 +39,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 [![Alex Zhao](images/alexsm.jpg){fig-alt="Photo of Alex Zhao"}](#azhao)
 
-[![Jacky Chen](images/jackysm.png){fig-alt="Photo of Jacky Chen"}](#jacky)
-
 [![Manuel Hanna](images/manuel.png){fig-alt="Photo of Manuel Hanna"}](#Manuel)
 
 [![Sophie Yun](images/Sophie.jpg){fig-alt="Photo of Sophie Yun"}](#Sophie)
@@ -50,8 +48,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 [![Xueqing Zhai](images/Xueqing.jpg){fig-alt="Photo of Xueqing Zhai"}](#Xueqing)
 
 [![Zifan Qian](images/Zifan.jpg){fig-alt="Photo of Zifan Qian"}](#Zifan)
-
-[![Simmi Agnihotram](images/Simmi.jpg){fig-alt="Photo of Simmi Agnihotram"}](#Simmi)
 
 [![Jada Ke Thompson](images/Jada.jpg){fig-alt="Photo of Jada Ke Thompson"}](#Jada)
 
@@ -188,24 +184,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 
 ------------------------------------------------------------------------
 
-<a name="jacky"></a>
-
-#### Jacky Chen
-
-::: column-margin
-![](images/jackysm.png){fig-alt="Photo of Jacky Chen" width="200"}
-:::
-
--   B.A. in Psychology with double minors in Behavioral Science and Science for Art Students, McGill
-
--   As someone who enjoys playing the piano, I am curious to explore the ways cognitive processes impact musical expression and attentional shifts. My research interests lie at the intersection of psychology, music, and cognitive science.
-
--   I was born in Shanghai, China, where I spent the first 18 years of my life. After completing high school, I relocated to Montreal to pursue my studies at McGill University. I really enjoy the lovely summer in Montreal!
-
--   [Email](mailto:yijun.chen@mail.mcgill.ca)
-
-------------------------------------------------------------------------
-
 <a name="Manuel"></a>
 
 #### Manuel Hanna
@@ -289,24 +267,6 @@ Marty's image is from the [McGill Tribune](https://tinyurl.com/55wf3bae).
 -   B.Sc. Computing Science, University of Alberta.
 
 -   [Email](mailto:zifan.qian@mail.mcgill.ca); [Google Scholar]( https://scholar.google.com/citations?user=hLBvu8gAAAAJ&hl=en&oi=ao)
-
-------------------------------------------------------------------------
-
-<a name="Simmi"></a>
-
-#### Simmi Agnihotram
-
-::: column-margin
-![](images/Simmi.jpg){fig-alt="Photo of Simmi Agnihotram" width="200"}
-:::
-
--   Master of Management in Analytics, McGill University
-
--   BA in Honours Economics, Concordia University
-
--   Interested in machine learning and LLM-based decision workflows. Previously interned at the McGill University Health Center doing statistical analysis on pediatric data, and I look forward to applying this curiosity in health analytics towards how AI workflows can better guide analysis and decision making in the scientific fields such as biology or neuroscience.
-
--   [Email](mailto:srimayee.agnihotram@mail.mcgill.ca)
 
 ------------------------------------------------------------------------
 
@@ -416,8 +376,8 @@ lonlist <- c(76.874224, 104.074123, 34.881787, -79.3832, 23.16433, 7.26608, 1.60
 
 namezlist <- c("suresh", "Haoxiang", "oren", "amanda", "kasia", "Anais", "yohai", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "azhao", "dinesh", "dhruvanshu", "buxin", "maya", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Manuel", "Eva", "Xueqing", "Sophie", "Wayne", "Zifan", "Shahad", "Simmi", "Jada", "fatma", "lavinia", "erik", "meena", "shuxin")
 
-nowies <- is.element(namezlist, c("suresh", "yohai", "jacky", "azhao", "buxin", "maya", "Manuel", "Xueqing", "Sophie", "Wayne", "Zifan", "Simmi", "Jada", "fatma", "erik", "meena", "shuxin"))
-oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Eva", "Shahad", "lavinia"))
+nowies <- is.element(namezlist, c("suresh", "yohai", "azhao", "buxin", "maya", "Manuel", "Xueqing", "Sophie", "Wayne", "Zifan", "Jada", "fatma", "erik", "meena", "shuxin"))
+oldies <- is.element(namezlist, c("Haoxiang", "oren", "amanda", "kasia", "Anais", "Injy", "Yavuz", "Lilia", "Alexandru", "Youzhi", "noa", "Bradley", "Sarah", "Pegah", "Divi", "Romina", "Sizhuo", "Lilie", "jerome", "Louis", "jacky", "alexparent", "Yagya", "lian", "dinesh", "dhruvanshu", "xinning", "evan", "isidore", "sabrina", "taimaa", "annarose", "Yiqing", "Kevin", "Edward", "Claire", "Lihong", "Deepansh", "Rashed", "Jonathan", "Linjing", "Alison", "Eliot", "Sammy", "Tanya", "Eva", "Shahad", "Simmi", "lavinia"))
 
 lat <- latlist[nowies]
 lon <- lonlist[nowies]
@@ -481,6 +441,7 @@ tm_shape(World)+
 *   McGill-UAE summer internship - Rashed Alhosani
 *   MITACS Globalink Interns - Linjing Wang, Jonathan Morris, Alison Jiaxi Wang
 *   NSERC SURA - Sabrina Du
+*   FSRB MMA - Srimayee Agnihotram
 *   Summer interns - Evan Jiang, Yagya Joshi, Kevin (Yuze) Liu
 *   Undergraduate observers - Caden Welch, Max Tweedale, Elisa Niunin, Yavuz Shahzad, Divi Maheshwari, Lilie Jeanneaux, Yagya Joshi, Bradley Austin-Keiller, Lian Mouwes
 *   Interns (Google Summer of Code) - Dinesh Sathiaraj, Ioannis Valasakis, Prakanshul Saxena, Abhinav Venkatadri, Somnath Sharma, Jyothi Swaroop Reddy Bommareddy, Soham Mulye, Louis Martinez, Armaan Alam, Dinakar Chennupati, Dhruvanshu Joshi, Lihong Chen, Deepansh Goel, Mohd Faisal Ansari, Michael Lewis, Eva Ozturk, Faraz Shamim, Mat Vallejo, Mikaël Molliex, Abhishek Farshwal.
