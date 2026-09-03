@@ -9,7 +9,7 @@ output:
     toc_depth: 3
 ---
 
-### Journal articles
+### Peer-reviewed output
 
 * On variability in local field potentials. Parto-Dezfouli, M., Johnson, E. L., Psarou, E., Bosman, C. A., Krishna, B. S., Fries, P. [Communications Biology 2026](https://www.nature.com/articles/s42003-026-10881-x), [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1.full).
 
