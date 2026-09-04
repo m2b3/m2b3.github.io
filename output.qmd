@@ -25,6 +25,8 @@ output:
 
 ### Preprints
 
+* Human-like meaning maps from single-prompt VLM ratings of local scene meaning. Katarzyna Jurewicz, Yohaï-Eliel Berreby, B. Suresh Krishna. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.08.30.748100v1)
+
 * CanViT: Toward Active-Vision Foundation Models. Berreby, Y.-E., Du, S., Durand, A., Krishna, B. S. [arXiv, 2026](https://arxiv.org/abs/2603.22570).
 
 * Associations Between Age, Heart Rate Variability, and BOLD fMRI Signal Variability. Morris, J., Schaefer, S. M., Zhu, Y., Recchio, J., Gresham, L., Skinner, S., Al-Khalil, K., Krishna, B. S. [bioRxiv, 2025.11.26.690332 (2025)](https://www.biorxiv.org/content/10.1101/2025.11.26.690332v1).
