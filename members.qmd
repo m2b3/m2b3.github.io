@@ -399,7 +399,11 @@ ogeocode2 <- st_as_sf(ogeocode, coords = c("lonold", "latold"), crs = 4326)
 
 usesize<-1.0
 
-tm_shape(World)+
+# Fixed by Codex on 2026-09-05
+# What: Render the world map with the Equal Earth projection (EPSG:8857).
+# Why: The previous longitude/latitude layout exaggerated high-latitude land areas.
+# How: tmap reprojects the World layer and all subsequent point layers into one equal-area display CRS.
+tm_shape(World, crs = "EPSG:8857")+
   tm_fill(col='darkslategray2')+
   tm_borders(col="black")+
   tm_layout(

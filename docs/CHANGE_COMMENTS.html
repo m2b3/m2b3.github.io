@@ -145,6 +145,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#change-comments" id="toc-change-comments" class="nav-link active" data-scroll-target="#change-comments">Change Comments</a>
   <ul class="collapse">
   <li><a href="#teaching-page-and-navigation" id="toc-teaching-page-and-navigation" class="nav-link" data-scroll-target="#teaching-page-and-navigation">2026-07-29 — Teaching page and navigation</a></li>
+  <li><a href="#equal-earth-map-projection" id="toc-equal-earth-map-projection" class="nav-link" data-scroll-target="#equal-earth-map-projection">2026-09-05 — Equal Earth map projection</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -169,6 +170,16 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Solution:</strong> Added <code>teaching.qmd</code>, populated its Fall 2026 section from <code>Fall2026.md</code>, and linked it from <code>_quarto.yml</code>. After the initial implementation, removed the second identical “Time and Location” line inherited from the source.</li>
 <li><strong>Result:</strong> Visitors can open concise Fall 2026 teaching information directly from the English site’s top navigation, with the schedule shown once.</li>
 <li><strong>Files Modified:</strong> <code>_quarto.yml</code>, <code>teaching.qmd</code> (initial implementation: commit <code>72084d2</code>; duplicate removal not yet committed).</li>
+</ul>
+</section>
+<section id="equal-earth-map-projection" class="level2">
+<h2 class="anchored" data-anchor-id="equal-earth-map-projection">2026-09-05 — Equal Earth map projection</h2>
+<ul>
+<li><strong>Problem:</strong> The members map used an unprojected longitude/latitude layout that visually exaggerated land areas at high latitudes.</li>
+<li><strong>Root Cause:</strong> The map’s master <code>World</code> layer did not specify a projected display CRS, so <code>tmap</code> drew the source WGS 84 coordinates directly.</li>
+<li><strong>Solution:</strong> Set the master map CRS to Equal Earth (<code>EPSG:8857</code>); <code>tmap</code> reprojects the world polygons and both current/past member point layers together.</li>
+<li><strong>Result:</strong> The “Where we are from” map now preserves relative land area while retaining the existing locations, colors, sizing, and styling.</li>
+<li><strong>Files Modified:</strong> <code>members.qmd</code> (not yet committed).</li>
 </ul>
 
 
