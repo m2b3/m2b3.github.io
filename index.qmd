@@ -16,7 +16,7 @@ More details on the [Projects](projects.qmd) page.
 
 **News**
 
-**September 2026** - CanVIT has been accepted as a poster at NeurIPS 2026. Congratulations Yohai and Sabrina. 🎉
+**September 2026** - CanVIT is going to NeurIPS 2026. Congratulations Yohai and Sabrina. 🎉
 
 **September 2026** - Kasia and Yohai's manuscript on "Human-like meaning maps from single-prompt VLM ratings of local scene meaning" is out as a preprint on bioRxiv.
 
