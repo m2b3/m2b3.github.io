@@ -11,7 +11,7 @@ output:
 
 ### Peer-reviewed output
 
-* CanViT: Toward Active-Vision Foundation Models. Berreby, Y.-E., Du, S., Durand, A., Krishna, B. S. [NeurIPS 2026](https://openreview.net/forum?id=cnV9GA4pKU#discussion),[arXiv, 2026](https://arxiv.org/abs/2603.22570).
+* CanViT: Toward Active-Vision Foundation Models. Berreby, Y.-E., Du, S., Durand, A., Krishna, B. S. NeurIPS 2026,[arXiv, 2026](https://arxiv.org/abs/2603.22570).
 
 * On variability in local field potentials. Parto-Dezfouli, M., Johnson, E. L., Psarou, E., Bosman, C. A., Krishna, B. S., Fries, P. [Communications Biology 2026](https://www.nature.com/articles/s42003-026-10881-x), [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645661v1.full).
 
