@@ -23,3 +23,10 @@
 - **Result:** Visitors can jump to the CanViT project page from the home page; the logo fits within the news line.
 - **Files Modified:** `index.qmd`, `images/canvit-wordmark.svg`, rendered `docs/` (commits `canvit`).
 - **Iteration (2026-10-01):** On the live page the trailing logo rendered larger than the text and wrapped onto its own line. The logo now *replaces* the "CanViT" text link (still linking to the project page), styled `display: inline; height: 1em; width: auto; vertical-align: -0.1em` so it sits on the text baseline at text height. Files: `index.qmd`, rendered `docs/` (not yet committed).
+
+## 2026-10-01 — CanViT link cue and manuscript links in News
+
+- **Problem:** The CanViT wordmark did not look clickable, and several manuscript news items had no link to the paper, or linked only to the preprint after the paper was published.
+- **Solution:** Gave the logo a hover/focus effect (brightens, lifts and gets an underline) and a tooltip, and added a "(project page ↗)" text link after it (`.canvit-logo-link`, `.canvit-cue` in `styles.css`). Linked the manuscripts using the URLs on the Output page: meaning maps → bioRxiv, auditory static distractor → arXiv, forward remapping → Journal of Vision DOI. Added the published Communications Biology and Brain Sciences links next to the existing LFP-variability and insula preprint links.
+- **Result:** The CanViT link is visible on desktop and touch screens, and every news item about a manuscript now links to the correct version.
+- **Files Modified:** `index.qmd`, `styles.css`, rendered `docs/` (not yet committed).

@@ -1,1 +1,27 @@
 /* css styles */
+/* Fixed by Claude Opus 5.5 on 2026-10-01
+   Problem: The CanViT wordmark in the news did not look like a clickable link
+   Solution: Hover/focus brightens and lifts the logo with an underline; a small
+   "(project page ↗)" text link follows it as a visible cue that also works on touch screens
+   Result: The logo reads as a link on both desktop and mobile */
+.canvit-logo-link {
+  text-decoration: none;
+  border-bottom: 1px dashed transparent;
+  transition: border-color 0.15s ease;
+}
+.canvit-logo-link img {
+  transition: filter 0.15s ease, transform 0.15s ease;
+}
+.canvit-logo-link:hover,
+.canvit-logo-link:focus-visible {
+  border-bottom-color: currentColor;
+}
+.canvit-logo-link:hover img,
+.canvit-logo-link:focus-visible img {
+  filter: brightness(1.2) saturate(1.2);
+  transform: translateY(-1px);
+}
+.canvit-cue {
+  font-size: 0.85em;
+  white-space: nowrap;
+}

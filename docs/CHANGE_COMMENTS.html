@@ -147,6 +147,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#teaching-page-and-navigation" id="toc-teaching-page-and-navigation" class="nav-link" data-scroll-target="#teaching-page-and-navigation">2026-07-29 — Teaching page and navigation</a></li>
   <li><a href="#equal-earth-map-projection" id="toc-equal-earth-map-projection" class="nav-link" data-scroll-target="#equal-earth-map-projection">2026-09-05 — Equal Earth map projection</a></li>
   <li><a href="#canvit-news-item-link-and-logo" id="toc-canvit-news-item-link-and-logo" class="nav-link" data-scroll-target="#canvit-news-item-link-and-logo">2026-10-01 — CanViT news item link and logo</a></li>
+  <li><a href="#canvit-link-cue-and-manuscript-links-in-news" id="toc-canvit-link-cue-and-manuscript-links-in-news" class="nav-link" data-scroll-target="#canvit-link-cue-and-manuscript-links-in-news">2026-10-01 — CanViT link cue and manuscript links in News</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -191,6 +192,15 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Result:</strong> Visitors can jump to the CanViT project page from the home page; the logo fits within the news line.</li>
 <li><strong>Files Modified:</strong> <code>index.qmd</code>, <code>images/canvit-wordmark.svg</code>, rendered <code>docs/</code> (commits <code>canvit</code>).</li>
 <li><strong>Iteration (2026-10-01):</strong> On the live page the trailing logo rendered larger than the text and wrapped onto its own line. The logo now <em>replaces</em> the “CanViT” text link (still linking to the project page), styled <code>display: inline; height: 1em; width: auto; vertical-align: -0.1em</code> so it sits on the text baseline at text height. Files: <code>index.qmd</code>, rendered <code>docs/</code> (not yet committed).</li>
+</ul>
+</section>
+<section id="canvit-link-cue-and-manuscript-links-in-news" class="level2">
+<h2 class="anchored" data-anchor-id="canvit-link-cue-and-manuscript-links-in-news">2026-10-01 — CanViT link cue and manuscript links in News</h2>
+<ul>
+<li><strong>Problem:</strong> The CanViT wordmark did not look clickable, and several manuscript news items had no link to the paper, or linked only to the preprint after the paper was published.</li>
+<li><strong>Solution:</strong> Gave the logo a hover/focus effect (brightens, lifts and gets an underline) and a tooltip, and added a “(project page ↗)” text link after it (<code>.canvit-logo-link</code>, <code>.canvit-cue</code> in <code>styles.css</code>). Linked the manuscripts using the URLs on the Output page: meaning maps → bioRxiv, auditory static distractor → arXiv, forward remapping → Journal of Vision DOI. Added the published Communications Biology and Brain Sciences links next to the existing LFP-variability and insula preprint links.</li>
+<li><strong>Result:</strong> The CanViT link is visible on desktop and touch screens, and every news item about a manuscript now links to the correct version.</li>
+<li><strong>Files Modified:</strong> <code>index.qmd</code>, <code>styles.css</code>, rendered <code>docs/</code> (not yet committed).</li>
 </ul>
 
 
