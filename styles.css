@@ -21,7 +21,13 @@
   filter: brightness(1.2) saturate(1.2);
   transform: translateY(-1px);
 }
+/* Updated by Claude Opus 5.5 on 2026-10-01
+   Problem: "(project page ↗)" text was more than needed
+   Solution: The cue is now just a ↗ arrow placed right after the logo, with a
+   tooltip and aria-label carrying the "project page" wording */
 .canvit-cue {
   font-size: 0.85em;
+  margin-left: 0.15em;
+  text-decoration: none;
   white-space: nowrap;
 }
