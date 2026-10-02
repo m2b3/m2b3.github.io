@@ -15,3 +15,10 @@
 - **Solution:** Set the master map CRS to Equal Earth (`EPSG:8857`); `tmap` reprojects the world polygons and both current/past member point layers together.
 - **Result:** The “Where we are from” map now preserves relative land area while retaining the existing locations, colors, sizing, and styling.
 - **Files Modified:** `members.qmd` (not yet committed).
+
+## 2026-10-01 — CanViT news item link and logo
+
+- **Problem:** The top News item about CanViT at NeurIPS 2026 had no link to the project page and no visual identifier.
+- **Solution:** Linked "CanViT" to the project page `https://m2b3.github.io/CanViT/` (the lowercase `/canvit` path returns 404 because GitHub Pages paths are case-sensitive). Added the official CanViT wordmark (`images/canvit-wordmark.svg`, copied from `m2b3/CanViT` `site/assets/logos/`) at the end of the line, inline at `height=1.3em` so it matches the text line; the logo also links to the project page.
+- **Result:** Visitors can jump to the CanViT project page from the home page; the logo fits within the news line.
+- **Files Modified:** `index.qmd`, `images/canvit-wordmark.svg`, rendered `docs/` (not yet committed).
