@@ -189,7 +189,8 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Problem:</strong> The top News item about CanViT at NeurIPS 2026 had no link to the project page and no visual identifier.</li>
 <li><strong>Solution:</strong> Linked “CanViT” to the project page <code>https://m2b3.github.io/CanViT/</code> (the lowercase <code>/canvit</code> path returns 404 because GitHub Pages paths are case-sensitive). Added the official CanViT wordmark (<code>images/canvit-wordmark.svg</code>, copied from <code>m2b3/CanViT</code> <code>site/assets/logos/</code>) at the end of the line, inline at <code>height=1.3em</code> so it matches the text line; the logo also links to the project page.</li>
 <li><strong>Result:</strong> Visitors can jump to the CanViT project page from the home page; the logo fits within the news line.</li>
-<li><strong>Files Modified:</strong> <code>index.qmd</code>, <code>images/canvit-wordmark.svg</code>, rendered <code>docs/</code> (not yet committed).</li>
+<li><strong>Files Modified:</strong> <code>index.qmd</code>, <code>images/canvit-wordmark.svg</code>, rendered <code>docs/</code> (commits <code>canvit</code>).</li>
+<li><strong>Iteration (2026-10-01):</strong> On the live page the trailing logo rendered larger than the text and wrapped onto its own line. The logo now <em>replaces</em> the “CanViT” text link (still linking to the project page), styled <code>display: inline; height: 1em; width: auto; vertical-align: -0.1em</code> so it sits on the text baseline at text height. Files: <code>index.qmd</code>, rendered <code>docs/</code> (not yet committed).</li>
 </ul>
 
 
