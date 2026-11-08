@@ -39,6 +39,8 @@ output:
 
 #### Output from m2b3 lab members continuing/completing prior or independent work.
 
+* FoAViS: Analyzing Learned Fixation Strategies in a Foveated Active Vision System. Hassler, V., Henrich, J., *Berreby, Y.-E.*, Zhu, H., Ecker, A. [arXiv, 2026](https://arxiv.org/abs/2610.41987).
+
 * Mapping the Garden of Forking Paths in Multilevel Models. Shaw, M., Berge, C., *Pruss, A.*, Flake, J. K. [Multivariate Behavioral Research, 2025, 60(1), 25](https://doi.org/10.1080/00273171.2025.2443366).
 
 * Irrational choices via a curvilinear representational geometry for value. *Jurewicz, K.*, Sleezer, B. J., Mehta, P. S., Hayden, B. Y., Ebitz, R. B. [Nature Communications, 2024, 15, 6424](https://doi.org/10.1038/s41467-024-49568-4).

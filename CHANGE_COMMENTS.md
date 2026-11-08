@@ -31,3 +31,11 @@
 - **Result:** The CanViT link is visible on desktop and touch screens, and every news item about a manuscript now links to the correct version.
 - **Files Modified:** `index.qmd`, `styles.css`, rendered `docs/` (not yet committed).
 - **Iteration (2026-10-01):** Replaced the "(project page ↗)" text cue with a bare ↗ arrow directly after the logo. The "project page" wording now lives only in the arrow's tooltip and `aria-label`. Files: `index.qmd`, `styles.css`, rendered `docs/`.
+
+## 2026-11-08 — FoAViS independent-work citation
+
+- **Problem:** FoAViS was missing from the independent-work list.
+- **Root Cause:** The new arXiv preprint had not yet been added.
+- **Solution:** Codex added the verified title, authors, year, and arXiv link, matching existing citation formatting and italicizing the lab member.
+- **Result:** The independent-work list now includes FoAViS.
+- **Files Modified:** `output.qmd`, `CHANGE_COMMENTS.md` (not yet committed).
